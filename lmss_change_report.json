@@ -1,0 +1,22 @@
+{
+  "base_ref": "main",
+  "head_ref": "draft",
+  "generated_at": "2026-01-03T04:09:21.565082Z",
+  "summary": {
+    "added_nodes": 0,
+    "removed_nodes": 0,
+    "label_changed": 1,
+    "deprecated_changed": 0,
+    "parent_changed": 0
+  },
+  "added": [],
+  "label_changed": [
+    {
+      "iri": "http://lmss.sali.org/R8ChCxhVnJMczYDKPYrqmXo",
+      "old": "Appropriations Practice",
+      "new": "Appropriations Practice - DA test"
+    }
+  ],
+  "deprecated_changed": [],
+  "parent_changed": []
+}
