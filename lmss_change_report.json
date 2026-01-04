@@ -1,11 +1,11 @@
 {
   "base_ref": "main",
   "head_ref": "draft",
-  "generated_at": "2026-01-03T04:09:21.565082Z",
+  "generated_at": "2026-01-04T15:17:12.727564Z",
   "summary": {
     "added_nodes": 0,
     "removed_nodes": 0,
-    "label_changed": 1,
+    "label_changed": 2,
     "deprecated_changed": 0,
     "parent_changed": 0
   },
@@ -15,6 +15,11 @@
       "iri": "http://lmss.sali.org/R8ChCxhVnJMczYDKPYrqmXo",
       "old": "Appropriations Practice",
       "new": "Appropriations Practice - DA test"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9zgcjBBIdWMnwIR8nqsoS8",
+      "old": "Mediation Practice",
+      "new": "Mediation Practice DA Test 3"
     }
   ],
   "deprecated_changed": [],
