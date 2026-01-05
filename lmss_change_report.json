@@ -1,15 +1,22 @@
 {
   "base_ref": "main",
   "head_ref": "draft",
-  "generated_at": "2026-01-05T14:50:22.188201Z",
+  "generated_at": "2026-01-05T15:01:53.540761Z",
   "summary": {
-    "added_nodes": 2,
+    "added_nodes": 3,
     "removed_nodes": 0,
     "label_changed": 6,
     "deprecated_changed": 1,
     "parent_changed": 0
   },
   "added": [
+    {
+      "iri": "http://lmss.sali.org/34b63ead-28af-41e4-9732-a9e509c87a2a",
+      "label": "Grass Roots child add DA test 4",
+      "parents": [
+        "http://lmss.sali.org/R8sIipxJfqJ8ILg1TS3HBY9"
+      ]
+    },
     {
       "iri": "http://lmss.sali.org/a9cbfd93-4688-4c80-9589-4ff232f51dc7",
       "label": "Demand Letter child add DA test 3",
