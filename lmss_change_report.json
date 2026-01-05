@@ -1,26 +1,16 @@
 {
   "base_ref": "main",
   "head_ref": "draft",
-  "generated_at": "2026-01-05T13:05:12.439177Z",
+  "generated_at": "2026-01-05T14:02:42.390934Z",
   "summary": {
     "added_nodes": 0,
     "removed_nodes": 0,
-    "label_changed": 4,
+    "label_changed": 5,
     "deprecated_changed": 0,
     "parent_changed": 0
   },
   "added": [],
   "label_changed": [
-    {
-      "iri": "http://lmss.sali.org/R8ChCxhVnJMczYDKPYrqmXo",
-      "old": "Appropriations Practice",
-      "new": "Appropriations Practice - DA test"
-    },
-    {
-      "iri": "http://lmss.sali.org/R9zgcjBBIdWMnwIR8nqsoS8",
-      "old": "Mediation Practice",
-      "new": "Mediation Practice DA Test 3"
-    },
     {
       "iri": "http://lmss.sali.org/R72zJcnCUrIT6kYZ7WZUulT",
       "old": "Tax Audit Practice",
@@ -30,6 +20,21 @@
       "iri": "http://lmss.sali.org/RBrjry4X0Uiy3k5OKO9WxxD",
       "old": "Inquiry Practice",
       "new": "Inquiry Practice - DA edit test 5"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9zgcjBBIdWMnwIR8nqsoS8",
+      "old": "Mediation Practice",
+      "new": "Mediation Practice DA Test 3"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9Q4kB7yGIbUD9aMTcdvOG6",
+      "old": "Fund Formation Practice",
+      "new": "Fund Formation Practice - DA test 6"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8ChCxhVnJMczYDKPYrqmXo",
+      "old": "Appropriations Practice",
+      "new": "Appropriations Practice - DA test"
     }
   ],
   "deprecated_changed": [],
