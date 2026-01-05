@@ -1,15 +1,22 @@
 {
   "base_ref": "main",
   "head_ref": "draft",
-  "generated_at": "2026-01-05T15:15:01.426011Z",
+  "generated_at": "2026-01-05T15:17:43.844284Z",
   "summary": {
-    "added_nodes": 2,
+    "added_nodes": 3,
     "removed_nodes": 0,
     "label_changed": 8,
     "deprecated_changed": 1,
     "parent_changed": 0
   },
   "added": [
+    {
+      "iri": "http://lmss.sali.org/8c6f5616-81d2-4b39-a63e-8a808574aca2",
+      "label": "DA test new child 8 on Mediation Practice",
+      "parents": [
+        "http://lmss.sali.org/R9zgcjBBIdWMnwIR8nqsoS8"
+      ]
+    },
     {
       "iri": "http://lmss.sali.org/a9cbfd93-4688-4c80-9589-4ff232f51dc7",
       "label": "Demand Letter child add DA test 3",
