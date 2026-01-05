@@ -1,35 +1,38 @@
 {
   "base_ref": "main",
   "head_ref": "draft",
-  "generated_at": "2026-01-05T14:11:55.289632Z",
+  "generated_at": "2026-01-05T14:27:15.838772Z",
   "summary": {
-    "added_nodes": 0,
+    "added_nodes": 1,
     "removed_nodes": 0,
     "label_changed": 6,
     "deprecated_changed": 1,
     "parent_changed": 0
   },
-  "added": [],
-  "label_changed": [
+  "added": [
     {
-      "iri": "http://lmss.sali.org/R72zJcnCUrIT6kYZ7WZUulT",
-      "old": "Tax Audit Practice",
-      "new": "Tax Audit Practice - DA edit test 4"
-    },
+      "iri": "http://lmss.sali.org/ba1358b4-8ff8-4d6d-b655-a72d597108ee",
+      "label": "Manuals Practice DA Add Child test 1",
+      "parents": [
+        "http://lmss.sali.org/R8MAmTBc82xZT9VaEycbDqC"
+      ]
+    }
+  ],
+  "label_changed": [
     {
       "iri": "http://lmss.sali.org/RBrjry4X0Uiy3k5OKO9WxxD",
       "old": "Inquiry Practice",
       "new": "Inquiry Practice - DA edit test 5"
     },
     {
-      "iri": "http://lmss.sali.org/R9zgcjBBIdWMnwIR8nqsoS8",
-      "old": "Mediation Practice",
-      "new": "Mediation Practice DA Test 3"
-    },
-    {
       "iri": "http://lmss.sali.org/R9Q4kB7yGIbUD9aMTcdvOG6",
       "old": "Fund Formation Practice",
       "new": "Fund Formation Practice - DA test 6"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9zgcjBBIdWMnwIR8nqsoS8",
+      "old": "Mediation Practice",
+      "new": "Mediation Practice DA Test 3"
     },
     {
       "iri": "http://lmss.sali.org/R8ChCxhVnJMczYDKPYrqmXo",
@@ -40,11 +43,17 @@
       "iri": "http://lmss.sali.org/R7i00MVak7HQPsePKrHq2WF",
       "old": "Lease Practice",
       "new": "Lease Practice - DA test edit 7"
+    },
+    {
+      "iri": "http://lmss.sali.org/R72zJcnCUrIT6kYZ7WZUulT",
+      "old": "Tax Audit Practice",
+      "new": "Tax Audit Practice - DA edit test 4"
     }
   ],
   "deprecated_changed": [
     {
       "iri": "http://lmss.sali.org/RC9MyQokqi26lix0igSUuVQ",
+      "label": "Private Placement Practice",
       "old": false,
       "new": true
     }
