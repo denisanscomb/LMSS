@@ -1,22 +1,15 @@
 {
   "base_ref": "main",
   "head_ref": "draft",
-  "generated_at": "2026-01-05T15:01:53.540761Z",
+  "generated_at": "2026-01-05T15:06:16.503652Z",
   "summary": {
-    "added_nodes": 3,
+    "added_nodes": 2,
     "removed_nodes": 0,
-    "label_changed": 6,
+    "label_changed": 7,
     "deprecated_changed": 1,
     "parent_changed": 0
   },
   "added": [
-    {
-      "iri": "http://lmss.sali.org/34b63ead-28af-41e4-9732-a9e509c87a2a",
-      "label": "Grass Roots child add DA test 4",
-      "parents": [
-        "http://lmss.sali.org/R8sIipxJfqJ8ILg1TS3HBY9"
-      ]
-    },
     {
       "iri": "http://lmss.sali.org/a9cbfd93-4688-4c80-9589-4ff232f51dc7",
       "label": "Demand Letter child add DA test 3",
@@ -57,6 +50,11 @@
       "iri": "http://lmss.sali.org/R7i00MVak7HQPsePKrHq2WF",
       "old": "Lease Practice",
       "new": "Lease Practice - DA test edit 7"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9lIayMMbGtBfT0O6Gmf2p7",
+      "old": "Sales Tax Practice",
+      "new": "Sales Tax Practice - DA edit 7"
     },
     {
       "iri": "http://lmss.sali.org/R72zJcnCUrIT6kYZ7WZUulT",
