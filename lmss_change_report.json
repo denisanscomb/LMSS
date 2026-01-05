@@ -1,11 +1,11 @@
 {
   "base_ref": "main",
   "head_ref": "draft",
-  "generated_at": "2026-01-05T14:02:42.390934Z",
+  "generated_at": "2026-01-05T14:08:09.595424Z",
   "summary": {
     "added_nodes": 0,
     "removed_nodes": 0,
-    "label_changed": 5,
+    "label_changed": 6,
     "deprecated_changed": 0,
     "parent_changed": 0
   },
@@ -35,6 +35,11 @@
       "iri": "http://lmss.sali.org/R8ChCxhVnJMczYDKPYrqmXo",
       "old": "Appropriations Practice",
       "new": "Appropriations Practice - DA test"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7i00MVak7HQPsePKrHq2WF",
+      "old": "Lease Practice",
+      "new": "Lease Practice - DA test edit 7"
     }
   ],
   "deprecated_changed": [],
