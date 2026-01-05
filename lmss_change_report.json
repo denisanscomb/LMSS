@@ -1,12 +1,12 @@
 {
   "base_ref": "main",
   "head_ref": "draft",
-  "generated_at": "2026-01-05T14:08:09.595424Z",
+  "generated_at": "2026-01-05T14:11:55.289632Z",
   "summary": {
     "added_nodes": 0,
     "removed_nodes": 0,
     "label_changed": 6,
-    "deprecated_changed": 0,
+    "deprecated_changed": 1,
     "parent_changed": 0
   },
   "added": [],
@@ -42,6 +42,12 @@
       "new": "Lease Practice - DA test edit 7"
     }
   ],
-  "deprecated_changed": [],
+  "deprecated_changed": [
+    {
+      "iri": "http://lmss.sali.org/RC9MyQokqi26lix0igSUuVQ",
+      "old": false,
+      "new": true
+    }
+  ],
   "parent_changed": []
 }
