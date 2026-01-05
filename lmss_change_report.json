@@ -1,9 +1,9 @@
 {
   "base_ref": "main",
   "head_ref": "draft",
-  "generated_at": "2026-01-05T14:27:15.838772Z",
+  "generated_at": "2026-01-05T14:48:13.697011Z",
   "summary": {
-    "added_nodes": 1,
+    "added_nodes": 2,
     "removed_nodes": 0,
     "label_changed": 6,
     "deprecated_changed": 1,
@@ -16,13 +16,20 @@
       "parents": [
         "http://lmss.sali.org/R8MAmTBc82xZT9VaEycbDqC"
       ]
+    },
+    {
+      "iri": "http://lmss.sali.org/bbc8fff0-1d2e-46ab-ac19-4118c26fe060",
+      "label": "op memo DA add Child test 2",
+      "parents": [
+        "http://lmss.sali.org/R8Gc3Ce7YAbKZLOUs4pCQuA"
+      ]
     }
   ],
   "label_changed": [
     {
-      "iri": "http://lmss.sali.org/RBrjry4X0Uiy3k5OKO9WxxD",
-      "old": "Inquiry Practice",
-      "new": "Inquiry Practice - DA edit test 5"
+      "iri": "http://lmss.sali.org/R8ChCxhVnJMczYDKPYrqmXo",
+      "old": "Appropriations Practice",
+      "new": "Appropriations Practice - DA test"
     },
     {
       "iri": "http://lmss.sali.org/R9Q4kB7yGIbUD9aMTcdvOG6",
@@ -30,14 +37,14 @@
       "new": "Fund Formation Practice - DA test 6"
     },
     {
+      "iri": "http://lmss.sali.org/RBrjry4X0Uiy3k5OKO9WxxD",
+      "old": "Inquiry Practice",
+      "new": "Inquiry Practice - DA edit test 5"
+    },
+    {
       "iri": "http://lmss.sali.org/R9zgcjBBIdWMnwIR8nqsoS8",
       "old": "Mediation Practice",
       "new": "Mediation Practice DA Test 3"
-    },
-    {
-      "iri": "http://lmss.sali.org/R8ChCxhVnJMczYDKPYrqmXo",
-      "old": "Appropriations Practice",
-      "new": "Appropriations Practice - DA test"
     },
     {
       "iri": "http://lmss.sali.org/R7i00MVak7HQPsePKrHq2WF",
