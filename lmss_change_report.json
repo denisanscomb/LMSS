@@ -1,11 +1,11 @@
 {
   "base_ref": "main",
   "head_ref": "draft",
-  "generated_at": "2026-01-05T15:06:16.503652Z",
+  "generated_at": "2026-01-05T15:15:01.426011Z",
   "summary": {
     "added_nodes": 2,
     "removed_nodes": 0,
-    "label_changed": 7,
+    "label_changed": 8,
     "deprecated_changed": 1,
     "parent_changed": 0
   },
@@ -60,6 +60,11 @@
       "iri": "http://lmss.sali.org/R72zJcnCUrIT6kYZ7WZUulT",
       "old": "Tax Audit Practice",
       "new": "Tax Audit Practice - DA edit test 4"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8owgv1EH7cRMY6LFgcBD2a",
+      "old": "Foreign Direct Investment Review",
+      "new": "Foreign Direct Investment Review - DA test add 8"
     }
   ],
   "deprecated_changed": [
