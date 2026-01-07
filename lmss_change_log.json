@@ -29,8 +29,16 @@
       "new": true,
       "reason": "da test v3.4",
       "timestamp": "2026-01-07T13:38:38.081439"
+    },
+    {
+      "iri": "http://lmss.sali.org/R81q0MYebZZv26XtzcIvVJ5",
+      "label": "Disability Public Benefit",
+      "old": false,
+      "new": true,
+      "reason": "da testing what happens to child",
+      "timestamp": "2026-01-07T15:18:38.317455"
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-07T13:38:38.081450"
+  "last_updated": "2026-01-07T15:18:38.317466"
 }
