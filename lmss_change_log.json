@@ -1,5 +1,12 @@
 {
-  "added": [],
+  "added": [
+    {
+      "iri": "http://lmss.sali.org/fdbe9665-79b1-4947-9613-a615541f6763",
+      "label": "crisis child da v3.2",
+      "parent_iri": "http://lmss.sali.org/RB8sJgJULV5fZr0pI7KVHHJ",
+      "timestamp": "2026-01-07T13:19:51.568405"
+    }
+  ],
   "label_changed": [
     {
       "iri": "http://lmss.sali.org/R8sIipxJfqJ8ILg1TS3HBY9",
@@ -10,5 +17,5 @@
   ],
   "deprecated_changed": [],
   "parent_changed": [],
-  "last_updated": "2026-01-07T12:40:02.547873"
+  "last_updated": "2026-01-07T13:19:51.568420"
 }
