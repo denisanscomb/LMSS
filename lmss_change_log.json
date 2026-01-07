@@ -21,7 +21,16 @@
       "timestamp": "2026-01-07T12:40:02.547836"
     }
   ],
-  "deprecated_changed": [],
+  "deprecated_changed": [
+    {
+      "iri": "http://lmss.sali.org/R9Ja1m4FrybHKTH0BWbqz5M",
+      "label": "Income Tax Practice",
+      "old": false,
+      "new": true,
+      "reason": "da test v3.4",
+      "timestamp": "2026-01-07T13:38:38.081439"
+    }
+  ],
   "parent_changed": [],
-  "last_updated": "2026-01-07T13:34:35.913544"
+  "last_updated": "2026-01-07T13:38:38.081450"
 }
