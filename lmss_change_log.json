@@ -93,8 +93,16 @@
       "new": true,
       "reason": "da test v5.1",
       "timestamp": "2026-01-08T16:27:15.456649"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9Ja1m4FrybHKTH0BWbqz5M",
+      "label": "Income Tax Practice",
+      "old": false,
+      "new": true,
+      "reason": "da test v6.1",
+      "timestamp": "2026-01-08T16:36:37.130489"
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-08T16:27:15.456653"
+  "last_updated": "2026-01-08T16:36:37.130502"
 }
