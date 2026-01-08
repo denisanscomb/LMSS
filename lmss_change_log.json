@@ -37,8 +37,16 @@
       "new": true,
       "reason": "da testing what happens to child",
       "timestamp": "2026-01-07T15:18:38.317455"
+    },
+    {
+      "iri": "http://lmss.sali.org/RLIW6W1ctClGqwD8mjbMeQ",
+      "label": "Real Estate Zoning Modifications",
+      "old": false,
+      "new": true,
+      "reason": "da test 4.1 delete node",
+      "timestamp": "2026-01-08T16:03:44.782393"
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-07T15:18:38.317466"
+  "last_updated": "2026-01-08T16:03:44.782404"
 }
