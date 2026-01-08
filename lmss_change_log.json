@@ -141,8 +141,24 @@
       "new": true,
       "reason": "da test 5.4",
       "timestamp": "2026-01-08T16:39:25.832339"
+    },
+    {
+      "iri": "http://lmss.sali.org/R81n0uoiTFQMwwdzAskqkZD",
+      "label": "Business Development Management",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-08T17:28:49.674364"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8BEkQEsf34QC1E4ixz1dn",
+      "label": "Competitive Intelligence Management",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-08T17:28:49.674460"
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-08T16:39:25.832343"
+  "last_updated": "2026-01-08T17:28:49.674464"
 }
