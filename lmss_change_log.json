@@ -45,8 +45,32 @@
       "new": true,
       "reason": "da test 4.1 delete node",
       "timestamp": "2026-01-08T16:03:44.782393"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDbPxkhMd0cybxwkTWi9a9z",
+      "label": "US Chapter 11 - Small Business Debtors",
+      "old": false,
+      "new": true,
+      "reason": "da test v4.2",
+      "timestamp": "2026-01-08T16:06:46.264360"
+    },
+    {
+      "iri": "http://lmss.sali.org/RE5Fc26D4606fC0Cd7664845",
+      "label": "US Chapter 11 Bankruptcy",
+      "old": false,
+      "new": true,
+      "reason": "da test v4.2",
+      "timestamp": "2026-01-08T16:06:46.264463"
+    },
+    {
+      "iri": "http://lmss.sali.org/R83QnoAqN0L3ZwdIijon5Qc",
+      "label": "US Chapter 11 Bankruptcy - Streamlined",
+      "old": false,
+      "new": true,
+      "reason": "da test v4.2",
+      "timestamp": "2026-01-08T16:06:46.264542"
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-08T16:03:44.782404"
+  "last_updated": "2026-01-08T16:06:46.264547"
 }
