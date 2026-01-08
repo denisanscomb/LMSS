@@ -69,8 +69,32 @@
       "new": true,
       "reason": "da test v4.2",
       "timestamp": "2026-01-08T16:06:46.264542"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDSG9aHXNov7sdCs9DTDeOg",
+      "label": "Subpoena Assertion Practice",
+      "old": false,
+      "new": true,
+      "reason": "da test v5.1",
+      "timestamp": "2026-01-08T16:27:15.456468"
+    },
+    {
+      "iri": "http://lmss.sali.org/RD1IAqtZI0MEOlfuXXH1nqm",
+      "label": "Subpoena Response Practice",
+      "old": false,
+      "new": true,
+      "reason": "da test v5.1",
+      "timestamp": "2026-01-08T16:27:15.456570"
+    },
+    {
+      "iri": "http://lmss.sali.org/R80siJPXjd4LMy5bd0HwEf4",
+      "label": "Subpoena Practice",
+      "old": false,
+      "new": true,
+      "reason": "da test v5.1",
+      "timestamp": "2026-01-08T16:27:15.456649"
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-08T16:06:46.264547"
+  "last_updated": "2026-01-08T16:27:15.456653"
 }
