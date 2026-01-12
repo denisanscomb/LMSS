@@ -209,8 +209,40 @@
       "new": true,
       "reason": "dsa test 8.1",
       "timestamp": "2026-01-12T08:22:46.369857"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDpPBwLDFWEwrDVvvUxw30e",
+      "label": "Wind Power Law",
+      "old": false,
+      "new": true,
+      "reason": "dsa test 11.1",
+      "timestamp": "2026-01-12T09:28:17.686680"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCffqbwcN8QwWQIUHJozIsi",
+      "label": "Hydroelectric Energy Law",
+      "old": false,
+      "new": true,
+      "reason": "dsa test 11.1",
+      "timestamp": "2026-01-12T09:28:17.686775"
+    },
+    {
+      "iri": "http://lmss.sali.org/R84OEP4CfOdocUXySLymitN",
+      "label": "Renewable Energy Law",
+      "old": false,
+      "new": true,
+      "reason": "dsa test 11.1",
+      "timestamp": "2026-01-12T09:28:17.686855"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7f8i0ie2AwFgK2kuta06pl",
+      "label": "Solar Energy Law",
+      "old": false,
+      "new": true,
+      "reason": "dsa test 11.1",
+      "timestamp": "2026-01-12T09:28:17.686918"
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-12T09:18:22.628596"
+  "last_updated": "2026-01-12T09:28:17.686921"
 }
