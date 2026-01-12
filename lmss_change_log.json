@@ -23,6 +23,12 @@
       "label": "banana law - da v7.2",
       "parent_iri": "http://lmss.sali.org/R9Q0CDspQRVH8CNYIeLKiYk",
       "timestamp": "2026-01-12T07:59:51.403671"
+    },
+    {
+      "iri": "http://lmss.sali.org/a2f3c1a9-1679-4439-bf90-872632e64731",
+      "label": "da test da 8.2v",
+      "parent_iri": "http://lmss.sali.org/RCeW5YvXStJRALEvcnZo07Q",
+      "timestamp": "2026-01-12T08:30:27.023234"
     }
   ],
   "label_changed": [
@@ -188,5 +194,5 @@
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-12T08:22:46.369868"
+  "last_updated": "2026-01-12T08:30:27.023249"
 }
