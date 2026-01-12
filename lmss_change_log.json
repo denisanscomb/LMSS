@@ -241,8 +241,16 @@
       "new": true,
       "reason": "dsa test 11.1",
       "timestamp": "2026-01-12T09:28:17.686918"
+    },
+    {
+      "iri": "http://lmss.sali.org/R79WNFd9w49QaDgGyJg4j6k",
+      "label": "Indigenous People's Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-12T09:44:19.334708"
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-12T09:28:17.686921"
+  "last_updated": "2026-01-12T09:44:19.334725"
 }
