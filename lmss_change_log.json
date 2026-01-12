@@ -249,8 +249,16 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-01-12T09:44:19.334708"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7AZDPzUvWWIAOMQZRUAhCT",
+      "label": "BANKRUPTCY Working Group",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-12T17:36:22.135217"
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-12T09:44:19.334725"
+  "last_updated": "2026-01-12T17:36:22.135233"
 }
