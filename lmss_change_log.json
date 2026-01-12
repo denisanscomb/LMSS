@@ -35,6 +35,12 @@
       "label": "hostile takeovers da 9.1",
       "parent_iri": "http://lmss.sali.org/RD0qGHeWoQmYfyZgpSOgFcG",
       "timestamp": "2026-01-12T08:48:42.897145"
+    },
+    {
+      "iri": "http://lmss.sali.org/57f9f7a1-8d82-4a15-91af-28dfa2f22916",
+      "label": "startup org law da v9.3",
+      "parent_iri": "http://lmss.sali.org/R8AC0Iq3zua7VGgBd0jCBtz",
+      "timestamp": "2026-01-12T08:55:49.466295"
     }
   ],
   "label_changed": [
@@ -200,5 +206,5 @@
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-12T08:48:42.897157"
+  "last_updated": "2026-01-12T08:55:49.466308"
 }
