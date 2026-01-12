@@ -17,6 +17,12 @@
       "label": "Bitcoin da 6.2",
       "parent_iri": "http://lmss.sali.org/RBN9zTYlrd1Dt84iS3QO5fp",
       "timestamp": "2026-01-12T07:39:49.821745"
+    },
+    {
+      "iri": "http://lmss.sali.org/2562cff0-3c88-40f5-830c-f6bde29c969d",
+      "label": "banana law - da v7.2",
+      "parent_iri": "http://lmss.sali.org/R9Q0CDspQRVH8CNYIeLKiYk",
+      "timestamp": "2026-01-12T07:59:51.403671"
     }
   ],
   "label_changed": [
@@ -174,5 +180,5 @@
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-12T07:58:57.227681"
+  "last_updated": "2026-01-12T07:59:51.403682"
 }
