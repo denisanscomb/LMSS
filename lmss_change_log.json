@@ -177,8 +177,16 @@
       "new": true,
       "reason": "da 7.1",
       "timestamp": "2026-01-12T07:58:57.227666"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8hJCf4Ih6iuFXsxeK7e6zU",
+      "label": "Privacy Law",
+      "old": false,
+      "new": true,
+      "reason": "dsa test 8.1",
+      "timestamp": "2026-01-12T08:22:46.369857"
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-12T07:59:51.403682"
+  "last_updated": "2026-01-12T08:22:46.369868"
 }
