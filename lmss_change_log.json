@@ -29,6 +29,12 @@
       "label": "da test da 8.2v",
       "parent_iri": "http://lmss.sali.org/RCeW5YvXStJRALEvcnZo07Q",
       "timestamp": "2026-01-12T08:30:27.023234"
+    },
+    {
+      "iri": "http://lmss.sali.org/a208b7fc-79e7-4864-93ee-ca3a8a988621",
+      "label": "hostile takeovers da 9.1",
+      "parent_iri": "http://lmss.sali.org/RD0qGHeWoQmYfyZgpSOgFcG",
+      "timestamp": "2026-01-12T08:48:42.897145"
     }
   ],
   "label_changed": [
@@ -194,5 +200,5 @@
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-12T08:30:27.023249"
+  "last_updated": "2026-01-12T08:48:42.897157"
 }
