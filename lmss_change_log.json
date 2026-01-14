@@ -257,8 +257,16 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-01-12T17:36:22.135217"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCmIM6GP1xPJwiziBiODaKh",
+      "label": "Matter Closure",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:03:08.608181"
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-12T17:36:22.135233"
+  "last_updated": "2026-01-14T00:03:08.608194"
 }
