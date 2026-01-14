@@ -265,8 +265,368 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-01-14T00:03:08.608181"
+    },
+    {
+      "iri": "http://lmss.sali.org/R795I9ybqUdayMEcSmyDrG6",
+      "label": "Behavioral Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207097"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7KxYUBMSAuzPHdBhWfPSv7",
+      "label": "Demographic Market Segments",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207169"
+    },
+    {
+      "iri": "http://lmss.sali.org/Rt7y5QJoXmShB4OEPQ8Ysl",
+      "label": "Nutrition Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207214"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9iRnRKt4gpWCVseCWJ4b9J",
+      "label": "Family & Parenting Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207262"
+    },
+    {
+      "iri": "http://lmss.sali.org/RByGvgH3E8rfhu43RVq0kPU",
+      "label": "Male Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207304"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCC6FvCiFeSijk47glfD3ZX",
+      "label": "Marriage Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207344"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8Tktpdf3HuYd3nI7nf9xQU",
+      "label": "Psychographic Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207388"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBYjEVQYN2eWNPHqVk6LlZu",
+      "label": "Fitness & Exercise Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207427"
+    },
+    {
+      "iri": "http://lmss.sali.org/R93IYJCdKr3BoQolxyKNTC8",
+      "label": "Urban Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207466"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDxg2CDlW3pNJJnGPSyowk9",
+      "label": "Tech Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207561"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8A0lCUdGrKUCB0nu0VfLzI",
+      "label": "Mass Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207610"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7z0ey8ZMeOT1q01VNPe1HY",
+      "label": "Geographic Market Segments",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207658"
+    },
+    {
+      "iri": "http://lmss.sali.org/RtGO7nVUVQhovRrhewzPBk",
+      "label": "International Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207697"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBdvVmVo4DBFTBGCs5es5gp",
+      "label": "Temperate Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207735"
+    },
+    {
+      "iri": "http://lmss.sali.org/RQbVKPVl5dj5nW6aXoNxx4",
+      "label": "Price-Based Market Segments",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207773"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDKZpAgUjHtS3sp8YcGMkq7",
+      "label": "Teen Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207816"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCO0bQHRPXZEgZEAXRIi8PM",
+      "label": "Rural Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207853"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBguYnVVl5fmAxjW2p0fNkw",
+      "label": "Luxury Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207894"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9G3uvBhP5zhLlE1HcCXcKP",
+      "label": "LGBTQ+ Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207933"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDN8CVqeiDlOeHJO8Oeltq6",
+      "label": "Climate-Based Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.207969"
+    },
+    {
+      "iri": "http://lmss.sali.org/R85PmuqV6ngjn65DDOJI1Di",
+      "label": "Senior Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208010"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDxqUPyVGJl2FrNLqMtaaPs",
+      "label": "Children's Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208050"
+    },
+    {
+      "iri": "http://lmss.sali.org/RIPGUOqov5ujn1dMUQF7sZ",
+      "label": "Suburban Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208086"
+    },
+    {
+      "iri": "http://lmss.sali.org/R0cUTmr54fU7MnCdySv1jM",
+      "label": "Tropical Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208123"
+    },
+    {
+      "iri": "http://lmss.sali.org/RChyLUYm0W5R3E1yQl08Id9",
+      "label": "Female Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208158"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8UG79BtYP2uqnKNklLYXB8",
+      "label": "Market Segment Attributes",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208195"
+    },
+    {
+      "iri": "http://lmss.sali.org/RNw3wCvXyyjEPknfOpicmf",
+      "label": "Relationship-Based Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208229"
+    },
+    {
+      "iri": "http://lmss.sali.org/RC72SJzYRuFThLlcHVREnc2",
+      "label": "Weddings Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208266"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7g7orVXBD7PBoQArPcDYsz",
+      "label": "Organic Products Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208300"
+    },
+    {
+      "iri": "http://lmss.sali.org/RZ6hoxQD6Sa9Hi4bnv1jgC",
+      "label": "Age-Based Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208335"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7hEm2ZU1e25I6TtEDbo9xI",
+      "label": "Dating Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208370"
+    },
+    {
+      "iri": "http://lmss.sali.org/RjlqATUhoynMsnhAf0Wdcs",
+      "label": "National Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208411"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDdLo2isiJ66JtQdLPnEOOr",
+      "label": "Hobbies Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208449"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBxgbh59bC7QKQ5Bq8NobJH",
+      "label": "Sustainable Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208485"
+    },
+    {
+      "iri": "http://lmss.sali.org/RPRRa6kLRgNUtQnRPgQmZ2",
+      "label": "Religious Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208563"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9WwJXvFm2I5juWSGCuGnA3",
+      "label": "Arid Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208611"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBXoCwCeY64Ow60nWKSZCC",
+      "label": "Health-Conscious Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208646"
+    },
+    {
+      "iri": "http://lmss.sali.org/RVu433XojPQPseoDXhidgO",
+      "label": "Population Density Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208682"
+    },
+    {
+      "iri": "http://lmss.sali.org/RvUd14Lw1TxYJEBX6IFgY0",
+      "label": "Wellness Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208723"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBhOGxYh9EijLWWwCV5Exce",
+      "label": "Regional Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208761"
+    },
+    {
+      "iri": "http://lmss.sali.org/R85mRFndZGnrtqeakkdM38i",
+      "label": "Budget Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208796"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBSftPgkpTWJ4IzuvXyLBVG",
+      "label": "Territorial Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208831"
+    },
+    {
+      "iri": "http://lmss.sali.org/RwU3GRvqoQYs6Q6rnbA9rQ",
+      "label": "Local Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208873"
+    },
+    {
+      "iri": "http://lmss.sali.org/Raye9wszOl53QEcjEACnQR",
+      "label": "Polar Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208910"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9DCJMzRXnPZMWQqQuPLECx",
+      "label": "Gender-Based Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-14T00:04:17.208946"
     }
   ],
   "parent_changed": [],
-  "last_updated": "2026-01-14T00:03:08.608194"
+  "last_updated": "2026-01-14T00:04:17.208948"
 }
