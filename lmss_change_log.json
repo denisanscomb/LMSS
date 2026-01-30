@@ -144,8 +144,29 @@
         "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV",
         "http://lmss.sali.org/RDb8aZxNJsmCvQGbfiFyfI7"
       ],
-      "timestamp": "2026-01-30T20:07:31.235578"
+      "timestamp": "2026-01-30T20:07:31.235578",
+      "label": "Property Rights and Transactions Law",
+      "old_labels": [
+        "Civil Contract Law",
+        "Contract Law",
+        "Real Property Law"
+      ],
+      "new_labels": [
+        "Contract Law",
+        "Real Property Law"
+      ]
+    },
+    {
+      "iri": "http://lmss.sali.org/RDlMcnPEFzMJer6LE0dJJj9",
+      "old": [
+        "http://lmss.sali.org/R8YijwyycPV6XzUJaud9SB1",
+        "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV"
+      ],
+      "new": [
+        "http://lmss.sali.org/R8YijwyycPV6XzUJaud9SB1"
+      ],
+      "timestamp": "2026-01-30T20:10:11.156295"
     }
   ],
-  "last_updated": "2026-01-30T20:07:31.235593"
+  "last_updated": "2026-01-30T20:10:11.156311"
 }
