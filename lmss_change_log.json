@@ -79,7 +79,17 @@
         "http://lmss.sali.org/R78xJfSMpJ2ZUUUlYdzfUvC",
         "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
       ],
-      "timestamp": "2026-01-30T08:54:11.660112"
+      "timestamp": "2026-01-30T08:54:11.660112",
+      "label": "Employment Contracts Law",
+      "old_labels": [
+        "Canada Variants",
+        "Contract Law",
+        "Labor and Employment Law"
+      ],
+      "new_labels": [
+        "Canada Variants",
+        "Labor and Employment Law"
+      ]
     },
     {
       "iri": "http://lmss.sali.org/RCPtRu7JjCg1Do3DUtQofho",
@@ -90,7 +100,15 @@
       "new": [
         "http://lmss.sali.org/RqNYDJtQ1pAsGPKZNEUlET"
       ],
-      "timestamp": "2026-01-30T09:42:03.251703"
+      "timestamp": "2026-01-30T09:42:03.251703",
+      "label": "Commercial Transactions Law",
+      "old_labels": [
+        "Contract Law",
+        "Commercial and Trade Law"
+      ],
+      "new_labels": [
+        "Commercial and Trade Law"
+      ]
     },
     {
       "iri": "http://lmss.sali.org/RIeTFTPy9Um78489NqJxjn",
@@ -103,8 +121,31 @@
         "http://lmss.sali.org/R78xJfSMpJ2ZUUUlYdzfUvC",
         "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
       ],
-      "timestamp": "2026-01-30T13:32:31.668832"
+      "timestamp": "2026-01-30T13:32:31.668832",
+      "label": "Independent Contractor Law",
+      "old_labels": [
+        "Canada Variants",
+        "Contract Law",
+        "Labor and Employment Law"
+      ],
+      "new_labels": [
+        "Canada Variants",
+        "Labor and Employment Law"
+      ]
+    },
+    {
+      "iri": "http://lmss.sali.org/R7mghrIauk4oJaakhl0B8pU",
+      "old": [
+        "http://lmss.sali.org/RBrUb9V2u6f7iVR1RBNsyB1",
+        "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV",
+        "http://lmss.sali.org/RDb8aZxNJsmCvQGbfiFyfI7"
+      ],
+      "new": [
+        "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV",
+        "http://lmss.sali.org/RDb8aZxNJsmCvQGbfiFyfI7"
+      ],
+      "timestamp": "2026-01-30T20:07:31.235578"
     }
   ],
-  "last_updated": "2026-01-30T13:32:31.668848"
+  "last_updated": "2026-01-30T20:07:31.235593"
 }
