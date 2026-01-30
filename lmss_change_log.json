@@ -165,7 +165,15 @@
       "new": [
         "http://lmss.sali.org/R8YijwyycPV6XzUJaud9SB1"
       ],
-      "timestamp": "2026-01-30T20:10:11.156295"
+      "timestamp": "2026-01-30T20:10:11.156295",
+      "label": "Government Contracts Law",
+      "old_labels": [
+        "Public and Administrative Law",
+        "Contract Law"
+      ],
+      "new_labels": [
+        "Public and Administrative Law"
+      ]
     },
     {
       "iri": "http://lmss.sali.org/R7mghrIauk4oJaakhl0B8pU",
@@ -178,8 +186,29 @@
         "http://lmss.sali.org/RBrUb9V2u6f7iVR1RBNsyB1",
         "http://lmss.sali.org/RDb8aZxNJsmCvQGbfiFyfI7"
       ],
-      "timestamp": "2026-01-30T20:10:54.625054"
+      "timestamp": "2026-01-30T20:10:54.625054",
+      "label": "Property Rights and Transactions Law",
+      "old_labels": [
+        "Civil Contract Law",
+        "Contract Law",
+        "Real Property Law"
+      ],
+      "new_labels": [
+        "Civil Contract Law",
+        "Real Property Law"
+      ]
+    },
+    {
+      "iri": "http://lmss.sali.org/R7mghrIauk4oJaakhl0B8pU",
+      "old": [
+        "http://lmss.sali.org/RBrUb9V2u6f7iVR1RBNsyB1",
+        "http://lmss.sali.org/RDb8aZxNJsmCvQGbfiFyfI7"
+      ],
+      "new": [
+        "http://lmss.sali.org/RDb8aZxNJsmCvQGbfiFyfI7"
+      ],
+      "timestamp": "2026-01-30T20:49:17.700688"
     }
   ],
-  "last_updated": "2026-01-30T20:10:54.625068"
+  "last_updated": "2026-01-30T20:49:17.700702"
 }
