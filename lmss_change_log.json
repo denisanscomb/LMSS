@@ -1,0 +1,72 @@
+{
+  "added": [],
+  "label_changed": [],
+  "deprecated_changed": [
+    {
+      "iri": "http://lmss.sali.org/RyeqviATd4YRSAiT6TX6qn",
+      "label": "Buddhist Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-30T08:47:49.680983"
+    },
+    {
+      "iri": "http://lmss.sali.org/Rlbq3SekJ58WQwzlThYFtY",
+      "label": "Hindu Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-30T08:47:49.681067"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9Mw0y1sYeTkDl6Po3b4ViW",
+      "label": "Islamic Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-30T08:47:49.681123"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBxjnpn5QHodww4lTfXSviX",
+      "label": "Indigenous and Tribal Religious Laws",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-30T08:47:49.681180"
+    },
+    {
+      "iri": "http://lmss.sali.org/RNkV7LzvMYADIWekkjtwo9",
+      "label": "Sikh Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-30T08:47:49.681222"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i",
+      "label": "Religious Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-30T08:47:49.681265"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCgMu5ynvcgBz5w6ozBAgRO",
+      "label": "Canon Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-30T08:47:49.681304"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9OVvZrP50aExKprI0es912",
+      "label": "Jewish Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-01-30T08:47:49.681343"
+    }
+  ],
+  "parent_changed": [],
+  "last_updated": "2026-01-30T08:47:49.681345"
+}
