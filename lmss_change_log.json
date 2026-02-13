@@ -81,6 +81,14 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-02-11T14:46:50.266897"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7mPsut1F9ySs0TTroC9g2T",
+      "label": "Key Performance Indicator",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-13T17:28:44.499927"
     }
   ],
   "parent_changed": [
@@ -253,5 +261,5 @@
       ]
     }
   ],
-  "last_updated": "2026-02-11T14:46:50.266907"
+  "last_updated": "2026-02-13T17:28:44.499939"
 }
