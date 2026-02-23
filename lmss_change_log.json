@@ -97,6 +97,94 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-02-23T17:21:58.419270"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8V9Ma3IrggNq0pxeXl8Re5",
+      "label": "Payment Modality",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-23T17:22:27.521515"
+    },
+    {
+      "iri": "http://lmss.sali.org/R54wZIS4Qj7j9089Oe2xh5",
+      "label": "Check Payment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-23T17:22:27.521583"
+    },
+    {
+      "iri": "http://lmss.sali.org/Rrt9KJEwo6Yz8wbXcaZL3i",
+      "label": "Debit Card Payment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-23T17:22:27.521643"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9Yin9d0YtF1BoKEXRjcCo7",
+      "label": "Mobile Payment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-23T17:22:27.521686"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDO3UKXcvzCX1v6RIJEbhiy",
+      "label": "Wire Transfer",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-23T17:22:27.521726"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9EPT10SufbUlTqTjD85mSZ",
+      "label": "Credit Card Payment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-23T17:22:27.521780"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCfQRpRfV3qAA0eRlZOvCGB",
+      "label": "Money Order Payment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-23T17:22:27.521859"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCZ6fXRHbuqgdaGFajrrcVk",
+      "label": "Direct Deposit",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-23T17:22:27.521909"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8WOVQCUTOW5HHWHyLyC0Gn",
+      "label": "Blockchain",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-23T17:22:27.521963"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCZcYRC2pCgLbf00ULCGqd4",
+      "label": "Cash Payment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-23T17:22:27.522023"
+    },
+    {
+      "iri": "http://lmss.sali.org/RD2uL5bdttlZDkKgkhk2jS8",
+      "label": "ACH Transfer",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-23T17:22:27.522067"
     }
   ],
   "parent_changed": [
@@ -269,5 +357,5 @@
       ]
     }
   ],
-  "last_updated": "2026-02-23T17:21:58.419287"
+  "last_updated": "2026-02-23T17:22:27.522070"
 }
