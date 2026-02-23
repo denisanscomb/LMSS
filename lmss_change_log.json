@@ -89,6 +89,14 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-02-13T17:28:44.499927"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8o666peng6V5762ClxsX1f",
+      "label": "Operational Efficiency",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-23T17:21:58.419270"
     }
   ],
   "parent_changed": [
@@ -261,5 +269,5 @@
       ]
     }
   ],
-  "last_updated": "2026-02-13T17:28:44.499939"
+  "last_updated": "2026-02-23T17:21:58.419287"
 }
