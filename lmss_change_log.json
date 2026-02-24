@@ -99,6 +99,286 @@
       "timestamp": "2026-02-23T17:21:58.419270"
     },
     {
+      "iri": "http://lmss.sali.org/R8KQ6nS2QG4nNITfi4PTfdK",
+      "label": "Firm Equity Partner",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.616846"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8R9Nh01rABqHHrtndWIJzw",
+      "label": "Firm Knowledge Manager",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.616963"
+    },
+    {
+      "iri": "http://lmss.sali.org/RadAvJ7EdvJm13pHxKGCSa",
+      "label": "Client Relationship Role",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617042"
+    },
+    {
+      "iri": "http://lmss.sali.org/R92FXCsBJUqz45E5MN18GQI",
+      "label": "Year of Law Degree Graduation",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617121"
+    },
+    {
+      "iri": "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8",
+      "label": "Lawyer",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617219"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9Cb2vPDnBbUMQTXMAL5053",
+      "label": "Firm Pricing Personnel",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617267"
+    },
+    {
+      "iri": "http://lmss.sali.org/RQxwZ0byxdnIYBnX6xystH",
+      "label": "Provider Non-Timekeeper Level",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617309"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9SS4ShMrRoDS7ps7dIlyLF",
+      "label": "Summer Associate",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617350"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDZqAEp47Hwg3SOSMpD7lQh",
+      "label": "Firm Partner / Shareholder",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617403"
+    },
+    {
+      "iri": "http://lmss.sali.org/RFDJaDDNdrylbcqYqc3d3R",
+      "label": "Year of Lawyer's Admission to Practice in a Jurisdiction",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617444"
+    },
+    {
+      "iri": "http://lmss.sali.org/Rslx2R4OEGw6tfdMiFvU7K",
+      "label": "Public Defender",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617483"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCIQtHHdQl861KZaBklud18",
+      "label": "Provider Timekeeper Level",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617522"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9tuIhKlUCKz2ueksbuTsJr",
+      "label": "Firm Accounting Personnel",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617561"
+    },
+    {
+      "iri": "http://lmss.sali.org/Rg0eYCEL8F2mZNzegLGntR",
+      "label": "Firm Administrator",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617599"
+    },
+    {
+      "iri": "http://lmss.sali.org/RChRXRlMt5J5wkUApU4J9zz",
+      "label": "Lawyer's Admission to Practice in a Jurisdiction",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617637"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8aCoZ8sdfYcOOYzh2UkpLW",
+      "label": "Responsible Attorney",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617679"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBoq9SKvBZPLwNnSkQ8TMNn",
+      "label": "Firm Non-Equity Partner",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617719"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7KwjAGH04YXSDBLO1OrlxR",
+      "label": "Librarian",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617756"
+    },
+    {
+      "iri": "http://lmss.sali.org/REPW95B9oVU4oRcfhrwAj0",
+      "label": "Originating Attorney",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617797"
+    },
+    {
+      "iri": "http://lmss.sali.org/RS1dtoXTwsMZcmQ5NiyvLT",
+      "label": "Protection and Advocacy Attorney",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617834"
+    },
+    {
+      "iri": "http://lmss.sali.org/RkTW6noLv5Ycc4Hxw7zVZ9",
+      "label": "Firm Marketing Personnel",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617875"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDWrlAT5y1sm1PdlKJzlEwj",
+      "label": "Prosecutor",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617915"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7grtX0SZQxmXO9TE5sdGzE",
+      "label": "Guardian Ad Litem Attorney",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617952"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBYhRNuXhZViZ7pJ1utkcts",
+      "label": "Billing Attorney",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.617994"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCar9tX8a2tLTeQL3XD1XZG",
+      "label": "Legal Aid Attorney",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.618031"
+    },
+    {
+      "iri": "http://lmss.sali.org/RTSiUmV98XcJo4iDnUhMmb",
+      "label": "Paralegal",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.618067"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7tihKK0L440nkLIrRcdCkh",
+      "label": "Provider Level",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.618105"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9tIoV6NSL01NJcZzv2QgzY",
+      "label": "Lawyer's Bar Identifier",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.618142"
+    },
+    {
+      "iri": "http://lmss.sali.org/R4O64EZ9f8sZokT55KBbKr",
+      "label": "Relationship Attorney",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.618256"
+    },
+    {
+      "iri": "http://lmss.sali.org/RFJ69YSKEGMCQh0emzDcu0",
+      "label": "Firm Associate",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.618332"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9WAV8Bcwj9gmehX5hG21qc",
+      "label": "Firm Discovery Personnel",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.618373"
+    },
+    {
+      "iri": "http://lmss.sali.org/RC46y5r2N3zQkebuDscWUlH",
+      "label": "Firm Assistant / Secretary",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.618413"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBu4G0fGR03P9qzzvvp00tK",
+      "label": "Firm Of Counsel",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.618450"
+    },
+    {
+      "iri": "http://lmss.sali.org/RrOlEPl4Uzef7bEh1UpYBb",
+      "label": "Limited License Legal Technician",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.618487"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBZACl2VIIF7KHM9riWyBg7",
+      "label": "Special Counsel",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-24T19:45:37.618546"
+    },
+    {
       "iri": "http://lmss.sali.org/R8V9Ma3IrggNq0pxeXl8Re5",
       "label": "Payment Modality",
       "old": false,
@@ -357,5 +637,5 @@
       ]
     }
   ],
-  "last_updated": "2026-02-23T17:22:27.522070"
+  "last_updated": "2026-02-24T19:45:37.618548"
 }
