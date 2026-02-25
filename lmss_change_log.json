@@ -71,6 +71,12 @@
       "label": "Private equity funds",
       "parent_iri": "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q",
       "timestamp": "2026-02-25T14:39:50.378121+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/7b568401-74a6-4342-9787-d23dbd37898a",
+      "label": "Private Equity Funds",
+      "parent_iri": "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q",
+      "timestamp": "2026-02-25T14:41:18.826567+00:00"
     }
   ],
   "label_changed": [
@@ -743,5 +749,5 @@
       "timestamp": "2026-02-25T14:04:51.133983+00:00"
     }
   ],
-  "last_updated": "2026-02-25T14:39:51.076147+00:00"
+  "last_updated": "2026-02-25T14:41:19.488334+00:00"
 }
