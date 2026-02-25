@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-02-25T14:19:13Z",
+    "generated_at": "2026-02-25T14:19:43Z",
     "node_count": 18414,
     "language": "en"
   },
@@ -280665,13 +280665,13 @@
       "legacy_iri": null,
       "node_type": "class"
     },
-    "http://lmss.sali.org/e94751ae-c64b-453e-a700-51b88ba5085a": {
-      "iri": "http://lmss.sali.org/e94751ae-c64b-453e-a700-51b88ba5085a",
+    "http://lmss.sali.org/14e7dead-9dbd-474a-a48b-8fa4a1de8dc8": {
+      "iri": "http://lmss.sali.org/14e7dead-9dbd-474a-a48b-8fa4a1de8dc8",
       "label": "Data analytics and AI platforms, including foundational model providers (e.g., OpenAI)",
       "status": "beta",
       "deprecated": false,
       "parents": [
-        "http://lmss.sali.org/d10Dt8WZRmK_hxh62XpRvQ"
+        "http://lmss.sali.org/vqSWMMSFSheZALehwOczUA"
       ],
       "definition": null,
       "examples": [],

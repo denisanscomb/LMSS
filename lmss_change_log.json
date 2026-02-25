@@ -53,6 +53,12 @@
       "label": "Data analytics and AI platforms, including foundational model providers (e.g., OpenAI)",
       "parent_iri": "http://lmss.sali.org/d10Dt8WZRmK_hxh62XpRvQ",
       "timestamp": "2026-02-25T14:19:13.862392+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/14e7dead-9dbd-474a-a48b-8fa4a1de8dc8",
+      "label": "Data analytics and AI platforms, including foundational model providers (e.g., OpenAI)",
+      "parent_iri": "http://lmss.sali.org/vqSWMMSFSheZALehwOczUA",
+      "timestamp": "2026-02-25T14:19:43.949931+00:00"
     }
   ],
   "label_changed": [
@@ -725,5 +731,5 @@
       "timestamp": "2026-02-25T14:04:51.133983+00:00"
     }
   ],
-  "last_updated": "2026-02-25T14:19:14.616300+00:00"
+  "last_updated": "2026-02-25T14:19:44.658730+00:00"
 }
