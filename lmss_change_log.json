@@ -625,6 +625,70 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-01-14T00:04:17.208946"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i",
+      "label": "Religious Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-25T14:06:51.003245+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9Mw0y1sYeTkDl6Po3b4ViW",
+      "label": "Islamic Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-25T14:06:51.003269+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9OVvZrP50aExKprI0es912",
+      "label": "Jewish Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-25T14:06:51.003274+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBxjnpn5QHodww4lTfXSviX",
+      "label": "Indigenous and Tribal Religious Laws",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-25T14:06:51.003278+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCgMu5ynvcgBz5w6ozBAgRO",
+      "label": "Canon Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-25T14:06:51.003281+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RNkV7LzvMYADIWekkjtwo9",
+      "label": "Sikh Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-25T14:06:51.003285+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/Rlbq3SekJ58WQwzlThYFtY",
+      "label": "Hindu Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-25T14:06:51.003289+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RyeqviATd4YRSAiT6TX6qn",
+      "label": "Buddhist Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-02-25T14:06:51.003297+00:00"
     }
   ],
   "parent_changed": [
@@ -655,5 +719,5 @@
       "timestamp": "2026-02-25T14:04:51.133983+00:00"
     }
   ],
-  "last_updated": "2026-02-25T14:04:51.717520+00:00"
+  "last_updated": "2026-02-25T14:06:51.723760+00:00"
 }

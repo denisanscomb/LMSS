@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-02-25T14:04:51Z",
+    "generated_at": "2026-02-25T14:06:51Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -71543,6 +71543,7 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RBrUb9V2u6f7iVR1RBNsyB1",
+        "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV",
         "http://lmss.sali.org/RDb8aZxNJsmCvQGbfiFyfI7"
       ],
       "definition": "Law relating to the acquisition and transfer of real property.",
@@ -116568,7 +116569,7 @@
       "iri": "http://lmss.sali.org/R9Mw0y1sYeTkDl6Po3b4ViW",
       "label": "Islamic Law",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
@@ -117155,7 +117156,7 @@
       "iri": "http://lmss.sali.org/R9OVvZrP50aExKprI0es912",
       "label": "Jewish Law",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
@@ -156945,7 +156946,7 @@
       "iri": "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i",
       "label": "Religious Law",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
@@ -161732,7 +161733,7 @@
       "iri": "http://lmss.sali.org/RBxjnpn5QHodww4lTfXSviX",
       "label": "Indigenous and Tribal Religious Laws",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
@@ -181704,7 +181705,7 @@
       "iri": "http://lmss.sali.org/RCgMu5ynvcgBz5w6ozBAgRO",
       "label": "Canon Law",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
@@ -231657,7 +231658,7 @@
       "iri": "http://lmss.sali.org/RNkV7LzvMYADIWekkjtwo9",
       "label": "Sikh Law",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
@@ -251153,7 +251154,7 @@
       "iri": "http://lmss.sali.org/Rlbq3SekJ58WQwzlThYFtY",
       "label": "Hindu Law",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
@@ -261635,7 +261636,7 @@
       "iri": "http://lmss.sali.org/RyeqviATd4YRSAiT6TX6qn",
       "label": "Buddhist Law",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
