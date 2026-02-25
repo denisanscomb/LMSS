@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-02-25T14:41:18Z",
-    "node_count": 18415,
+    "generated_at": "2026-02-25T14:50:53Z",
+    "node_count": 18416,
     "language": "en"
   },
   "nodes": {
@@ -280683,6 +280683,21 @@
     "http://lmss.sali.org/7b568401-74a6-4342-9787-d23dbd37898a": {
       "iri": "http://lmss.sali.org/7b568401-74a6-4342-9787-d23dbd37898a",
       "label": "Private Equity Funds",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/e14f5ebf-a81b-469d-9946-545c64abb520": {
+      "iri": "http://lmss.sali.org/e14f5ebf-a81b-469d-9946-545c64abb520",
+      "label": "Hedge Funds",
       "status": "beta",
       "deprecated": false,
       "parents": [

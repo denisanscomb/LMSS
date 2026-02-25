@@ -77,6 +77,12 @@
       "label": "Private Equity Funds",
       "parent_iri": "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q",
       "timestamp": "2026-02-25T14:41:18.826567+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/e14f5ebf-a81b-469d-9946-545c64abb520",
+      "label": "Hedge Funds",
+      "parent_iri": "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q",
+      "timestamp": "2026-02-25T14:50:53.735126+00:00"
     }
   ],
   "label_changed": [
@@ -749,5 +755,5 @@
       "timestamp": "2026-02-25T14:04:51.133983+00:00"
     }
   ],
-  "last_updated": "2026-02-25T14:41:19.488334+00:00"
+  "last_updated": "2026-02-25T14:50:54.396368+00:00"
 }
