@@ -627,6 +627,20 @@
       "timestamp": "2026-01-14T00:04:17.208946"
     }
   ],
-  "parent_changed": [],
-  "last_updated": "2026-01-14T00:04:17.208948"
+  "parent_changed": [
+    {
+      "iri": "http://lmss.sali.org/R7mghrIauk4oJaakhl0B8pU",
+      "old": [
+        "http://lmss.sali.org/RBrUb9V2u6f7iVR1RBNsyB1",
+        "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV",
+        "http://lmss.sali.org/RDb8aZxNJsmCvQGbfiFyfI7"
+      ],
+      "new": [
+        "http://lmss.sali.org/RBrUb9V2u6f7iVR1RBNsyB1",
+        "http://lmss.sali.org/RDb8aZxNJsmCvQGbfiFyfI7"
+      ],
+      "timestamp": "2026-02-25T14:02:53.854174+00:00"
+    }
+  ],
+  "last_updated": "2026-02-25T14:02:54.828441+00:00"
 }
