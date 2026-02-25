@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-02-25T14:21:54Z",
-    "node_count": 18414,
+    "generated_at": "2026-02-25T14:39:50Z",
+    "node_count": 18415,
     "language": "en"
   },
   "nodes": {
@@ -280672,6 +280672,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/vqSWMMSFSheZALehwOczUA"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/3b89d659-4d17-4342-8d4c-9ed5c58029ce": {
+      "iri": "http://lmss.sali.org/3b89d659-4d17-4342-8d4c-9ed5c58029ce",
+      "label": "Private equity funds",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q"
       ],
       "definition": null,
       "examples": [],

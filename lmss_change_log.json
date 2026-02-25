@@ -65,6 +65,12 @@
       "label": "Data analytics and AI platforms, including foundational model providers (e.g., OpenAI)",
       "parent_iri": "http://lmss.sali.org/vqSWMMSFSheZALehwOczUA",
       "timestamp": "2026-02-25T14:21:54.595064+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/3b89d659-4d17-4342-8d4c-9ed5c58029ce",
+      "label": "Private equity funds",
+      "parent_iri": "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q",
+      "timestamp": "2026-02-25T14:39:50.378121+00:00"
     }
   ],
   "label_changed": [
@@ -737,5 +743,5 @@
       "timestamp": "2026-02-25T14:04:51.133983+00:00"
     }
   ],
-  "last_updated": "2026-02-25T14:21:55.203485+00:00"
+  "last_updated": "2026-02-25T14:39:51.076147+00:00"
 }
