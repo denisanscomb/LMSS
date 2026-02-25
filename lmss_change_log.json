@@ -47,6 +47,12 @@
       "label": "nuke fusion law da 10.1",
       "parent_iri": "http://lmss.sali.org/R8bfgtLjBBFVskONeODDENh",
       "timestamp": "2026-01-12T09:18:22.628584"
+    },
+    {
+      "iri": "http://lmss.sali.org/e94751ae-c64b-453e-a700-51b88ba5085a",
+      "label": "Data analytics and AI platforms, including foundational model providers (e.g., OpenAI)",
+      "parent_iri": "http://lmss.sali.org/d10Dt8WZRmK_hxh62XpRvQ",
+      "timestamp": "2026-02-25T14:19:13.862392+00:00"
     }
   ],
   "label_changed": [
@@ -719,5 +725,5 @@
       "timestamp": "2026-02-25T14:04:51.133983+00:00"
     }
   ],
-  "last_updated": "2026-02-25T14:06:51.723760+00:00"
+  "last_updated": "2026-02-25T14:19:14.616300+00:00"
 }
