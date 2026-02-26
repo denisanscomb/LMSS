@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-02-26T21:40:33Z",
+    "generated_at": "2026-02-26T21:40:52Z",
     "node_count": 18418,
     "language": "en"
   },
@@ -18,7 +18,7 @@
       "sources": [],
       "legacy_iri": null,
       "node_type": "class",
-      "hidden": false
+      "hidden": true
     },
     "http://lmss.sali.org/--siJUzaRTGX0W0PqH06lw": {
       "iri": "http://lmss.sali.org/--siJUzaRTGX0W0PqH06lw",
@@ -138460,8 +138460,7 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class",
-      "hidden": true
+      "node_type": "class"
     },
     "http://lmss.sali.org/RB5tNYSDrxEoYAqZ3sy0rae": {
       "iri": "http://lmss.sali.org/RB5tNYSDrxEoYAqZ3sy0rae",
