@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-02-26T18:07:10Z",
-    "node_count": 18417,
+    "generated_at": "2026-02-26T18:14:28Z",
+    "node_count": 18418,
     "language": "en"
   },
   "nodes": {
@@ -280713,6 +280713,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RMblcZCshScdMoNBUJqpia"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/bc91315f-ebd0-4c14-9be4-30b9ff64c159": {
+      "iri": "http://lmss.sali.org/bc91315f-ebd0-4c14-9be4-30b9ff64c159",
+      "label": "Timekeeper",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R8nREeU6lB0zs0dt9N339nm"
       ],
       "definition": null,
       "examples": [],
