@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-02-26T18:14:28Z",
+    "generated_at": "2026-02-26T18:16:50Z",
     "node_count": 18418,
     "language": "en"
   },
@@ -280729,7 +280729,7 @@
       "parents": [
         "http://lmss.sali.org/R8nREeU6lB0zs0dt9N339nm"
       ],
-      "definition": null,
+      "definition": "Actors that bill for the time they work on a legal matter.",
       "examples": [],
       "pref_label": null,
       "sources": [],
