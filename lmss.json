@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-02-26T17:16:38Z",
+    "generated_at": "2026-02-26T18:03:39Z",
     "node_count": 18417,
     "language": "en"
   },
@@ -40651,7 +40651,7 @@
       "iri": "http://lmss.sali.org/R4O64EZ9f8sZokT55KBbKr",
       "label": "Relationship Attorney",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RadAvJ7EdvJm13pHxKGCSa"
       ],
@@ -61690,7 +61690,7 @@
       "iri": "http://lmss.sali.org/R7KwjAGH04YXSDBLO1OrlxR",
       "label": "Librarian",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RCeEdzen5sS4qh0lfvncqh7",
         "http://lmss.sali.org/RQxwZ0byxdnIYBnX6xystH"
@@ -69251,7 +69251,7 @@
       "iri": "http://lmss.sali.org/R7grtX0SZQxmXO9TE5sdGzE",
       "label": "Guardian Ad Litem Attorney",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8"
       ],
@@ -74127,7 +74127,7 @@
       "iri": "http://lmss.sali.org/R7tihKK0L440nkLIrRcdCkh",
       "label": "Provider Level",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R7tKtki2tvT0I1cpSLJSWRF"
       ],
@@ -87815,7 +87815,7 @@
       "iri": "http://lmss.sali.org/R8KQ6nS2QG4nNITfi4PTfdK",
       "label": "Firm Equity Partner",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RDZqAEp47Hwg3SOSMpD7lQh"
       ],
@@ -90476,7 +90476,7 @@
       "iri": "http://lmss.sali.org/R8R9Nh01rABqHHrtndWIJzw",
       "label": "Firm Knowledge Manager",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RCeEdzen5sS4qh0lfvncqh7",
         "http://lmss.sali.org/RQxwZ0byxdnIYBnX6xystH"
@@ -93887,7 +93887,7 @@
       "iri": "http://lmss.sali.org/R8aCoZ8sdfYcOOYzh2UkpLW",
       "label": "Responsible Attorney",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RadAvJ7EdvJm13pHxKGCSa"
       ],
@@ -105449,7 +105449,7 @@
       "iri": "http://lmss.sali.org/R92FXCsBJUqz45E5MN18GQI",
       "label": "Year of Law Degree Graduation",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8"
       ],
@@ -111624,7 +111624,7 @@
       "iri": "http://lmss.sali.org/R9Cb2vPDnBbUMQTXMAL5053",
       "label": "Firm Pricing Personnel",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RCeEdzen5sS4qh0lfvncqh7",
         "http://lmss.sali.org/RQxwZ0byxdnIYBnX6xystH"
@@ -118507,7 +118507,7 @@
       "iri": "http://lmss.sali.org/R9SS4ShMrRoDS7ps7dIlyLF",
       "label": "Summer Associate",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RFJ69YSKEGMCQh0emzDcu0"
       ],
@@ -119855,7 +119855,7 @@
       "iri": "http://lmss.sali.org/R9WAV8Bcwj9gmehX5hG21qc",
       "label": "Firm Discovery Personnel",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RCeEdzen5sS4qh0lfvncqh7",
         "http://lmss.sali.org/RQxwZ0byxdnIYBnX6xystH"
@@ -127970,7 +127970,7 @@
       "iri": "http://lmss.sali.org/R9tIoV6NSL01NJcZzv2QgzY",
       "label": "Lawyer's Bar Identifier",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RChRXRlMt5J5wkUApU4J9zz"
       ],
@@ -128167,7 +128167,7 @@
       "iri": "http://lmss.sali.org/R9tuIhKlUCKz2ueksbuTsJr",
       "label": "Firm Accounting Personnel",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RCeEdzen5sS4qh0lfvncqh7",
         "http://lmss.sali.org/RQxwZ0byxdnIYBnX6xystH"
@@ -152213,7 +152213,7 @@
       "iri": "http://lmss.sali.org/RBYhRNuXhZViZ7pJ1utkcts",
       "label": "Billing Attorney",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RadAvJ7EdvJm13pHxKGCSa"
       ],
@@ -152534,7 +152534,7 @@
       "iri": "http://lmss.sali.org/RBZACl2VIIF7KHM9riWyBg7",
       "label": "Special Counsel",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8"
       ],
@@ -158512,7 +158512,7 @@
       "iri": "http://lmss.sali.org/RBoq9SKvBZPLwNnSkQ8TMNn",
       "label": "Firm Non-Equity Partner",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RDZqAEp47Hwg3SOSMpD7lQh"
       ],
@@ -160473,7 +160473,7 @@
       "iri": "http://lmss.sali.org/RBu4G0fGR03P9qzzvvp00tK",
       "label": "Firm Of Counsel",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8"
       ],
@@ -165012,7 +165012,7 @@
       "iri": "http://lmss.sali.org/RC46y5r2N3zQkebuDscWUlH",
       "label": "Firm Assistant / Secretary",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RCeEdzen5sS4qh0lfvncqh7",
         "http://lmss.sali.org/RQxwZ0byxdnIYBnX6xystH"
@@ -173122,7 +173122,7 @@
       "iri": "http://lmss.sali.org/RCIQtHHdQl861KZaBklud18",
       "label": "Provider Timekeeper Level",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R7tihKK0L440nkLIrRcdCkh"
       ],
@@ -179871,7 +179871,7 @@
       "iri": "http://lmss.sali.org/RCar9tX8a2tLTeQL3XD1XZG",
       "label": "Legal Aid Attorney",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8"
       ],
@@ -182159,7 +182159,7 @@
       "iri": "http://lmss.sali.org/RChRXRlMt5J5wkUApU4J9zz",
       "label": "Lawyer's Admission to Practice in a Jurisdiction",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8"
       ],
@@ -203485,7 +203485,7 @@
       "iri": "http://lmss.sali.org/RDWrlAT5y1sm1PdlKJzlEwj",
       "label": "Prosecutor",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8"
       ],
@@ -204315,7 +204315,7 @@
       "iri": "http://lmss.sali.org/RDZqAEp47Hwg3SOSMpD7lQh",
       "label": "Firm Partner / Shareholder",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8"
       ],
@@ -219068,7 +219068,7 @@
       "iri": "http://lmss.sali.org/REPW95B9oVU4oRcfhrwAj0",
       "label": "Originating Attorney",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RadAvJ7EdvJm13pHxKGCSa"
       ],
@@ -223869,7 +223869,7 @@
       "iri": "http://lmss.sali.org/RFDJaDDNdrylbcqYqc3d3R",
       "label": "Year of Lawyer's Admission to Practice in a Jurisdiction",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RChRXRlMt5J5wkUApU4J9zz"
       ],
@@ -224485,7 +224485,7 @@
       "iri": "http://lmss.sali.org/RFJ69YSKEGMCQh0emzDcu0",
       "label": "Firm Associate",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8"
       ],
@@ -234161,7 +234161,7 @@
       "iri": "http://lmss.sali.org/RQxwZ0byxdnIYBnX6xystH",
       "label": "Provider Non-Timekeeper Level",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R7tihKK0L440nkLIrRcdCkh"
       ],
@@ -235033,7 +235033,7 @@
       "iri": "http://lmss.sali.org/RS1dtoXTwsMZcmQ5NiyvLT",
       "label": "Protection and Advocacy Attorney",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8"
       ],
@@ -236225,7 +236225,7 @@
       "iri": "http://lmss.sali.org/RTSiUmV98XcJo4iDnUhMmb",
       "label": "Paralegal",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RCIQtHHdQl861KZaBklud18",
         "http://lmss.sali.org/RCeEdzen5sS4qh0lfvncqh7"
@@ -242202,7 +242202,7 @@
       "iri": "http://lmss.sali.org/RadAvJ7EdvJm13pHxKGCSa",
       "label": "Client Relationship Role",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8"
       ],
@@ -243777,7 +243777,7 @@
       "iri": "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8",
       "label": "Lawyer",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R7tKtki2tvT0I1cpSLJSWRF",
         "http://lmss.sali.org/RCIQtHHdQl861KZaBklud18"
@@ -246376,7 +246376,7 @@
       "iri": "http://lmss.sali.org/Rg0eYCEL8F2mZNzegLGntR",
       "label": "Firm Administrator",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RCeEdzen5sS4qh0lfvncqh7",
         "http://lmss.sali.org/RQxwZ0byxdnIYBnX6xystH"
@@ -250088,7 +250088,7 @@
       "iri": "http://lmss.sali.org/RkTW6noLv5Ycc4Hxw7zVZ9",
       "label": "Firm Marketing Personnel",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RCeEdzen5sS4qh0lfvncqh7",
         "http://lmss.sali.org/RQxwZ0byxdnIYBnX6xystH"
@@ -255158,7 +255158,7 @@
       "iri": "http://lmss.sali.org/RrOlEPl4Uzef7bEh1UpYBb",
       "label": "Limited License Legal Technician",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RCIQtHHdQl861KZaBklud18",
         "http://lmss.sali.org/RCeEdzen5sS4qh0lfvncqh7"
@@ -256412,7 +256412,7 @@
       "iri": "http://lmss.sali.org/Rslx2R4OEGw6tfdMiFvU7K",
       "label": "Public Defender",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RcTA2iQmrtqOnX3WrjJIp8"
       ],
