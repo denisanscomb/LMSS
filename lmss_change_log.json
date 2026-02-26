@@ -1128,7 +1128,26 @@
         "Labor and Employment Law"
       ],
       "timestamp": "2026-02-26T12:04:11.305045+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCzUXCcw0tXLGGdeAIx9Dx4",
+      "label": "Franchise Law",
+      "old": [
+        "http://lmss.sali.org/R78xJfSMpJ2ZUUUlYdzfUvC",
+        "http://lmss.sali.org/RqNYDJtQ1pAsGPKZNEUlET"
+      ],
+      "new": [
+        "http://lmss.sali.org/RqNYDJtQ1pAsGPKZNEUlET"
+      ],
+      "old_labels": [
+        "Canada Variants",
+        "Commercial and Trade Law"
+      ],
+      "new_labels": [
+        "Commercial and Trade Law"
+      ],
+      "timestamp": "2026-02-26T18:07:10.084314+00:00"
     }
   ],
-  "last_updated": "2026-02-26T18:03:40.662804+00:00"
+  "last_updated": "2026-02-26T18:07:10.850064+00:00"
 }
