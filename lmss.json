@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-02-26T10:10:32Z",
+    "generated_at": "2026-02-26T10:19:16Z",
     "node_count": 18416,
     "language": "en"
   },
@@ -227150,7 +227150,6 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R78xJfSMpJ2ZUUUlYdzfUvC",
-        "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV",
         "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
       ],
       "definition": "A legal concept that pertains to the classification and treatment of individuals who provide services to a company or organization as non-employees, typically in the context of labor and employment law.",
