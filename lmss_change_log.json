@@ -819,7 +819,30 @@
         "Real Property Law"
       ],
       "timestamp": "2026-02-26T12:00:40.014402+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RFG8cttIFCPLJVsOIlLOnY",
+      "label": "Employment Contracts Law",
+      "old": [
+        "http://lmss.sali.org/R78xJfSMpJ2ZUUUlYdzfUvC",
+        "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV",
+        "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
+      ],
+      "new": [
+        "http://lmss.sali.org/R78xJfSMpJ2ZUUUlYdzfUvC",
+        "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
+      ],
+      "old_labels": [
+        "Canada Variants",
+        "Contract Law",
+        "Labor and Employment Law"
+      ],
+      "new_labels": [
+        "Canada Variants",
+        "Labor and Employment Law"
+      ],
+      "timestamp": "2026-02-26T12:04:11.305045+00:00"
     }
   ],
-  "last_updated": "2026-02-26T12:00:40.730672+00:00"
+  "last_updated": "2026-02-26T12:04:12.035953+00:00"
 }
