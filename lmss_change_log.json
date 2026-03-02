@@ -1825,7 +1825,26 @@
         "Commercial and Trade Law"
       ],
       "timestamp": "2026-02-26T18:07:10.084314+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7mghrIauk4oJaakhl0B8pU",
+      "label": "Property Rights and Transactions Law",
+      "old": [
+        "http://lmss.sali.org/RBrUb9V2u6f7iVR1RBNsyB1",
+        "http://lmss.sali.org/RDb8aZxNJsmCvQGbfiFyfI7"
+      ],
+      "new": [
+        "http://lmss.sali.org/RDb8aZxNJsmCvQGbfiFyfI7"
+      ],
+      "old_labels": [
+        "Civil Contract Law",
+        "Real Property Law"
+      ],
+      "new_labels": [
+        "Real Property Law"
+      ],
+      "timestamp": "2026-03-02T19:53:19.986295+00:00"
     }
   ],
-  "last_updated": "2026-03-02T19:52:21.530885+00:00"
+  "last_updated": "2026-03-02T19:53:20.855233+00:00"
 }
