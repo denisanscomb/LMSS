@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-02T19:53:19Z",
+    "generated_at": "2026-03-02T19:58:32Z",
     "node_count": 18418,
     "language": "en"
   },
@@ -224471,7 +224471,6 @@
       "status": "production",
       "deprecated": false,
       "parents": [
-        "http://lmss.sali.org/R78xJfSMpJ2ZUUUlYdzfUvC",
         "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
       ],
       "definition": "Employment Contracts Law refers to the legal principles and regulations governing the agreements between employers and employees regarding the terms and conditions of employment.",
