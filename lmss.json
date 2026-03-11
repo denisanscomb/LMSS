@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-11T12:00:05Z",
+    "generated_at": "2026-03-11T12:00:25Z",
     "node_count": 18416,
     "language": "en"
   },
@@ -280733,7 +280733,7 @@
       "parents": [
         "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
       ],
-      "definition": null,
+      "definition": "A software-as-a-service business providing general-purpose applications that serve customers\n  across multiple industries (e.g., CRM, HR, ERP, productivity, collaboration). Revenue model is\n  subscription-based; the software addresses broadly applicable business functions rather than\n  sector-specific workflows.",
       "examples": [],
       "pref_label": null,
       "sources": [],
