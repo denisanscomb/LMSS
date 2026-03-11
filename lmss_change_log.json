@@ -1,9 +1,74 @@
 {
   "added": [],
   "label_changed": [],
-  "deprecated_changed": [],
+  "deprecated_changed": [
+    {
+      "iri": "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i",
+      "label": "Religious Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-11T00:59:21.152100+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9Mw0y1sYeTkDl6Po3b4ViW",
+      "label": "Islamic Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-11T00:59:21.152126+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9OVvZrP50aExKprI0es912",
+      "label": "Jewish Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-11T00:59:21.152130+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBxjnpn5QHodww4lTfXSviX",
+      "label": "Indigenous and Tribal Religious Laws",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-11T00:59:21.152133+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCgMu5ynvcgBz5w6ozBAgRO",
+      "label": "Canon Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-11T00:59:21.152136+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RNkV7LzvMYADIWekkjtwo9",
+      "label": "Sikh Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-11T00:59:21.152139+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/Rlbq3SekJ58WQwzlThYFtY",
+      "label": "Hindu Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-11T00:59:21.152143+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RyeqviATd4YRSAiT6TX6qn",
+      "label": "Buddhist Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-11T00:59:21.152149+00:00"
+    }
+  ],
   "parent_changed": [],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-11T00:58:28.377504+00:00"
+  "last_updated": "2026-03-11T00:59:21.796746+00:00"
 }
