@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-11T11:06:01Z",
-    "node_count": 18414,
+    "generated_at": "2026-03-11T11:26:04Z",
+    "node_count": 18415,
     "language": "en"
   },
   "nodes": {
@@ -280716,8 +280716,10 @@
       "parents": [
         "http://lmss.sali.org/uF5peA3LSQStw_jNvwgv8g"
       ],
-      "definition": null,
-      "examples": [],
+      "definition": "A platform that facilitates the buying, selling, and trading of cryptocurrencies, tokens, and\n  other digital assets on behalf of customers or as a principal. Includes centralised exchanges\n  (CEX), decentralised exchange operators (DEX infrastructure providers), and regulated digital\n  asset brokers.",
+      "examples": [
+        "Coinbase"
+      ],
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
