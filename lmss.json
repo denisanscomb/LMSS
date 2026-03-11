@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-11T01:38:52Z",
+    "generated_at": "2026-03-08T15:52:41Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -54003,7 +54003,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/R73jCDNZO71858YRbQG6iRA": {
       "iri": "http://lmss.sali.org/R73jCDNZO71858YRbQG6iRA",
@@ -64106,7 +64107,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/R7RhGZFubZjZLpW0OXBujFg": {
       "iri": "http://lmss.sali.org/R7RhGZFubZjZLpW0OXBujFg",
@@ -85598,7 +85600,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/R8Eoebh7pvPtkWrkUTgecmu": {
       "iri": "http://lmss.sali.org/R8Eoebh7pvPtkWrkUTgecmu",
@@ -95645,7 +95648,8 @@
       "pref_label": "Economic Sectors",
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": false
     },
     "http://lmss.sali.org/R8f55d3eN6sLakEyMpOZN9l": {
       "iri": "http://lmss.sali.org/R8f55d3eN6sLakEyMpOZN9l",
@@ -103764,7 +103768,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/R8zMbvy16kcHWsrWq4KaT58": {
       "iri": "http://lmss.sali.org/R8zMbvy16kcHWsrWq4KaT58",
@@ -110565,7 +110570,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/R9BAa9eA4B48b07D560402d6": {
       "iri": "http://lmss.sali.org/R9BAa9eA4B48b07D560402d6",
@@ -121448,7 +121454,8 @@
       "pref_label": "Global",
       "sources": [],
       "legacy_iri": "http://lmss.sali.org/RBM1Pqn9NVXJpgGp91AGx6v",
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/R9aVQApt5xIBfziES5pyw4R": {
       "iri": "http://lmss.sali.org/R9aVQApt5xIBfziES5pyw4R",
@@ -125046,7 +125053,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/R9kpSRoHo0Bk35jox4Cbpff": {
       "iri": "http://lmss.sali.org/R9kpSRoHo0Bk35jox4Cbpff",
@@ -138467,7 +138475,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/RB5tNYSDrxEoYAqZ3sy0rae": {
       "iri": "http://lmss.sali.org/RB5tNYSDrxEoYAqZ3sy0rae",
@@ -148836,7 +148845,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": "http://lmss.sali.org/R9RyZkN4w6aGXo3Z5BmGJ0",
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/RBQGv9RRvzwjKHirKBIw4Wg": {
       "iri": "http://lmss.sali.org/RBQGv9RRvzwjKHirKBIw4Wg",
@@ -156359,7 +156369,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/RBjIeLyl8QWh6zXpbbqu07F": {
       "iri": "http://lmss.sali.org/RBjIeLyl8QWh6zXpbbqu07F",
@@ -163234,7 +163245,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/RC1D427D3A2b8331ec3577dd": {
       "iri": "http://lmss.sali.org/RC1D427D3A2b8331ec3577dd",
@@ -198906,7 +198918,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": "http://lmss.sali.org/RDGnNQJYI7z5HU5PdsEWpvG",
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/RDK1m7oO4kL4ZQ5IhOoZHRd": {
       "iri": "http://lmss.sali.org/RDK1m7oO4kL4ZQ5IhOoZHRd",
@@ -200708,7 +200721,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/RDOvhoPOqb5qarZLZmwPGZ0": {
       "iri": "http://lmss.sali.org/RDOvhoPOqb5qarZLZmwPGZ0",
@@ -211584,7 +211598,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/RDt62pgSC6uT3vmSjG8IHA2": {
       "iri": "http://lmss.sali.org/RDt62pgSC6uT3vmSjG8IHA2",
@@ -235479,7 +235494,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": "http://lmss.sali.org/R9x9HUcdvwdankk2MT4HF4Y",
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": false
     },
     "http://lmss.sali.org/RSYiZ4yVmjEDGYqpxWGrQB": {
       "iri": "http://lmss.sali.org/RSYiZ4yVmjEDGYqpxWGrQB",
@@ -247380,7 +247396,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/RhBvOCNsTuHs1L1cRSwWuL": {
       "iri": "http://lmss.sali.org/RhBvOCNsTuHs1L1cRSwWuL",
@@ -250959,7 +250976,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/RlNd4fuEGnhNmnebjdyb9h": {
       "iri": "http://lmss.sali.org/RlNd4fuEGnhNmnebjdyb9h",
@@ -280672,7 +280690,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     }
   }
 }
