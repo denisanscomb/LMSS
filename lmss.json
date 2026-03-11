@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-11T12:12:29Z",
+    "generated_at": "2026-03-11T12:13:15Z",
     "node_count": 18421,
     "language": "en"
   },
@@ -280810,7 +280810,7 @@
       "parents": [
         "http://lmss.sali.org/RDIwFaFcH4KY0gwEY0QlMTp"
       ],
-      "definition": null,
+      "definition": "A natural person who is the client or principal in a legal matter, acting in a personal\n  capacity rather than as a business entity. Used where NAICS economic-unit codes are not\n  applicable (e.g., estate planning, high-net-worth personal matters, family law). Where the\n  individual also has a defined economic activity, one or more additional industry codes\n  reflecting that activity should be attached (e.g., Healthcare — Physician for a doctor client,\n  Creator Economy / Influencer Platform for an influencer acting in their professional capacity).",
       "examples": [],
       "pref_label": null,
       "sources": [],
