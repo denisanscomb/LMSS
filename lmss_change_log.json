@@ -1,5 +1,12 @@
 {
-  "added": [],
+  "added": [
+    {
+      "iri": "http://lmss.sali.org/62a65427-0a9b-4f29-a43c-1894b6f68ec9",
+      "label": "Crypto Brokerage / Digital Asset Exchange",
+      "parent_iri": "http://lmss.sali.org/uF5peA3LSQStw_jNvwgv8g",
+      "timestamp": "2026-03-11T11:03:16.378299+00:00"
+    }
+  ],
   "label_changed": [],
   "deprecated_changed": [
     {
@@ -70,5 +77,5 @@
   "parent_changed": [],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-11T02:09:42.757824+00:00"
+  "last_updated": "2026-03-11T11:03:17.184926+00:00"
 }
