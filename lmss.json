@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-11T01:04:46Z",
+    "generated_at": "2026-03-11T01:07:51Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -173348,7 +173348,8 @@
       "pref_label": "Asset Class",
       "sources": [],
       "legacy_iri": "http://lmss.sali.org/R91eTdiF05faGtrCZxTeqZn",
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     },
     "http://lmss.sali.org/RCJ0PIsbRjWxnC5NrP8qcBe": {
       "iri": "http://lmss.sali.org/RCJ0PIsbRjWxnC5NrP8qcBe",
