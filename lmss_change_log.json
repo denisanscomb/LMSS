@@ -41,6 +41,12 @@
       "label": "Data Analytics & AI Platform",
       "parent_iri": "http://lmss.sali.org/vqSWMMSFSheZALehwOczUA",
       "timestamp": "2026-03-11T12:05:07.765573+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/a460176c-8c13-476b-b7aa-f60d7a9b16ac",
+      "label": "Individual",
+      "parent_iri": "http://lmss.sali.org/RDIwFaFcH4KY0gwEY0QlMTp",
+      "timestamp": "2026-03-11T12:12:29.786098+00:00"
     }
   ],
   "label_changed": [],
@@ -113,5 +119,5 @@
   "parent_changed": [],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-11T12:05:39.877553+00:00"
+  "last_updated": "2026-03-11T12:12:30.635322+00:00"
 }
