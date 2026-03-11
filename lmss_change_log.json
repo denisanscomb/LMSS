@@ -35,6 +35,12 @@
       "label": "MarTech / AdTech",
       "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
       "timestamp": "2026-03-11T12:02:43.490383+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/8ad3980e-8600-4b3b-abc0-8c7b2501b187",
+      "label": "Data Analytics & AI Platform",
+      "parent_iri": "http://lmss.sali.org/vqSWMMSFSheZALehwOczUA",
+      "timestamp": "2026-03-11T12:05:07.765573+00:00"
     }
   ],
   "label_changed": [],
@@ -107,5 +113,5 @@
   "parent_changed": [],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-11T12:03:10.109112+00:00"
+  "last_updated": "2026-03-11T12:05:08.588103+00:00"
 }

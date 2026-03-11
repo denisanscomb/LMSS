@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-11T12:03:09Z",
-    "node_count": 18419,
+    "generated_at": "2026-03-11T12:05:07Z",
+    "node_count": 18420,
     "language": "en"
   },
   "nodes": {
@@ -280779,6 +280779,21 @@
         "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
       ],
       "definition": "A business providing technology platforms that enable marketing automation, digital\n  advertising, customer data management, programmatic media buying, or advertising campaign\n  optimisation. Includes demand-side platforms (DSPs), data management platforms (DMPs), customer\n   data platforms (CDPs), and marketing analytics tools.",
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/8ad3980e-8600-4b3b-abc0-8c7b2501b187": {
+      "iri": "http://lmss.sali.org/8ad3980e-8600-4b3b-abc0-8c7b2501b187",
+      "label": "Data Analytics & AI Platform",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/vqSWMMSFSheZALehwOczUA"
+      ],
+      "definition": null,
       "examples": [],
       "pref_label": null,
       "sources": [],
