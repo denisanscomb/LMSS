@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-11T12:36:46Z",
+    "generated_at": "2026-03-11T12:38:34Z",
     "node_count": 18422,
     "language": "en"
   },
@@ -280829,7 +280829,7 @@
       "parents": [
         "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q"
       ],
-      "definition": null,
+      "definition": "A private wealth management entity established to serve the financial and administrative needs of one or\n   more ultra-high-net-worth families. Services typically include investment management, tax and estate   \n  planning, and philanthropy. Single-family offices serve one family exclusively, while multi-family      \n  offices pool resources to serve several families.",
       "examples": [],
       "pref_label": null,
       "sources": [],
