@@ -280707,6 +280707,21 @@
       "sources": [],
       "legacy_iri": null,
       "node_type": "class"
+    },
+    "http://lmss.sali.org/62a65427-0a9b-4f29-a43c-1894b6f68ec9": {
+      "iri": "http://lmss.sali.org/62a65427-0a9b-4f29-a43c-1894b6f68ec9",
+      "label": "Crypto Brokerage / Digital Asset Exchange",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/uF5peA3LSQStw_jNvwgv8g"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
     }
   }
 }
