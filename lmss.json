@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-11T12:01:03Z",
-    "node_count": 18417,
+    "generated_at": "2026-03-11T12:01:53Z",
+    "node_count": 18418,
     "language": "en"
   },
   "nodes": {
@@ -280749,6 +280749,21 @@
         "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
       ],
       "definition": "A software-as-a-service business providing applications designed for the workflows, regulatory\n  requirements, or data structures of a specific industry vertical (e.g., healthcare EMR, legal\n  practice management, construction project management, financial compliance). Includes fintech\n  platforms whose core business is software provision rather than regulated financial\n  intermediation.",
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/6adf9865-e68f-453f-957c-9c6060407cf6": {
+      "iri": "http://lmss.sali.org/6adf9865-e68f-453f-957c-9c6060407cf6",
+      "label": "Developer Tools & DevOps",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
+      ],
+      "definition": null,
       "examples": [],
       "pref_label": null,
       "sources": [],
