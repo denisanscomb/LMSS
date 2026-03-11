@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-11T11:26:04Z",
-    "node_count": 18415,
+    "generated_at": "2026-03-11T12:00:05Z",
+    "node_count": 18416,
     "language": "en"
   },
   "nodes": {
@@ -280720,6 +280720,21 @@
       "examples": [
         "Coinbase"
       ],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/5cd9d214-2bbd-4fd0-aa67-06eb422e1901": {
+      "iri": "http://lmss.sali.org/5cd9d214-2bbd-4fd0-aa67-06eb422e1901",
+      "label": "Horizontal SaaS",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
+      ],
+      "definition": null,
+      "examples": [],
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,

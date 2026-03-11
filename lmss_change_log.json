@@ -11,6 +11,12 @@
       "label": "Crypto Mining & Blockchain Infrastructure",
       "parent_iri": "http://lmss.sali.org/vqSWMMSFSheZALehwOczUA",
       "timestamp": "2026-03-11T11:06:01.984857+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/5cd9d214-2bbd-4fd0-aa67-06eb422e1901",
+      "label": "Horizontal SaaS",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "timestamp": "2026-03-11T12:00:05.379660+00:00"
     }
   ],
   "label_changed": [],
@@ -83,5 +89,5 @@
   "parent_changed": [],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-11T11:26:05.079195+00:00"
+  "last_updated": "2026-03-11T12:00:06.150587+00:00"
 }
