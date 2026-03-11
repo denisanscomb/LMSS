@@ -17,6 +17,12 @@
       "label": "Horizontal SaaS",
       "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
       "timestamp": "2026-03-11T12:00:05.379660+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/8ce36b81-dda3-4910-af9f-062e0ca6fe86",
+      "label": "Vertical SaaS",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "timestamp": "2026-03-11T12:00:43.345243+00:00"
     }
   ],
   "label_changed": [],
@@ -89,5 +95,5 @@
   "parent_changed": [],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-11T12:00:26.120274+00:00"
+  "last_updated": "2026-03-11T12:00:44.012456+00:00"
 }
