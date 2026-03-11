@@ -5,6 +5,12 @@
       "label": "Crypto Brokerage / Digital Asset Exchange",
       "parent_iri": "http://lmss.sali.org/uF5peA3LSQStw_jNvwgv8g",
       "timestamp": "2026-03-11T11:03:16.378299+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/2722d491-9811-4cb1-aadd-5b5df42d5ac8",
+      "label": "Crypto Mining & Blockchain Infrastructure",
+      "parent_iri": "http://lmss.sali.org/vqSWMMSFSheZALehwOczUA",
+      "timestamp": "2026-03-11T11:06:01.984857+00:00"
     }
   ],
   "label_changed": [],
@@ -77,5 +83,5 @@
   "parent_changed": [],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-11T11:03:17.184926+00:00"
+  "last_updated": "2026-03-11T11:06:02.636488+00:00"
 }
