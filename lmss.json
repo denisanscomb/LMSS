@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-11T12:01:53Z",
+    "generated_at": "2026-03-11T12:02:03Z",
     "node_count": 18418,
     "language": "en"
   },
@@ -280763,7 +280763,7 @@
       "parents": [
         "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
       ],
-      "definition": null,
+      "definition": "A business providing software tools, platforms, and services used by software engineers and\n  development teams to build, test, deploy, and operate applications. Includes version control,\n  CI/CD platforms, cloud developer environments, API management tools, and application\n  performance monitoring.",
       "examples": [],
       "pref_label": null,
       "sources": [],
