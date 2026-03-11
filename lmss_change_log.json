@@ -47,6 +47,12 @@
       "label": "Individual",
       "parent_iri": "http://lmss.sali.org/RDIwFaFcH4KY0gwEY0QlMTp",
       "timestamp": "2026-03-11T12:12:29.786098+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/5c604a73-bacd-4b09-a109-5c4467ed18f9",
+      "label": "Family Office",
+      "parent_iri": "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q",
+      "timestamp": "2026-03-11T12:36:46.681343+00:00"
     }
   ],
   "label_changed": [],
@@ -168,5 +174,5 @@
   ],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-11T12:26:35.559396+00:00"
+  "last_updated": "2026-03-11T12:36:47.415645+00:00"
 }
