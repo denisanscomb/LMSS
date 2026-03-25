@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-25T13:12:56Z",
+    "generated_at": "2026-03-25T13:15:37Z",
     "node_count": 10489,
     "language": "en"
   },
@@ -157836,7 +157836,8 @@
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
-      "node_type": "class"
+      "node_type": "class",
+      "hidden": true
     }
   }
 }
