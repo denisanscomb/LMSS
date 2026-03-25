@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-11T12:38:34Z",
+    "generated_at": "2026-03-25T13:09:45Z",
     "node_count": 18422,
     "language": "en"
   },
@@ -261667,7 +261667,7 @@
       "iri": "http://lmss.sali.org/RyeqviATd4YRSAiT6TX6qn",
       "label": "Buddhist Law",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
