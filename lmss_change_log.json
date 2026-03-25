@@ -128,6 +128,70 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-03-25T13:09:45.512484+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i",
+      "label": "Religious Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-25T13:13:52.547080+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9Mw0y1sYeTkDl6Po3b4ViW",
+      "label": "Islamic Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-25T13:13:52.547102+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9OVvZrP50aExKprI0es912",
+      "label": "Jewish Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-25T13:13:52.547106+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBxjnpn5QHodww4lTfXSviX",
+      "label": "Indigenous and Tribal Religious Laws",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-25T13:13:52.547109+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCgMu5ynvcgBz5w6ozBAgRO",
+      "label": "Canon Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-25T13:13:52.547113+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RNkV7LzvMYADIWekkjtwo9",
+      "label": "Sikh Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-25T13:13:52.547115+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/Rlbq3SekJ58WQwzlThYFtY",
+      "label": "Hindu Law",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-25T13:13:52.547119+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RyeqviATd4YRSAiT6TX6qn",
+      "label": "Buddhist Law",
+      "old": true,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-25T13:13:52.547125+00:00"
     }
   ],
   "parent_changed": [
@@ -182,5 +246,5 @@
   ],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-25T13:09:46.145658+00:00"
+  "last_updated": "2026-03-25T13:13:53.287313+00:00"
 }

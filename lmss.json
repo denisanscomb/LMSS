@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-25T13:09:45Z",
+    "generated_at": "2026-03-25T13:13:52Z",
     "node_count": 18422,
     "language": "en"
   },
@@ -116583,7 +116583,7 @@
       "iri": "http://lmss.sali.org/R9Mw0y1sYeTkDl6Po3b4ViW",
       "label": "Islamic Law",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
@@ -117170,7 +117170,7 @@
       "iri": "http://lmss.sali.org/R9OVvZrP50aExKprI0es912",
       "label": "Jewish Law",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
@@ -156967,7 +156967,7 @@
       "iri": "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i",
       "label": "Religious Law",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
@@ -161754,7 +161754,7 @@
       "iri": "http://lmss.sali.org/RBxjnpn5QHodww4lTfXSviX",
       "label": "Indigenous and Tribal Religious Laws",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
@@ -181728,7 +181728,7 @@
       "iri": "http://lmss.sali.org/RCgMu5ynvcgBz5w6ozBAgRO",
       "label": "Canon Law",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
@@ -231684,7 +231684,7 @@
       "iri": "http://lmss.sali.org/RNkV7LzvMYADIWekkjtwo9",
       "label": "Sikh Law",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
@@ -251183,7 +251183,7 @@
       "iri": "http://lmss.sali.org/Rlbq3SekJ58WQwzlThYFtY",
       "label": "Hindu Law",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
