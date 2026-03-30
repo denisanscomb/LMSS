@@ -307,9 +307,32 @@
         "Real Property Law"
       ],
       "timestamp": "2026-03-30T22:24:14.261784+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RIeTFTPy9Um78489NqJxjn",
+      "label": "Independent Contractor Law",
+      "old": [
+        "http://lmss.sali.org/R78xJfSMpJ2ZUUUlYdzfUvC",
+        "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV",
+        "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
+      ],
+      "new": [
+        "http://lmss.sali.org/R78xJfSMpJ2ZUUUlYdzfUvC",
+        "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
+      ],
+      "old_labels": [
+        "Canada Variants",
+        "Contract Law",
+        "Labor and Employment Law"
+      ],
+      "new_labels": [
+        "Canada Variants",
+        "Labor and Employment Law"
+      ],
+      "timestamp": "2026-03-30T22:24:32.549649+00:00"
     }
   ],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-30T22:24:14.867038+00:00"
+  "last_updated": "2026-03-30T22:24:33.224521+00:00"
 }
