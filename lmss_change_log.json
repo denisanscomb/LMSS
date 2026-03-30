@@ -330,9 +330,28 @@
         "Labor and Employment Law"
       ],
       "timestamp": "2026-03-30T22:24:32.549649+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDlMcnPEFzMJer6LE0dJJj9",
+      "label": "Government Contracts Law",
+      "old": [
+        "http://lmss.sali.org/R8YijwyycPV6XzUJaud9SB1",
+        "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV"
+      ],
+      "new": [
+        "http://lmss.sali.org/R8YijwyycPV6XzUJaud9SB1"
+      ],
+      "old_labels": [
+        "Public and Administrative Law",
+        "Contract Law"
+      ],
+      "new_labels": [
+        "Public and Administrative Law"
+      ],
+      "timestamp": "2026-03-30T22:24:42.987154+00:00"
     }
   ],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-30T22:24:33.224521+00:00"
+  "last_updated": "2026-03-30T22:24:43.644214+00:00"
 }

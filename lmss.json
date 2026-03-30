@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-30T22:24:32Z",
+    "generated_at": "2026-03-30T22:24:42Z",
     "node_count": 18422,
     "language": "en"
   },
@@ -208679,8 +208679,7 @@
       "status": "production",
       "deprecated": false,
       "parents": [
-        "http://lmss.sali.org/R8YijwyycPV6XzUJaud9SB1",
-        "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV"
+        "http://lmss.sali.org/R8YijwyycPV6XzUJaud9SB1"
       ],
       "definition": "Laws relating to contracts in which the government is a party.",
       "examples": [],
