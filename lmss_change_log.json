@@ -288,9 +288,28 @@
         "Real Property Law"
       ],
       "timestamp": "2026-03-30T22:23:48.242541+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7mghrIauk4oJaakhl0B8pU",
+      "label": "Property Rights and Transactions Law",
+      "old": [
+        "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV",
+        "http://lmss.sali.org/RDb8aZxNJsmCvQGbfiFyfI7"
+      ],
+      "new": [
+        "http://lmss.sali.org/RDb8aZxNJsmCvQGbfiFyfI7"
+      ],
+      "old_labels": [
+        "Contract Law",
+        "Real Property Law"
+      ],
+      "new_labels": [
+        "Real Property Law"
+      ],
+      "timestamp": "2026-03-30T22:24:14.261784+00:00"
     }
   ],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-30T22:23:49.011750+00:00"
+  "last_updated": "2026-03-30T22:24:14.867038+00:00"
 }
