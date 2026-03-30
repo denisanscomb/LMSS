@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-30T22:24:42Z",
+    "generated_at": "2026-03-30T22:25:04Z",
     "node_count": 18422,
     "language": "en"
   },
@@ -175916,7 +175916,6 @@
       "status": "production",
       "deprecated": false,
       "parents": [
-        "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV",
         "http://lmss.sali.org/RqNYDJtQ1pAsGPKZNEUlET"
       ],
       "definition": "Law related to business contracts and agreements.",

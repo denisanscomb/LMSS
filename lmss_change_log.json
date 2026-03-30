@@ -349,9 +349,28 @@
         "Public and Administrative Law"
       ],
       "timestamp": "2026-03-30T22:24:42.987154+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCPtRu7JjCg1Do3DUtQofho",
+      "label": "Commercial Transactions Law",
+      "old": [
+        "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV",
+        "http://lmss.sali.org/RqNYDJtQ1pAsGPKZNEUlET"
+      ],
+      "new": [
+        "http://lmss.sali.org/RqNYDJtQ1pAsGPKZNEUlET"
+      ],
+      "old_labels": [
+        "Contract Law",
+        "Commercial and Trade Law"
+      ],
+      "new_labels": [
+        "Commercial and Trade Law"
+      ],
+      "timestamp": "2026-03-30T22:25:04.275850+00:00"
     }
   ],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-30T22:24:43.644214+00:00"
+  "last_updated": "2026-03-30T22:25:05.204274+00:00"
 }
