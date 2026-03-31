@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-30T22:25:04Z",
+    "generated_at": "2026-03-31T14:00:14Z",
     "node_count": 18422,
     "language": "en"
   },
@@ -112102,7 +112102,7 @@
       "iri": "http://lmss.sali.org/R9DCJMzRXnPZMWQqQuPLECx",
       "label": "Gender-Based Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R7KxYUBMSAuzPHdBhWfPSv7"
       ],
