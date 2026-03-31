@@ -200,6 +200,14 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-03-31T14:00:14.542939+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RChyLUYm0W5R3E1yQl08Id9",
+      "label": "Female Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-03-31T14:02:46.438755+00:00"
     }
   ],
   "parent_changed": [
@@ -380,5 +388,5 @@
   ],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-31T14:00:15.362571+00:00"
+  "last_updated": "2026-03-31T14:02:47.265618+00:00"
 }
