@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-03-31T14:02:46Z",
+    "generated_at": "2026-03-31T14:03:57Z",
     "node_count": 18422,
     "language": "en"
   },
@@ -161962,7 +161962,7 @@
       "iri": "http://lmss.sali.org/RByGvgH3E8rfhu43RVq0kPU",
       "label": "Male Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R9DCJMzRXnPZMWQqQuPLECx"
       ],
