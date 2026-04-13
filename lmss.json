@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-13T16:23:05Z",
+    "generated_at": "2026-04-13T16:35:26Z",
     "node_count": 18422,
     "language": "en"
   },
@@ -109822,7 +109822,7 @@
       "iri": "http://lmss.sali.org/R9A4SXIVWPhowrAideLaemT",
       "label": "Entity-Centric Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R8UG79BtYP2uqnKNklLYXB8"
       ],

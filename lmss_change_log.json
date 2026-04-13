@@ -448,6 +448,14 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-04-13T16:23:05.999811+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9A4SXIVWPhowrAideLaemT",
+      "label": "Entity-Centric Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:35:26.941776+00:00"
     }
   ],
   "parent_changed": [
@@ -628,5 +636,5 @@
   ],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-04-13T16:23:06.830783+00:00"
+  "last_updated": "2026-04-13T16:35:27.779974+00:00"
 }
