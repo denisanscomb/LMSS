@@ -256,6 +256,46 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-04-13T16:18:19.143900+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDN8CVqeiDlOeHJO8Oeltq6",
+      "label": "Climate-Based Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:19:21.816867+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R0cUTmr54fU7MnCdySv1jM",
+      "label": "Tropical Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:19:21.816897+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9WwJXvFm2I5juWSGCuGnA3",
+      "label": "Arid Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:19:21.816906+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBdvVmVo4DBFTBGCs5es5gp",
+      "label": "Temperate Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:19:21.816910+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/Raye9wszOl53QEcjEACnQR",
+      "label": "Polar Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:19:21.816914+00:00"
     }
   ],
   "parent_changed": [
@@ -436,5 +476,5 @@
   ],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-04-13T16:18:20.024913+00:00"
+  "last_updated": "2026-04-13T16:19:22.620338+00:00"
 }
