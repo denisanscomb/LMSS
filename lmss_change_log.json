@@ -216,6 +216,14 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-03-31T14:03:57.846606+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R795I9ybqUdayMEcSmyDrG6",
+      "label": "Behavioral Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:17:18.862214+00:00"
     }
   ],
   "parent_changed": [
@@ -396,5 +404,5 @@
   ],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-03-31T14:03:58.569047+00:00"
+  "last_updated": "2026-04-13T16:17:19.596154+00:00"
 }
