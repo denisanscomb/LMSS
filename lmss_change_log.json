@@ -488,6 +488,14 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-04-13T16:35:53.129365+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDxg2CDlW3pNJJnGPSyowk9",
+      "label": "Tech Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:39:58.491385+00:00"
     }
   ],
   "parent_changed": [
@@ -668,5 +676,5 @@
   ],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-04-13T16:35:53.870809+00:00"
+  "last_updated": "2026-04-13T16:39:59.350166+00:00"
 }
