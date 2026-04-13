@@ -224,6 +224,38 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-04-13T16:17:18.862214+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RZ6hoxQD6Sa9Hi4bnv1jgC",
+      "label": "Age-Based Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:18:19.143865+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R85PmuqV6ngjn65DDOJI1Di",
+      "label": "Senior Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:18:19.143889+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDKZpAgUjHtS3sp8YcGMkq7",
+      "label": "Teen Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:18:19.143895+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDxqUPyVGJl2FrNLqMtaaPs",
+      "label": "Children's Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:18:19.143900+00:00"
     }
   ],
   "parent_changed": [
@@ -404,5 +436,5 @@
   ],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-04-13T16:17:19.596154+00:00"
+  "last_updated": "2026-04-13T16:18:20.024913+00:00"
 }
