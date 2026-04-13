@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-13T16:19:41Z",
+    "generated_at": "2026-04-13T16:23:05Z",
     "node_count": 18422,
     "language": "en"
   },
@@ -69029,7 +69029,7 @@
       "iri": "http://lmss.sali.org/R7g7orVXBD7PBoQArPcDYsz",
       "label": "Organic Products Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/Rt7y5QJoXmShB4OEPQ8Ysl"
       ],
@@ -69448,7 +69448,7 @@
       "iri": "http://lmss.sali.org/R7hEm2ZU1e25I6TtEDbo9xI",
       "label": "Dating Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RNw3wCvXyyjEPknfOpicmf"
       ],
@@ -91470,7 +91470,7 @@
       "iri": "http://lmss.sali.org/R8Tktpdf3HuYd3nI7nf9xQU",
       "label": "Psychographic Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R8UG79BtYP2uqnKNklLYXB8"
       ],
@@ -113698,7 +113698,7 @@
       "iri": "http://lmss.sali.org/R9G3uvBhP5zhLlE1HcCXcKP",
       "label": "LGBTQ+ Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RNw3wCvXyyjEPknfOpicmf"
       ],
@@ -124255,7 +124255,7 @@
       "iri": "http://lmss.sali.org/R9iRnRKt4gpWCVseCWJ4b9J",
       "label": "Family & Parenting Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RNw3wCvXyyjEPknfOpicmf"
       ],
@@ -151925,7 +151925,7 @@
       "iri": "http://lmss.sali.org/RBXoCwCeY64Ow60nWKSZCC",
       "label": "Health-Conscious Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R8Tktpdf3HuYd3nI7nf9xQU"
       ],
@@ -152291,7 +152291,7 @@
       "iri": "http://lmss.sali.org/RBYjEVQYN2eWNPHqVk6LlZu",
       "label": "Fitness & Exercise Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBXoCwCeY64Ow60nWKSZCC"
       ],
@@ -161717,7 +161717,7 @@
       "iri": "http://lmss.sali.org/RBxgbh59bC7QKQ5Bq8NobJH",
       "label": "Sustainable Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R8Tktpdf3HuYd3nI7nf9xQU"
       ],
@@ -166435,7 +166435,7 @@
       "iri": "http://lmss.sali.org/RC72SJzYRuFThLlcHVREnc2",
       "label": "Weddings Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RCC6FvCiFeSijk47glfD3ZX"
       ],
@@ -169700,7 +169700,7 @@
       "iri": "http://lmss.sali.org/RCC6FvCiFeSijk47glfD3ZX",
       "label": "Marriage Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RNw3wCvXyyjEPknfOpicmf"
       ],
@@ -205749,7 +205749,7 @@
       "iri": "http://lmss.sali.org/RDdLo2isiJ66JtQdLPnEOOr",
       "label": "Hobbies Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R8Tktpdf3HuYd3nI7nf9xQU"
       ],
@@ -231813,7 +231813,7 @@
       "iri": "http://lmss.sali.org/RNw3wCvXyyjEPknfOpicmf",
       "label": "Relationship-Based Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R8Tktpdf3HuYd3nI7nf9xQU"
       ],
@@ -232970,7 +232970,7 @@
       "iri": "http://lmss.sali.org/RPRRa6kLRgNUtQnRPgQmZ2",
       "label": "Religious Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R8Tktpdf3HuYd3nI7nf9xQU"
       ],
@@ -256795,7 +256795,7 @@
       "iri": "http://lmss.sali.org/Rt7y5QJoXmShB4OEPQ8Ysl",
       "label": "Nutrition Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBXoCwCeY64Ow60nWKSZCC"
       ],
@@ -258738,7 +258738,7 @@
       "iri": "http://lmss.sali.org/RvUd14Lw1TxYJEBX6IFgY0",
       "label": "Wellness Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RBXoCwCeY64Ow60nWKSZCC"
       ],

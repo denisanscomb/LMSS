@@ -328,6 +328,126 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-04-13T16:19:41.349048+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8Tktpdf3HuYd3nI7nf9xQU",
+      "label": "Psychographic Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999732+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBXoCwCeY64Ow60nWKSZCC",
+      "label": "Health-Conscious Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999763+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBxgbh59bC7QKQ5Bq8NobJH",
+      "label": "Sustainable Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999769+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDdLo2isiJ66JtQdLPnEOOr",
+      "label": "Hobbies Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999774+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RNw3wCvXyyjEPknfOpicmf",
+      "label": "Relationship-Based Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999778+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RPRRa6kLRgNUtQnRPgQmZ2",
+      "label": "Religious Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999782+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBYjEVQYN2eWNPHqVk6LlZu",
+      "label": "Fitness & Exercise Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999786+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/Rt7y5QJoXmShB4OEPQ8Ysl",
+      "label": "Nutrition Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999790+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RvUd14Lw1TxYJEBX6IFgY0",
+      "label": "Wellness Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999794+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7hEm2ZU1e25I6TtEDbo9xI",
+      "label": "Dating Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999797+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9G3uvBhP5zhLlE1HcCXcKP",
+      "label": "LGBTQ+ Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999800+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9iRnRKt4gpWCVseCWJ4b9J",
+      "label": "Family & Parenting Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999802+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCC6FvCiFeSijk47glfD3ZX",
+      "label": "Marriage Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999805+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7g7orVXBD7PBoQArPcDYsz",
+      "label": "Organic Products Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999808+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RC72SJzYRuFThLlcHVREnc2",
+      "label": "Weddings Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:23:05.999811+00:00"
     }
   ],
   "parent_changed": [
@@ -508,5 +628,5 @@
   ],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-04-13T16:19:42.003711+00:00"
+  "last_updated": "2026-04-13T16:23:06.830783+00:00"
 }
