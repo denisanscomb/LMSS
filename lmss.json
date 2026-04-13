@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-13T16:19:21Z",
+    "generated_at": "2026-04-13T16:19:41Z",
     "node_count": 18422,
     "language": "en"
   },
@@ -106120,7 +106120,7 @@
       "iri": "http://lmss.sali.org/R93IYJCdKr3BoQolxyKNTC8",
       "label": "Urban Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RVu433XojPQPseoDXhidgO"
       ],
@@ -175353,7 +175353,7 @@
       "iri": "http://lmss.sali.org/RCO0bQHRPXZEgZEAXRIi8PM",
       "label": "Rural Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RVu433XojPQPseoDXhidgO"
       ],
@@ -226958,7 +226958,7 @@
       "iri": "http://lmss.sali.org/RIPGUOqov5ujn1dMUQF7sZ",
       "label": "Suburban Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RVu433XojPQPseoDXhidgO"
       ],
@@ -238157,7 +238157,7 @@
       "iri": "http://lmss.sali.org/RVu433XojPQPseoDXhidgO",
       "label": "Population Density Market Segment",
       "status": "production",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R7z0ey8ZMeOT1q01VNPe1HY"
       ],

@@ -296,6 +296,38 @@
       "new": true,
       "reason": null,
       "timestamp": "2026-04-13T16:19:21.816914+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RVu433XojPQPseoDXhidgO",
+      "label": "Population Density Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:19:41.349008+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R93IYJCdKr3BoQolxyKNTC8",
+      "label": "Urban Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:19:41.349034+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCO0bQHRPXZEgZEAXRIi8PM",
+      "label": "Rural Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:19:41.349041+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RIPGUOqov5ujn1dMUQF7sZ",
+      "label": "Suburban Market Segment",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "timestamp": "2026-04-13T16:19:41.349048+00:00"
     }
   ],
   "parent_changed": [
@@ -476,5 +508,5 @@
   ],
   "status_changed": [],
   "deleted": [],
-  "last_updated": "2026-04-13T16:19:22.620338+00:00"
+  "last_updated": "2026-04-13T16:19:42.003711+00:00"
 }
