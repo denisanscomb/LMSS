@@ -727,6 +727,12 @@
     }
   ],
   "status_changed": [],
-  "deleted": [],
-  "last_updated": "2026-04-16T12:14:02.661612+00:00"
+  "deleted": [
+    {
+      "iri": "http://lmss.sali.org/3lpCkHuZ7gCghYr9nlkh2T",
+      "label": "Test Node IRI Format",
+      "timestamp": "2026-04-16T12:14:38.569014+00:00"
+    }
+  ],
+  "last_updated": "2026-04-16T12:14:38.964256+00:00"
 }
