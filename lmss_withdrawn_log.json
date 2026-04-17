@@ -83,7 +83,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-17T19:56:43.993358+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/Rt7y5QJoXmShB4OEPQ8Ysl",
+      "label": "Nutrition Market Segment",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-17T19:57:08.033895+00:00"
     }
   ],
-  "last_updated": "2026-04-17T19:56:44.822617+00:00"
+  "last_updated": "2026-04-17T19:57:08.717489+00:00"
 }
