@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T20:01:14Z",
+    "generated_at": "2026-04-17T20:01:45Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -106114,7 +106114,7 @@
     "http://lmss.sali.org/R93IYJCdKr3BoQolxyKNTC8": {
       "iri": "http://lmss.sali.org/R93IYJCdKr3BoQolxyKNTC8",
       "label": "Urban Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/RVu433XojPQPseoDXhidgO"
       ],
