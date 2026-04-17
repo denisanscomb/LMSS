@@ -76,7 +76,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-17T19:55:43.258407+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7g7orVXBD7PBoQArPcDYsz",
+      "label": "Organic Products Market Segment",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-17T19:56:43.993358+00:00"
     }
   ],
-  "last_updated": "2026-04-17T19:55:43.949101+00:00"
+  "last_updated": "2026-04-17T19:56:44.822617+00:00"
 }

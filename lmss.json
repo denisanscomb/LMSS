@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T19:55:43Z",
+    "generated_at": "2026-04-17T19:56:43Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -69026,7 +69026,7 @@
     "http://lmss.sali.org/R7g7orVXBD7PBoQArPcDYsz": {
       "iri": "http://lmss.sali.org/R7g7orVXBD7PBoQArPcDYsz",
       "label": "Organic Products Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/Rt7y5QJoXmShB4OEPQ8Ysl"
       ],
