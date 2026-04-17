@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T19:57:08Z",
+    "generated_at": "2026-04-17T19:58:44Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -152273,7 +152273,7 @@
     "http://lmss.sali.org/RBYjEVQYN2eWNPHqVk6LlZu": {
       "iri": "http://lmss.sali.org/RBYjEVQYN2eWNPHqVk6LlZu",
       "label": "Fitness & Exercise Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/RBXoCwCeY64Ow60nWKSZCC"
       ],
