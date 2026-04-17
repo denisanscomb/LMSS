@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T20:04:22Z",
+    "generated_at": "2026-04-17T20:04:38Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -242597,7 +242597,7 @@
     "http://lmss.sali.org/Raye9wszOl53QEcjEACnQR": {
       "iri": "http://lmss.sali.org/Raye9wszOl53QEcjEACnQR",
       "label": "Polar Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/RDN8CVqeiDlOeHJO8Oeltq6"
       ],
