@@ -204,7 +204,14 @@
       "reinstated": true,
       "reinstated_by": "denis@index.io",
       "reinstated_at": "2026-04-17T20:06:51.110999+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R795I9ybqUdayMEcSmyDrG6",
+      "label": "Behavioral Market Segment",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-17T20:07:12.041932+00:00"
     }
   ],
-  "last_updated": "2026-04-17T20:06:51.801588+00:00"
+  "last_updated": "2026-04-17T20:07:12.799514+00:00"
 }

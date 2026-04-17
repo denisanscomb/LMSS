@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T20:06:51Z",
+    "generated_at": "2026-04-17T20:07:12Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -57266,7 +57266,7 @@
     "http://lmss.sali.org/R795I9ybqUdayMEcSmyDrG6": {
       "iri": "http://lmss.sali.org/R795I9ybqUdayMEcSmyDrG6",
       "label": "Behavioral Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/R8UG79BtYP2uqnKNklLYXB8"
       ],
