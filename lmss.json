@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T19:53:21Z",
+    "generated_at": "2026-04-17T19:53:38Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -161696,7 +161696,7 @@
     "http://lmss.sali.org/RBxgbh59bC7QKQ5Bq8NobJH": {
       "iri": "http://lmss.sali.org/RBxgbh59bC7QKQ5Bq8NobJH",
       "label": "Sustainable Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/R8Tktpdf3HuYd3nI7nf9xQU"
       ],
