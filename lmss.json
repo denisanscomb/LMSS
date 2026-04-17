@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T20:09:43Z",
+    "generated_at": "2026-04-17T20:09:58Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -79789,7 +79789,7 @@
     "http://lmss.sali.org/R85PmuqV6ngjn65DDOJI1Di": {
       "iri": "http://lmss.sali.org/R85PmuqV6ngjn65DDOJI1Di",
       "label": "Senior Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/RZ6hoxQD6Sa9Hi4bnv1jgC"
       ],

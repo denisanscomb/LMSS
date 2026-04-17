@@ -239,7 +239,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-17T20:09:43.430818+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R85PmuqV6ngjn65DDOJI1Di",
+      "label": "Senior Market Segment",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-17T20:09:58.769959+00:00"
     }
   ],
-  "last_updated": "2026-04-17T20:09:44.216545+00:00"
+  "last_updated": "2026-04-17T20:09:59.434415+00:00"
 }
