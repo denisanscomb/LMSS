@@ -62,7 +62,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-17T19:55:05.967027+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RNw3wCvXyyjEPknfOpicmf",
+      "label": "Relationship-Based Market Segment",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-17T19:55:21.741181+00:00"
     }
   ],
-  "last_updated": "2026-04-17T19:55:06.714450+00:00"
+  "last_updated": "2026-04-17T19:55:22.516890+00:00"
 }
