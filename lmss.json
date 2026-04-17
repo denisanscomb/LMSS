@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T20:09:58Z",
+    "generated_at": "2026-04-17T20:10:14Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -213128,7 +213128,7 @@
     "http://lmss.sali.org/RDxqUPyVGJl2FrNLqMtaaPs": {
       "iri": "http://lmss.sali.org/RDxqUPyVGJl2FrNLqMtaaPs",
       "label": "Children's Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/RZ6hoxQD6Sa9Hi4bnv1jgC"
       ],
