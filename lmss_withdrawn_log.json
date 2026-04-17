@@ -166,7 +166,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-17T20:02:49.473195+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBdvVmVo4DBFTBGCs5es5gp",
+      "label": "Temperate Market Segment",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-17T20:04:22.477553+00:00"
     }
   ],
-  "last_updated": "2026-04-17T20:02:50.135414+00:00"
+  "last_updated": "2026-04-17T20:04:23.339762+00:00"
 }
