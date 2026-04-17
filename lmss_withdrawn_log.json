@@ -124,8 +124,11 @@
       "label": "International Market Segment",
       "reason": null,
       "changed_by": "denis@index.io",
-      "timestamp": "2026-04-17T20:00:32.303132+00:00"
+      "timestamp": "2026-04-17T20:00:32.303132+00:00",
+      "reinstated": true,
+      "reinstated_by": "denis@index.io",
+      "reinstated_at": "2026-04-17T20:00:53.328085+00:00"
     }
   ],
-  "last_updated": "2026-04-17T20:00:33.032247+00:00"
+  "last_updated": "2026-04-17T20:00:54.130125+00:00"
 }
