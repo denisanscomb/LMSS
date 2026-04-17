@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T20:07:38Z",
+    "generated_at": "2026-04-17T20:08:00Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -182304,7 +182304,7 @@
     "http://lmss.sali.org/RChyLUYm0W5R3E1yQl08Id9": {
       "iri": "http://lmss.sali.org/RChyLUYm0W5R3E1yQl08Id9",
       "label": "Female Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/R9DCJMzRXnPZMWQqQuPLECx"
       ],

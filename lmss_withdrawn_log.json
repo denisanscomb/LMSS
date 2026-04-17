@@ -218,7 +218,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-17T20:07:38.341817+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RChyLUYm0W5R3E1yQl08Id9",
+      "label": "Female Market Segment",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-17T20:08:00.347128+00:00"
     }
   ],
-  "last_updated": "2026-04-17T20:07:39.133375+00:00"
+  "last_updated": "2026-04-17T20:08:01.215990+00:00"
 }
