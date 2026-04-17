@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T20:02:32Z",
+    "generated_at": "2026-04-17T20:02:49Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -20416,7 +20416,7 @@
     "http://lmss.sali.org/R0cUTmr54fU7MnCdySv1jM": {
       "iri": "http://lmss.sali.org/R0cUTmr54fU7MnCdySv1jM",
       "label": "Tropical Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/RDN8CVqeiDlOeHJO8Oeltq6"
       ],

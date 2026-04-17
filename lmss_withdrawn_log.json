@@ -159,7 +159,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-17T20:02:32.927398+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R0cUTmr54fU7MnCdySv1jM",
+      "label": "Tropical Market Segment",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-17T20:02:49.473195+00:00"
     }
   ],
-  "last_updated": "2026-04-17T20:02:33.605766+00:00"
+  "last_updated": "2026-04-17T20:02:50.135414+00:00"
 }
