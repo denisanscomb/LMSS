@@ -200,8 +200,11 @@
       "label": "Government Market",
       "reason": null,
       "changed_by": "denis@index.io",
-      "timestamp": "2026-04-17T20:06:19.788553+00:00"
+      "timestamp": "2026-04-17T20:06:19.788553+00:00",
+      "reinstated": true,
+      "reinstated_by": "denis@index.io",
+      "reinstated_at": "2026-04-17T20:06:51.110999+00:00"
     }
   ],
-  "last_updated": "2026-04-17T20:06:20.634209+00:00"
+  "last_updated": "2026-04-17T20:06:51.801588+00:00"
 }
