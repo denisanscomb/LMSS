@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T19:59:16Z",
+    "generated_at": "2026-04-17T19:59:37Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -91465,7 +91465,7 @@
     "http://lmss.sali.org/R8Tktpdf3HuYd3nI7nf9xQU": {
       "iri": "http://lmss.sali.org/R8Tktpdf3HuYd3nI7nf9xQU",
       "label": "Psychographic Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/R8UG79BtYP2uqnKNklLYXB8"
       ],
