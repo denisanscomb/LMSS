@@ -180,7 +180,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-17T20:04:38.590694+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9WwJXvFm2I5juWSGCuGnA3",
+      "label": "Arid Market Segment",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-17T20:04:50.867413+00:00"
     }
   ],
-  "last_updated": "2026-04-17T20:04:39.315975+00:00"
+  "last_updated": "2026-04-17T20:04:51.535636+00:00"
 }

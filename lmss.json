@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T20:04:38Z",
+    "generated_at": "2026-04-17T20:04:50Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -120162,7 +120162,7 @@
     "http://lmss.sali.org/R9WwJXvFm2I5juWSGCuGnA3": {
       "iri": "http://lmss.sali.org/R9WwJXvFm2I5juWSGCuGnA3",
       "label": "Arid Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/RDN8CVqeiDlOeHJO8Oeltq6"
       ],
