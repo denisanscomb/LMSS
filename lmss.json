@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T19:55:21Z",
+    "generated_at": "2026-04-17T19:55:43Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -258697,7 +258697,7 @@
     "http://lmss.sali.org/RvUd14Lw1TxYJEBX6IFgY0": {
       "iri": "http://lmss.sali.org/RvUd14Lw1TxYJEBX6IFgY0",
       "label": "Wellness Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/RBXoCwCeY64Ow60nWKSZCC"
       ],

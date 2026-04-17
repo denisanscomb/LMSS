@@ -69,7 +69,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-17T19:55:21.741181+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RvUd14Lw1TxYJEBX6IFgY0",
+      "label": "Wellness Market Segment",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-17T19:55:43.258407+00:00"
     }
   ],
-  "last_updated": "2026-04-17T19:55:22.516890+00:00"
+  "last_updated": "2026-04-17T19:55:43.949101+00:00"
 }
