@@ -145,7 +145,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-17T20:01:59.847392+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCO0bQHRPXZEgZEAXRIi8PM",
+      "label": "Rural Market Segment",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-17T20:02:18.267692+00:00"
     }
   ],
-  "last_updated": "2026-04-17T20:02:00.658368+00:00"
+  "last_updated": "2026-04-17T20:02:19.252424+00:00"
 }
