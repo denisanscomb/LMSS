@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T18:13:32Z",
+    "generated_at": "2026-04-17T18:45:34Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -166411,7 +166411,7 @@
     "http://lmss.sali.org/RC72SJzYRuFThLlcHVREnc2": {
       "iri": "http://lmss.sali.org/RC72SJzYRuFThLlcHVREnc2",
       "label": "Weddings Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/RCC6FvCiFeSijk47glfD3ZX"
       ],
