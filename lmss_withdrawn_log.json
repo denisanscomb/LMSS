@@ -211,7 +211,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-17T20:07:12.041932+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RByGvgH3E8rfhu43RVq0kPU",
+      "label": "Male Market Segment",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-17T20:07:38.341817+00:00"
     }
   ],
-  "last_updated": "2026-04-17T20:07:12.799514+00:00"
+  "last_updated": "2026-04-17T20:07:39.133375+00:00"
 }
