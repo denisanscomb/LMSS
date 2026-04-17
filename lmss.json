@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T19:58:44Z",
+    "generated_at": "2026-04-17T19:59:16Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -151908,7 +151908,7 @@
     "http://lmss.sali.org/RBXoCwCeY64Ow60nWKSZCC": {
       "iri": "http://lmss.sali.org/RBXoCwCeY64Ow60nWKSZCC",
       "label": "Health-Conscious Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/R8Tktpdf3HuYd3nI7nf9xQU"
       ],
