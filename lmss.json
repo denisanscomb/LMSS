@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T20:02:18Z",
+    "generated_at": "2026-04-17T20:02:32Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -238122,7 +238122,7 @@
     "http://lmss.sali.org/RVu433XojPQPseoDXhidgO": {
       "iri": "http://lmss.sali.org/RVu433XojPQPseoDXhidgO",
       "label": "Population Density Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/R7z0ey8ZMeOT1q01VNPe1HY"
       ],
