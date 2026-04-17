@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T20:05:11Z",
+    "generated_at": "2026-04-17T20:06:19Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -116946,7 +116946,7 @@
     "http://lmss.sali.org/R9O42UXt5foFZsqPnx5Yn99": {
       "iri": "http://lmss.sali.org/R9O42UXt5foFZsqPnx5Yn99",
       "label": "Government Market",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/R9A4SXIVWPhowrAideLaemT"
       ],
