@@ -118,7 +118,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-17T20:00:17.720950+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RtGO7nVUVQhovRrhewzPBk",
+      "label": "International Market Segment",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-17T20:00:32.303132+00:00"
     }
   ],
-  "last_updated": "2026-04-17T20:00:18.519036+00:00"
+  "last_updated": "2026-04-17T20:00:33.032247+00:00"
 }
