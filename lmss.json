@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-17T19:54:28Z",
+    "generated_at": "2026-04-17T19:55:05Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -205719,7 +205719,7 @@
     "http://lmss.sali.org/RDdLo2isiJ66JtQdLPnEOOr": {
       "iri": "http://lmss.sali.org/RDdLo2isiJ66JtQdLPnEOOr",
       "label": "Hobbies Market Segment",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/R8Tktpdf3HuYd3nI7nf9xQU"
       ],
