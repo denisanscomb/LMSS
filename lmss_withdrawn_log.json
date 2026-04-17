@@ -187,7 +187,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-17T20:04:50.867413+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDN8CVqeiDlOeHJO8Oeltq6",
+      "label": "Climate-Based Market Segment",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-17T20:05:11.446203+00:00"
     }
   ],
-  "last_updated": "2026-04-17T20:04:51.535636+00:00"
+  "last_updated": "2026-04-17T20:05:12.319577+00:00"
 }
