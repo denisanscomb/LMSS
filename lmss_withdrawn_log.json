@@ -295,7 +295,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-18T06:31:51.033544+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9Mw0y1sYeTkDl6Po3b4ViW",
+      "label": "Islamic Law",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-18T06:32:24.042304+00:00"
     }
   ],
-  "last_updated": "2026-04-18T06:31:51.718864+00:00"
+  "last_updated": "2026-04-18T06:32:24.706473+00:00"
 }
