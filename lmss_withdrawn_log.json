@@ -309,7 +309,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-18T06:32:39.764447+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i",
+      "label": "Religious Law",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-18T06:32:52.362228+00:00"
     }
   ],
-  "last_updated": "2026-04-18T06:32:40.469596+00:00"
+  "last_updated": "2026-04-18T06:32:53.001919+00:00"
 }
