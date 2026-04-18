@@ -274,7 +274,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-18T06:27:04.228870+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCgMu5ynvcgBz5w6ozBAgRO",
+      "label": "Canon Law",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-18T06:30:17.160983+00:00"
     }
   ],
-  "last_updated": "2026-04-18T06:27:05.013199+00:00"
+  "last_updated": "2026-04-18T06:30:17.952383+00:00"
 }
