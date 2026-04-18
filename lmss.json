@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-18T06:30:36Z",
+    "generated_at": "2026-04-18T06:31:51Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -161730,7 +161730,7 @@
     "http://lmss.sali.org/RBxjnpn5QHodww4lTfXSviX": {
       "iri": "http://lmss.sali.org/RBxjnpn5QHodww4lTfXSviX",
       "label": "Indigenous and Tribal Religious Laws",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
