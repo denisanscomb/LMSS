@@ -302,7 +302,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-18T06:32:24.042304+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9OVvZrP50aExKprI0es912",
+      "label": "Jewish Law",
+      "reason": null,
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-04-18T06:32:39.764447+00:00"
     }
   ],
-  "last_updated": "2026-04-18T06:32:24.706473+00:00"
+  "last_updated": "2026-04-18T06:32:40.469596+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-18T06:32:24Z",
+    "generated_at": "2026-04-18T06:32:39Z",
     "node_count": 18413,
     "language": "en"
   },
@@ -117156,7 +117156,7 @@
     "http://lmss.sali.org/R9OVvZrP50aExKprI0es912": {
       "iri": "http://lmss.sali.org/R9OVvZrP50aExKprI0es912",
       "label": "Jewish Law",
-      "status": "beta",
+      "status": "withdrawn",
       "parents": [
         "http://lmss.sali.org/RBkzNeCV70lWNDKaIVq358i"
       ],
