@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-19T20:34:37Z",
+    "generated_at": "2026-04-20T19:25:33Z",
     "node_count": 18423,
     "language": "en"
   },
@@ -230152,7 +230152,7 @@
     "http://lmss.sali.org/RM35ursk6terURihawIPFX": {
       "iri": "http://lmss.sali.org/RM35ursk6terURihawIPFX",
       "label": "Mass Torts Law",
-      "status": "beta",
+      "status": "withdrawn",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R7MK1XmyjtYxZKg8Iw4ZN4K"
