@@ -2,7 +2,32 @@
   "added": [],
   "label_changed": [],
   "deprecated_changed": [],
-  "parent_changed": [],
+  "parent_changed": [
+    {
+      "iri": "http://lmss.sali.org/RCC1A9DDkkbfArlvYUYSSG1",
+      "label": "Environmental, Social, and Governance Law",
+      "old": [
+        "http://lmss.sali.org/R07tQM5sYugYGBPQS571s5",
+        "http://lmss.sali.org/RB7pLfw7zqXtd20kKg7EcOA",
+        "http://lmss.sali.org/RRfuF3AuewVT4SR15di375"
+      ],
+      "new": [
+        "http://lmss.sali.org/RB7pLfw7zqXtd20kKg7EcOA",
+        "http://lmss.sali.org/RRfuF3AuewVT4SR15di375"
+      ],
+      "old_labels": [
+        "Constitutional and Civil Rights Law",
+        "Corporate Governance Law",
+        "Environmental and Natural Resource Law"
+      ],
+      "new_labels": [
+        "Corporate Governance Law",
+        "Environmental and Natural Resource Law"
+      ],
+      "changed_by": "jhannigan@coblentzlaw.com",
+      "timestamp": "2026-04-22T22:18:03.020303+00:00"
+    }
+  ],
   "withdrawn": [],
   "status_changed": [
     {
@@ -16264,5 +16289,5 @@
   ],
   "properties_changed": [],
   "deleted": [],
-  "last_updated": "2026-04-20T19:25:34.258705+00:00"
+  "last_updated": "2026-04-22T22:18:04.119421+00:00"
 }
