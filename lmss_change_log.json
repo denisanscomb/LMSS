@@ -26,6 +26,26 @@
       ],
       "changed_by": "jhannigan@coblentzlaw.com",
       "timestamp": "2026-04-22T22:18:03.020303+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCC1A9DDkkbfArlvYUYSSG1",
+      "label": "Environmental, Social, and Governance Law",
+      "old": [
+        "http://lmss.sali.org/RB7pLfw7zqXtd20kKg7EcOA",
+        "http://lmss.sali.org/RRfuF3AuewVT4SR15di375"
+      ],
+      "new": [
+        "http://lmss.sali.org/RB7pLfw7zqXtd20kKg7EcOA"
+      ],
+      "old_labels": [
+        "Corporate Governance Law",
+        "Environmental and Natural Resource Law"
+      ],
+      "new_labels": [
+        "Corporate Governance Law"
+      ],
+      "changed_by": "jhannigan@coblentzlaw.com",
+      "timestamp": "2026-04-22T22:18:11.313141+00:00"
     }
   ],
   "withdrawn": [],
@@ -16289,5 +16309,5 @@
   ],
   "properties_changed": [],
   "deleted": [],
-  "last_updated": "2026-04-22T22:18:04.119421+00:00"
+  "last_updated": "2026-04-22T22:18:12.217353+00:00"
 }
