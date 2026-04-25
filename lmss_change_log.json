@@ -16343,8 +16343,21 @@
       ],
       "changed_by": "Admin",
       "timestamp": "2026-04-25T16:09:15.942611+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6bN0Lg2OT8yiqpb4vSaBYD",
+      "label": "Cannabis Cultivation",
+      "changes": [
+        {
+          "field": "definition",
+          "old": null,
+          "new": "Cultivation, on-site processing, and extraction of cannabis (Cannabis sativa L.) for commercial purposes, covering medical cannabis, recreational cannabis, and industrial hemp. Encompasses the full point-of-production cycle: growing from seed or clone through harvest (indoor, greenhouse, and outdoor operations); post-harvest processing including drying, curing, and trimming; and primary extraction of cannabinoids and other plant-derived compounds. Also includes nurseries supplying genetics and clones to other cultivators. Excludes wholesale distribution, retail dispensary operations, and the manufacture of finished consumer products incorporating cannabis-derived inputs."
+        }
+      ],
+      "changed_by": "Admin",
+      "timestamp": "2026-04-25T21:11:23.092225+00:00"
     }
   ],
   "deleted": [],
-  "last_updated": "2026-04-25T21:09:05.515403+00:00"
+  "last_updated": "2026-04-25T21:11:23.998224+00:00"
 }
