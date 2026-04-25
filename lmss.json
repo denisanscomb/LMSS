@@ -61709,7 +61709,7 @@
     "http://lmss.sali.org/R7KxYUBMSAuzPHdBhWfPSv7": {
       "iri": "http://lmss.sali.org/R7KxYUBMSAuzPHdBhWfPSv7",
       "label": "Demographic Market Segments",
-      "status": "accepted",
+      "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R8UG79BtYP2uqnKNklLYXB8"
@@ -74037,8 +74037,8 @@
     },
     "http://lmss.sali.org/R7tFU0P1atJqNKz2BW7ly6f": {
       "iri": "http://lmss.sali.org/R7tFU0P1atJqNKz2BW7ly6f",
-      "label": "Individual",
-      "status": "accepted",
+      "label": "Individual Production",
+      "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RDIwFaFcH4KY0gwEY0QlMTp"
@@ -75810,7 +75810,7 @@
     "http://lmss.sali.org/R7z0ey8ZMeOT1q01VNPe1HY": {
       "iri": "http://lmss.sali.org/R7z0ey8ZMeOT1q01VNPe1HY",
       "label": "Geographic Market Segments",
-      "status": "accepted",
+      "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R8UG79BtYP2uqnKNklLYXB8"
@@ -79953,7 +79953,7 @@
     "http://lmss.sali.org/R85mRFndZGnrtqeakkdM38i": {
       "iri": "http://lmss.sali.org/R85mRFndZGnrtqeakkdM38i",
       "label": "Budget Market Segment",
-      "status": "accepted",
+      "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RQbVKPVl5dj5nW6aXoNxx4"
@@ -82406,7 +82406,7 @@
     "http://lmss.sali.org/R8A0lCUdGrKUCB0nu0VfLzI": {
       "iri": "http://lmss.sali.org/R8A0lCUdGrKUCB0nu0VfLzI",
       "label": "Mass Market Segment",
-      "status": "accepted",
+      "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RQbVKPVl5dj5nW6aXoNxx4"
@@ -91707,7 +91707,7 @@
     "http://lmss.sali.org/R8UG79BtYP2uqnKNklLYXB8": {
       "iri": "http://lmss.sali.org/R8UG79BtYP2uqnKNklLYXB8",
       "label": "Market Segment Attributes",
-      "status": "accepted",
+      "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R8f4qGdjxuiQary8OBpq8W9"
@@ -109815,7 +109815,7 @@
     "http://lmss.sali.org/R9A4SXIVWPhowrAideLaemT": {
       "iri": "http://lmss.sali.org/R9A4SXIVWPhowrAideLaemT",
       "label": "Entity-Centric Market Segment",
-      "status": "accepted",
+      "status": "beta",
       "parents": [
         "http://lmss.sali.org/R8UG79BtYP2uqnKNklLYXB8"
       ],
@@ -116946,7 +116946,7 @@
     "http://lmss.sali.org/R9O42UXt5foFZsqPnx5Yn99": {
       "iri": "http://lmss.sali.org/R9O42UXt5foFZsqPnx5Yn99",
       "label": "Government Market",
-      "status": "accepted",
+      "status": "beta",
       "parents": [
         "http://lmss.sali.org/R9A4SXIVWPhowrAideLaemT"
       ],
@@ -145846,7 +145846,7 @@
     "http://lmss.sali.org/RBID3kqYjK1OiK5q4skosNz": {
       "iri": "http://lmss.sali.org/RBID3kqYjK1OiK5q4skosNz",
       "label": "Consumer Market",
-      "status": "accepted",
+      "status": "beta",
       "parents": [
         "http://lmss.sali.org/R9A4SXIVWPhowrAideLaemT"
       ],
@@ -149847,7 +149847,7 @@
     "http://lmss.sali.org/RBSftPgkpTWJ4IzuvXyLBVG": {
       "iri": "http://lmss.sali.org/RBSftPgkpTWJ4IzuvXyLBVG",
       "label": "Territorial Market Segment",
-      "status": "accepted",
+      "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R7z0ey8ZMeOT1q01VNPe1HY"
@@ -155400,7 +155400,7 @@
     "http://lmss.sali.org/RBguYnVVl5fmAxjW2p0fNkw": {
       "iri": "http://lmss.sali.org/RBguYnVVl5fmAxjW2p0fNkw",
       "label": "Luxury Market Segment",
-      "status": "accepted",
+      "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RQbVKPVl5dj5nW6aXoNxx4"
@@ -155601,7 +155601,7 @@
     "http://lmss.sali.org/RBhOGxYh9EijLWWwCV5Exce": {
       "iri": "http://lmss.sali.org/RBhOGxYh9EijLWWwCV5Exce",
       "label": "Regional Market Segment",
-      "status": "accepted",
+      "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RBSftPgkpTWJ4IzuvXyLBVG"
@@ -219162,7 +219162,7 @@
     "http://lmss.sali.org/REWL1tt34AHSTGD8id0gNJ": {
       "iri": "http://lmss.sali.org/REWL1tt34AHSTGD8id0gNJ",
       "label": "Commercial Market",
-      "status": "accepted",
+      "status": "beta",
       "parents": [
         "http://lmss.sali.org/R9A4SXIVWPhowrAideLaemT"
       ],
@@ -233873,7 +233873,7 @@
     "http://lmss.sali.org/RQbVKPVl5dj5nW6aXoNxx4": {
       "iri": "http://lmss.sali.org/RQbVKPVl5dj5nW6aXoNxx4",
       "label": "Price-Based Market Segments",
-      "status": "accepted",
+      "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R7KxYUBMSAuzPHdBhWfPSv7"
@@ -249664,7 +249664,7 @@
     "http://lmss.sali.org/RjlqATUhoynMsnhAf0Wdcs": {
       "iri": "http://lmss.sali.org/RjlqATUhoynMsnhAf0Wdcs",
       "label": "National Market Segment",
-      "status": "accepted",
+      "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RBSftPgkpTWJ4IzuvXyLBVG"
@@ -256816,7 +256816,7 @@
     "http://lmss.sali.org/RtGO7nVUVQhovRrhewzPBk": {
       "iri": "http://lmss.sali.org/RtGO7nVUVQhovRrhewzPBk",
       "label": "International Market Segment",
-      "status": "accepted",
+      "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RBSftPgkpTWJ4IzuvXyLBVG"
@@ -259559,7 +259559,7 @@
     "http://lmss.sali.org/RwU3GRvqoQYs6Q6rnbA9rQ": {
       "iri": "http://lmss.sali.org/RwU3GRvqoQYs6Q6rnbA9rQ",
       "label": "Local Market Segment",
-      "status": "accepted",
+      "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RBSftPgkpTWJ4IzuvXyLBVG"
