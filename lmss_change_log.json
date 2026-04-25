@@ -15,6 +15,13 @@
       "new": "Individual",
       "changed_by": "Admin",
       "timestamp": "2026-04-25T16:08:45.227377+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6bN0Lg2OT8yiqpb4vSaBYD",
+      "old": "Cannabis",
+      "new": "Cannabis Cultivation",
+      "changed_by": "Admin",
+      "timestamp": "2026-04-25T21:09:04.669304+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -16339,5 +16346,5 @@
     }
   ],
   "deleted": [],
-  "last_updated": "2026-04-25T21:03:45.910821+00:00"
+  "last_updated": "2026-04-25T21:09:05.515403+00:00"
 }

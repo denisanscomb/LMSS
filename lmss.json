@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-25T21:03:45Z",
+    "generated_at": "2026-04-25T21:09:04Z",
     "node_count": 18424,
     "language": "en"
   },
@@ -280798,7 +280798,7 @@
     },
     "http://lmss.sali.org/6bN0Lg2OT8yiqpb4vSaBYD": {
       "iri": "http://lmss.sali.org/6bN0Lg2OT8yiqpb4vSaBYD",
-      "label": "Cannabis",
+      "label": "Cannabis Cultivation",
       "status": "beta",
       "deprecated": false,
       "parents": [
