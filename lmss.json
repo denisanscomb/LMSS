@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-25T16:08:45Z",
+    "generated_at": "2026-04-25T16:09:15Z",
     "node_count": 18423,
     "language": "en"
   },
@@ -74043,7 +74043,7 @@
       "parents": [
         "http://lmss.sali.org/RDIwFaFcH4KY0gwEY0QlMTp"
       ],
-      "definition": "For those matters (e.g., personal injury) and clients (e.g., individuals) where an `Industry` is not applicable.",
+      "definition": "An industry classification for matters where the primary client is a natural person rather than an incorporated entity, partnership, or other formal business structure. Used for personal legal matters including estate planning, high-net-worth advisory, family law, and work involving influencers, athletes, or other individuals whose economic activity does not fit a single corporate sector code.",
       "examples": [],
       "pref_label": null,
       "sources": [],
