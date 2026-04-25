@@ -1,6 +1,14 @@
 {
   "added": [],
-  "label_changed": [],
+  "label_changed": [
+    {
+      "iri": "http://lmss.sali.org/R7tFU0P1atJqNKz2BW7ly6f",
+      "old": "No Industry",
+      "new": "Individual",
+      "changed_by": "Admin",
+      "timestamp": "2026-04-25T16:08:45.227377+00:00"
+    }
+  ],
   "deprecated_changed": [],
   "parent_changed": [
     {
@@ -16309,5 +16317,5 @@
   ],
   "properties_changed": [],
   "deleted": [],
-  "last_updated": "2026-04-22T22:18:12.217353+00:00"
+  "last_updated": "2026-04-25T16:08:45.936788+00:00"
 }

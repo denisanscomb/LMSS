@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-22T22:18:11Z",
+    "generated_at": "2026-04-25T16:08:45Z",
     "node_count": 18423,
     "language": "en"
   },
@@ -74037,7 +74037,7 @@
     },
     "http://lmss.sali.org/R7tFU0P1atJqNKz2BW7ly6f": {
       "iri": "http://lmss.sali.org/R7tFU0P1atJqNKz2BW7ly6f",
-      "label": "No Industry",
+      "label": "Individual",
       "status": "accepted",
       "deprecated": false,
       "parents": [
