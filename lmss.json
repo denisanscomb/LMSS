@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-25T16:09:37Z",
-    "node_count": 18423,
+    "generated_at": "2026-04-25T21:03:45Z",
+    "node_count": 18424,
     "language": "en"
   },
   "nodes": {
@@ -280790,6 +280790,21 @@
         "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
       ],
       "definition": "Software publishers and technology service providers whose primary business is protecting computer systems, networks, and data from unauthorised access, cyberattacks, and digital threats. Includes providers of endpoint security, network security, identity and access management (IAM), threat intelligence, vulnerability management, and security operations centre (SOC) services and platforms.",
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/6bN0Lg2OT8yiqpb4vSaBYD": {
+      "iri": "http://lmss.sali.org/6bN0Lg2OT8yiqpb4vSaBYD",
+      "label": "Cannabis",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/m_xYZAywQL6jYjPb7-meCw"
+      ],
+      "definition": null,
       "examples": [],
       "pref_label": null,
       "sources": [],

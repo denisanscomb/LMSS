@@ -1,5 +1,13 @@
 {
-  "added": [],
+  "added": [
+    {
+      "iri": "http://lmss.sali.org/6bN0Lg2OT8yiqpb4vSaBYD",
+      "label": "Cannabis",
+      "parent_iri": "http://lmss.sali.org/m_xYZAywQL6jYjPb7-meCw",
+      "changed_by": "Admin",
+      "timestamp": "2026-04-25T21:03:45.161669+00:00"
+    }
+  ],
   "label_changed": [
     {
       "iri": "http://lmss.sali.org/R7tFU0P1atJqNKz2BW7ly6f",
@@ -16331,5 +16339,5 @@
     }
   ],
   "deleted": [],
-  "last_updated": "2026-04-25T16:09:38.264810+00:00"
+  "last_updated": "2026-04-25T21:03:45.910821+00:00"
 }
