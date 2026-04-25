@@ -323,7 +323,14 @@
       "reason": null,
       "changed_by": "denis@index.io",
       "timestamp": "2026-04-20T19:25:33.346210+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/1I7FDiM6OkrUyokmq3hoIF",
+      "label": "Individual",
+      "reason": "duplicated",
+      "changed_by": "Admin",
+      "timestamp": "2026-04-25T16:09:37.387438+00:00"
     }
   ],
-  "last_updated": "2026-04-20T19:25:34.268766+00:00"
+  "last_updated": "2026-04-25T16:09:38.274943+00:00"
 }
