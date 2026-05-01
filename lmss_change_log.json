@@ -76,6 +76,26 @@
       ],
       "changed_by": "jhannigan@coblentzlaw.com",
       "timestamp": "2026-04-22T22:18:11.313141+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/2GL3wPPyBNPcAdt7zIOJZ1",
+      "label": "Crypto Brokerage / Digital Asset Exchange",
+      "old": [
+        "http://lmss.sali.org/uF5peA3LSQStw_jNvwgv8g"
+      ],
+      "new": [
+        "http://lmss.sali.org/JfimJvhUSLue3Mn4ZEg8qQ",
+        "http://lmss.sali.org/uF5peA3LSQStw_jNvwgv8g"
+      ],
+      "old_labels": [
+        "Investment Banking and Securities Intermediation"
+      ],
+      "new_labels": [
+        "Securities and Commodity Exchanges",
+        "Investment Banking and Securities Intermediation"
+      ],
+      "changed_by": "Admin",
+      "timestamp": "2026-05-01T12:58:54.953591+00:00"
     }
   ],
   "withdrawn": [],
@@ -16366,5 +16386,5 @@
     }
   ],
   "deleted": [],
-  "last_updated": "2026-04-26T18:38:20.425460+00:00"
+  "last_updated": "2026-05-01T12:58:56.253954+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-04-26T18:38:19Z",
+    "generated_at": "2026-05-01T12:58:54Z",
     "node_count": 18424,
     "language": "en"
   },
@@ -280682,7 +280682,8 @@
       "status": "beta",
       "deprecated": false,
       "parents": [
-        "http://lmss.sali.org/uF5peA3LSQStw_jNvwgv8g"
+        "http://lmss.sali.org/uF5peA3LSQStw_jNvwgv8g",
+        "http://lmss.sali.org/JfimJvhUSLue3Mn4ZEg8qQ"
       ],
       "definition": "An operator of platforms that facilitate the buying, selling, and trading of cryptocurrencies, digital tokens, stablecoins, and other digital assets between counterparties. Includes centralised exchanges (CEX) such as Coinbase and Kraken, decentralised exchange (DEX) protocol operators, and hybrid platforms providing custody and brokerage services for digital assets.",
       "examples": [],
