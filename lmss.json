@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-05-01T12:58:54Z",
-    "node_count": 18424,
+    "generated_at": "2026-05-04T15:20:16.621189+00:00",
+    "node_count": 18425,
     "language": "en"
   },
   "nodes": {
@@ -16280,7 +16280,7 @@
       "parents": [
         "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb"
       ],
-      "definition": "Montagnes refers to a region in Côte d'Ivoire that is characterized by its mountainous terrain.",
+      "definition": "Montagnes refers to a region in C\u00f4te d'Ivoire that is characterized by its mountainous terrain.",
       "examples": [],
       "pref_label": "Montagnes",
       "sources": [],
@@ -17960,7 +17960,7 @@
       "parents": [
         "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb"
       ],
-      "definition": "Vallee du Bandama refers to a region in Côte d'Ivoire, specifically a valley located in the Bandama River basin.",
+      "definition": "Vallee du Bandama refers to a region in C\u00f4te d'Ivoire, specifically a valley located in the Bandama River basin.",
       "examples": [],
       "pref_label": "Vallee du Bandama",
       "sources": [],
@@ -19019,13 +19019,13 @@
     },
     "http://lmss.sali.org/R0CCZFsgcvvOe2oYPnmajn": {
       "iri": "http://lmss.sali.org/R0CCZFsgcvvOe2oYPnmajn",
-      "label": "Société en Commandite Simple",
+      "label": "Soci\u00e9t\u00e9 en Commandite Simple",
       "status": "accepted",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R7oBWHStfmqTLn2MypkW3Pj"
       ],
-      "definition": "Société en Commandite Simple is a form of business in which a limited partner provides the bulk of the funds but entrusts the administration of the company to the general partner, who has increased prerogatives from the larger corporations. It should be distinguished from the more frequent limited partnership (SCA).",
+      "definition": "Soci\u00e9t\u00e9 en Commandite Simple is a form of business in which a limited partner provides the bulk of the funds but entrusts the administration of the company to the general partner, who has increased prerogatives from the larger corporations. It should be distinguished from the more frequent limited partnership (SCA).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -22116,7 +22116,7 @@
       "parents": [
         "http://lmss.sali.org/RCLxFZZvTWZmKpUYJa6UMmO"
       ],
-      "definition": "Action filed under the Telephone Consumer Protection Act 47 U.S.C. § 227",
+      "definition": "Action filed under the Telephone Consumer Protection Act 47 U.S.C. \u00a7 227",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -22731,7 +22731,7 @@
       "parents": [
         "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb"
       ],
-      "definition": "Bas-Sassandra is a region in Côte d'Ivoire.",
+      "definition": "Bas-Sassandra is a region in C\u00f4te d'Ivoire.",
       "examples": [],
       "pref_label": "Bas-Sassandra",
       "sources": [],
@@ -23175,13 +23175,13 @@
     },
     "http://lmss.sali.org/R18n1R5u96SkGrmnLNmve": {
       "iri": "http://lmss.sali.org/R18n1R5u96SkGrmnLNmve",
-      "label": "Guillain-Barré Syndrome",
+      "label": "Guillain-Barr\u00e9 Syndrome",
       "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RtLCzYWZfRT3o7tzhyamNE"
       ],
-      "definition": "Guillain-Barré Syndrome (GBS) is a rare neurological disorder in which the body's immune system mistakenly attacks the peripheral nerves, leading to muscle weakness, numbness, and paralysis. This condition often begins with tingling and weakness in the extremities and can progress rapidly, sometimes affecting respiratory muscles and requiring medical intervention.",
+      "definition": "Guillain-Barr\u00e9 Syndrome (GBS) is a rare neurological disorder in which the body's immune system mistakenly attacks the peripheral nerves, leading to muscle weakness, numbness, and paralysis. This condition often begins with tingling and weakness in the extremities and can progress rapidly, sometimes affecting respiratory muscles and requiring medical intervention.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -27382,7 +27382,7 @@
       "parents": [
         "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb"
       ],
-      "definition": "A type of vegetation characterized by grasses and scattered trees, found in the region of Côte d'Ivoire.",
+      "definition": "A type of vegetation characterized by grasses and scattered trees, found in the region of C\u00f4te d'Ivoire.",
       "examples": [],
       "pref_label": "Savanes",
       "sources": [],
@@ -28297,7 +28297,7 @@
       "parents": [
         "http://lmss.sali.org/R767niCLQVC5zIcO5WDQMSl"
       ],
-      "definition": "Locations used: Åland Islands(AX), European Union(EU), Andorra(AD), Austria(AT), Belgium(BE), Cyprus(CY), Estonia(EE), Finland(FI), France(FR), French Southern and Antarctic Lands(TF), Germany(DE), Greece(GR), Guadeloupe(GP), Ireland(IE), Italy",
+      "definition": "Locations used: \u00c5land Islands(AX), European Union(EU), Andorra(AD), Austria(AT), Belgium(BE), Cyprus(CY), Estonia(EE), Finland(FI), France(FR), French Southern and Antarctic Lands(TF), Germany(DE), Greece(GR), Guadeloupe(GP), Ireland(IE), Italy",
       "examples": [],
       "pref_label": "Euro",
       "sources": [],
@@ -30256,7 +30256,7 @@
     },
     "http://lmss.sali.org/R2HiB5TvfeJECVu1qgsUGk": {
       "iri": "http://lmss.sali.org/R2HiB5TvfeJECVu1qgsUGk",
-      "label": "Yup’ik (Yup’ik Eskimo)",
+      "label": "Yup\u2019ik (Yup\u2019ik Eskimo)",
       "status": "beta",
       "deprecated": false,
       "parents": [
@@ -35367,7 +35367,7 @@
       "parents": [
         "http://lmss.sali.org/RCdJG6uCwl9vj0GwxJe7mez"
       ],
-      "definition": "\"The client assigned matter id or case reference number.  Multiple cl_matter_id's can be billed in the same invoice.   \n\"",
+      "definition": "\"The client assigned matter id or case reference number.\u00a0 Multiple cl_matter_id's can be billed in the same invoice.\u00a0  \n\"",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -37284,7 +37284,7 @@
     },
     "http://lmss.sali.org/R44D87f9B72d25C6e264A8be": {
       "iri": "http://lmss.sali.org/R44D87f9B72d25C6e264A8be",
-      "label": "Réunion",
+      "label": "R\u00e9union",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -37292,7 +37292,7 @@
       ],
       "definition": null,
       "examples": [],
-      "pref_label": "Réunion",
+      "pref_label": "R\u00e9union",
       "sources": [],
       "legacy_iri": "http://code.sali.org/v1/LMSS/#Loc-AFR-RE",
       "node_type": "class"
@@ -40022,7 +40022,7 @@
       "parents": [
         "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb"
       ],
-      "definition": "Lagunes refers to a region in Côte d'Ivoire.",
+      "definition": "Lagunes refers to a region in C\u00f4te d'Ivoire.",
       "examples": [],
       "pref_label": "Lagunes",
       "sources": [],
@@ -41581,15 +41581,15 @@
     },
     "http://lmss.sali.org/R515e6b916906706556FEd72": {
       "iri": "http://lmss.sali.org/R515e6b916906706556FEd72",
-      "label": "São Tomé and Príncipe dobra",
+      "label": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra",
       "status": "accepted",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R767niCLQVC5zIcO5WDQMSl"
       ],
-      "definition": "Locations used: São Tomé and Príncipe",
+      "definition": "Locations used: S\u00e3o Tom\u00e9 and Pr\u00edncipe",
       "examples": [],
-      "pref_label": "São Tomé and Príncipe dobra",
+      "pref_label": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra",
       "sources": [],
       "legacy_iri": "http://code.sali.org/v1/LMSS/#STN",
       "node_type": "class"
@@ -41917,7 +41917,7 @@
       "parents": [
         "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb"
       ],
-      "definition": "Zanzan is a region in Côte d'Ivoire.",
+      "definition": "Zanzan is a region in C\u00f4te d'Ivoire.",
       "examples": [],
       "pref_label": "Zanzan",
       "sources": [],
@@ -42847,7 +42847,7 @@
       "parents": [
         "http://lmss.sali.org/R8V9Ma3IrggNq0pxeXl8Re5"
       ],
-      "definition": "Check Payment involves transferring funds from one party to another by writing a physical or electronic check that authorizes the withdrawal of a specific amount from the payer’s bank account. It is a paper-based method of payment but can also exist in digital formats like e-checks.",
+      "definition": "Check Payment involves transferring funds from one party to another by writing a physical or electronic check that authorizes the withdrawal of a specific amount from the payer\u2019s bank account. It is a paper-based method of payment but can also exist in digital formats like e-checks.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -49544,7 +49544,7 @@
       "parents": [
         "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb"
       ],
-      "definition": "Comoe is a region in Côte d'Ivoire.",
+      "definition": "Comoe is a region in C\u00f4te d'Ivoire.",
       "examples": [],
       "pref_label": "Comoe",
       "sources": [],
@@ -49553,7 +49553,7 @@
     },
     "http://lmss.sali.org/R6BB54b75Cd3b9D772fD1c92": {
       "iri": "http://lmss.sali.org/R6BB54b75Cd3b9D772fD1c92",
-      "label": "Paraguayan guaraní",
+      "label": "Paraguayan guaran\u00ed",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -49561,7 +49561,7 @@
       ],
       "definition": "Locations used: Paraguay",
       "examples": [],
-      "pref_label": "Paraguayan guaraní",
+      "pref_label": "Paraguayan guaran\u00ed",
       "sources": [],
       "legacy_iri": "http://code.sali.org/v1/LMSS/#PYG",
       "node_type": "class"
@@ -50154,7 +50154,7 @@
     },
     "http://lmss.sali.org/R6DD0665BB9728371338Ed5e": {
       "iri": "http://lmss.sali.org/R6DD0665BB9728371338Ed5e",
-      "label": "Tongan paʻanga",
+      "label": "Tongan pa\u02bbanga",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -50162,7 +50162,7 @@
       ],
       "definition": "Locations used: Tonga",
       "examples": [],
-      "pref_label": "Tongan paʻanga",
+      "pref_label": "Tongan pa\u02bbanga",
       "sources": [],
       "legacy_iri": "http://code.sali.org/v1/LMSS/#TOP",
       "node_type": "class"
@@ -52031,7 +52031,7 @@
     },
     "http://lmss.sali.org/R70nh7ZnOaD7WpZPpaL0QK": {
       "iri": "http://lmss.sali.org/R70nh7ZnOaD7WpZPpaL0QK",
-      "label": "Jamestown S’Klallam Tribe",
+      "label": "Jamestown S\u2019Klallam Tribe",
       "status": "beta",
       "deprecated": false,
       "parents": [
@@ -52172,7 +52172,7 @@
       "parents": [
         "http://lmss.sali.org/R9aSzp9cEiBCzObnP92jYFX"
       ],
-      "definition": "Africa is a continent located on the Earth, consisting of various countries and their political subdivisions, including Djibouti, Rwanda, Zimbabwe, Angola, Guinea, Egypt, Morocco, Réunion, Nigeria, South Sudan, Tanzania, United Republic of, Equatorial Guinea, Algeria, Niger (the), Chad, Congo (the), Burkina Faso, Somalia, Saint Helena, Ascension and Tristan da Cunha, Sudan (the), Cabo Verde, Guinea-Bissau, Mozambique, Uganda, Gabon, Kenya, Eritrea, Libya, Comoros (the), Togo, Congo (the Democratic Republic of the), Sierra Leone, Ghana, Western Sahara*, Madagascar, Namibia, Mali, Swaziland, Malawi, Botswana, Senegal, São Tomé and Príncipe, South Africa, Mauritania, Central African Republic (the), Liberia, Côte d'Ivoire, Ethiopia, Seychelles, Burundi, Gambia (the), Lesotho, Mauritius, and Zambia.",
+      "definition": "Africa is a continent located on the Earth, consisting of various countries and their political subdivisions, including Djibouti, Rwanda, Zimbabwe, Angola, Guinea, Egypt, Morocco, R\u00e9union, Nigeria, South Sudan, Tanzania, United Republic of, Equatorial Guinea, Algeria, Niger (the), Chad, Congo (the), Burkina Faso, Somalia, Saint Helena, Ascension and Tristan da Cunha, Sudan (the), Cabo Verde, Guinea-Bissau, Mozambique, Uganda, Gabon, Kenya, Eritrea, Libya, Comoros (the), Togo, Congo (the Democratic Republic of the), Sierra Leone, Ghana, Western Sahara*, Madagascar, Namibia, Mali, Swaziland, Malawi, Botswana, Senegal, S\u00e3o Tom\u00e9 and Pr\u00edncipe, South Africa, Mauritania, Central African Republic (the), Liberia, C\u00f4te d'Ivoire, Ethiopia, Seychelles, Burundi, Gambia (the), Lesotho, Mauritius, and Zambia.",
       "examples": [],
       "pref_label": "Africa",
       "sources": [],
@@ -55164,7 +55164,7 @@
       "parents": [
         "http://lmss.sali.org/R8cjnXHiv1wNe6nzPvWnhQw"
       ],
-      "definition": "Nonpossessory Interest refers to a type of property interest that grants certain rights to use or enjoy the property without possessing it. This includes interests such as easements, covenants, and profits à prendre, where the holder has limited rights related to the property owned by another person.",
+      "definition": "Nonpossessory Interest refers to a type of property interest that grants certain rights to use or enjoy the property without possessing it. This includes interests such as easements, covenants, and profits \u00e0 prendre, where the holder has limited rights related to the property owned by another person.",
       "examples": [],
       "pref_label": "Non-Possession Property Rights",
       "sources": [],
@@ -58969,7 +58969,7 @@
       "parents": [
         "http://lmss.sali.org/R767niCLQVC5zIcO5WDQMSl"
       ],
-      "definition": "Locations used: Benin(BJ), Burkina Faso(BF), Côte d'Ivoire(CI), Guinea-Bissau(GW), Mali(ML), Niger(NE), Senegal(SN), Togo(TG)",
+      "definition": "Locations used: Benin(BJ), Burkina Faso(BF), C\u00f4te d'Ivoire(CI), Guinea-Bissau(GW), Mali(ML), Niger(NE), Senegal(SN), Togo(TG)",
       "examples": [],
       "pref_label": "CFA franc BCEAO",
       "sources": [],
@@ -59473,7 +59473,7 @@
     },
     "http://lmss.sali.org/R7DA75f882195846b4353d6f": {
       "iri": "http://lmss.sali.org/R7DA75f882195846b4353d6f",
-      "label": "Saint Barthélemy",
+      "label": "Saint Barth\u00e9lemy",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -59481,7 +59481,7 @@
       ],
       "definition": null,
       "examples": [],
-      "pref_label": "Saint Barthélemy",
+      "pref_label": "Saint Barth\u00e9lemy",
       "sources": [],
       "legacy_iri": "http://code.sali.org/v1/LMSS/#Loc-NAM-BL",
       "node_type": "class"
@@ -60729,7 +60729,7 @@
       "parents": [
         "http://lmss.sali.org/RBZL31YCqZA1E1vlIkzRRqw"
       ],
-      "definition": "\"\"\"Tax-on-Tax\"\" is a situation where one or more taxes in a tax jurisdiction are based on the sum of the corresponding invoice line item totals AND any other tax amount previously applied to those line item totals. For example, formerly n both Quebec and Prince Edward Island Canada had specific taxes calculated on the sum of the line items plus the federal tax paid on those line items.\n\"",
+      "definition": "\"\"\"Tax-on-Tax\"\" is a situation where one or more taxes in a tax jurisdiction are based on the sum of the corresponding invoice line item totals AND any other tax amount previously applied to those line item totals. For example, formerly n both\u00a0Quebec and Prince Edward Island Canada had specific taxes calculated on the sum of the line items plus the federal tax paid on those line items.\n\"",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -61850,7 +61850,7 @@
       "parents": [
         "http://lmss.sali.org/RBOtHAspaFqAn6etwaV6JMm"
       ],
-      "definition": "Action filed under Civil Rights Act, 52 U.S.C. § 10101, and Voting Rights Act, 52 U.S.C. § 10301",
+      "definition": "Action filed under Civil Rights Act, 52 U.S.C. \u00a7 10101, and Voting Rights Act, 52 U.S.C. \u00a7 10301",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -62868,7 +62868,7 @@
     },
     "http://lmss.sali.org/R7NkdM8YhcmzfiWmRifZdxG": {
       "iri": "http://lmss.sali.org/R7NkdM8YhcmzfiWmRifZdxG",
-      "label": "Director’s Liability to Shareholders",
+      "label": "Director\u2019s Liability to Shareholders",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -63919,7 +63919,7 @@
       "parents": [
         "http://lmss.sali.org/RCNVgIoWmZL1X9aDWlGZuX9"
       ],
-      "definition": "Action concerning damages caused by a defective product, not primarily involving personal injury or property damage, and based primarily on breach of contract, breach of warranty, misrepresentation, and/or violation of consumer protection laws.  Actions primarily alleging personal injury or property damage caused by a defective product should be classified under the appropriate nature of suit code under “TORTS.”",
+      "definition": "Action concerning damages caused by a defective product, not primarily involving personal injury or property damage, and based primarily on breach of contract, breach of warranty, misrepresentation, and/or violation of consumer protection laws.  Actions primarily alleging personal injury or property damage caused by a defective product should be classified under the appropriate nature of suit code under \u201cTORTS.\u201d",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -64973,7 +64973,7 @@
     },
     "http://lmss.sali.org/R7Tn5t9qFMlvi0wYJnvaBCU": {
       "iri": "http://lmss.sali.org/R7Tn5t9qFMlvi0wYJnvaBCU",
-      "label": "Asa’carsarmiut Tribe",
+      "label": "Asa\u2019carsarmiut Tribe",
       "status": "beta",
       "deprecated": false,
       "parents": [
@@ -66168,7 +66168,7 @@
     },
     "http://lmss.sali.org/R7XbEh3GF8UCVdgUzC8xo9N": {
       "iri": "http://lmss.sali.org/R7XbEh3GF8UCVdgUzC8xo9N",
-      "label": "Algaaciq Native Village (St. Mary’s)",
+      "label": "Algaaciq Native Village (St. Mary\u2019s)",
       "status": "beta",
       "deprecated": false,
       "parents": [
@@ -66749,7 +66749,7 @@
       "parents": [
         "http://lmss.sali.org/RxTxaN981tLTsN82qPBcp"
       ],
-      "definition": "The threats and opportunities associated with an organization's capacity and sustainability of information management procedures and practices — including the potential for negative outcomes resulting from an organization's inability to effectively collect, store, process, and protect its data and information assets. This can stem from poor data quality, outdated systems, inadequate data security measures, or noncompliance with data protection regulations, potentially leading to data breaches, or legal liabilities, ultimately affecting the organization's performance.",
+      "definition": "The threats and opportunities associated with an organization's capacity and sustainability of information management procedures and practices \u2014 including the potential for negative outcomes resulting from an organization's inability to effectively collect, store, process, and protect its data and information assets. This can stem from poor data quality, outdated systems, inadequate data security measures, or noncompliance with data protection regulations, potentially leading to data breaches, or legal liabilities, ultimately affecting the organization's performance.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -67490,7 +67490,7 @@
       "parents": [
         "http://lmss.sali.org/RBOtHAspaFqAn6etwaV6JMm"
       ],
-      "definition": "Action of discrimination against an individual with disabilities in areas other than employment, filed under 42 U.S.C. § 12133 (exclusion or discrimination in provision of services, programs or activities of a public entity) or 42 U.S.C. § 12188 (public accommodations)",
+      "definition": "Action of discrimination against an individual with disabilities in areas other than employment, filed under 42 U.S.C. \u00a7 12133 (exclusion or discrimination in provision of services, programs or activities of a public entity) or 42 U.S.C. \u00a7 12188 (public accommodations)",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -68340,7 +68340,7 @@
       "parents": [
         "http://lmss.sali.org/RCqBiJAwLT5iG2nvk12tNKW"
       ],
-      "definition": "To drink alcoholic beverages to the extent that one’s mental faculties and physical coordination are substantially impaired.",
+      "definition": "To drink alcoholic beverages to the extent that one\u2019s mental faculties and physical coordination are substantially impaired.",
       "examples": [],
       "pref_label": "Drunkenness",
       "sources": [],
@@ -68520,7 +68520,7 @@
       "parents": [
         "http://lmss.sali.org/R7LI3BONqNkXbKHKa0t3jyI"
       ],
-      "definition": "Developing strategy for — and preparing — a debtor's Operating Reports (e.g., Budget Preparation, Budget Updates).",
+      "definition": "Developing strategy for \u2014 and preparing \u2014 a debtor's Operating Reports (e.g., Budget Preparation, Budget Updates).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -68882,7 +68882,7 @@
       "parents": [
         "http://lmss.sali.org/RKY2B2HNSx5K82dgVN6Qn7"
       ],
-      "definition": "In the United States, a \"Petition for Alien Fiancé(e)\" refers to Form I-129F in the United States, which is used by U.S. citizens to petition for their foreign fiancé(e) to enter the U.S. for the purpose of getting married. This form initiates the K-1 visa process, allowing the foreign fiancé(e) to travel to the U.S. and marry the U.S. citizen petitioner within 90 days of arrival",
+      "definition": "In the United States, a \"Petition for Alien Fianc\u00e9(e)\" refers to Form I-129F in the United States, which is used by U.S. citizens to petition for their foreign fianc\u00e9(e) to enter the U.S. for the purpose of getting married. This form initiates the K-1 visa process, allowing the foreign fianc\u00e9(e) to travel to the U.S. and marry the U.S. citizen petitioner within 90 days of arrival",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -69790,7 +69790,7 @@
       "examples": [],
       "pref_label": null,
       "sources": [
-        "From LIST: Legal Issues Taxonomy — https://taxonomy.legal/"
+        "From LIST: Legal Issues Taxonomy \u2014 https://taxonomy.legal/"
       ],
       "legacy_iri": null,
       "node_type": "class"
@@ -70892,7 +70892,7 @@
       "parents": [
         "http://lmss.sali.org/RCEDL3kMYgjFUEOhOyGp3IE"
       ],
-      "definition": "Person who provides verbatim recordings of each session of the court and every other proceeding by shorthand, mechanical means, electronic sound recording, or any other method. See 28 U.S. Code § 753",
+      "definition": "Person who provides verbatim recordings of each session of the court and every other proceeding by shorthand, mechanical means, electronic sound recording, or any other method. See 28 U.S. Code \u00a7 753",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -71150,13 +71150,13 @@
     },
     "http://lmss.sali.org/R7ljmto05qFOOjMDFYJXgCc": {
       "iri": "http://lmss.sali.org/R7ljmto05qFOOjMDFYJXgCc",
-      "label": "Scènes à Faire",
+      "label": "Sc\u00e8nes \u00e0 Faire",
       "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RCoXvGg5LXK9dGHQMqGPNCe"
       ],
-      "definition": "Scènes à Faire in copyright law refers to scenes, elements, or themes that are standard, necessary, or customary to a particular genre and are therefore not protectable due to their lack of originality. This doctrine acknowledges that certain expressions are indispensable or typical for certain topics or settings and are therefore free for use by all.",
+      "definition": "Sc\u00e8nes \u00e0 Faire in copyright law refers to scenes, elements, or themes that are standard, necessary, or customary to a particular genre and are therefore not protectable due to their lack of originality. This doctrine acknowledges that certain expressions are indispensable or typical for certain topics or settings and are therefore free for use by all.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -71665,7 +71665,7 @@
     },
     "http://lmss.sali.org/R7n44E1SO9VDJ9Kp9G6v1F7": {
       "iri": "http://lmss.sali.org/R7n44E1SO9VDJ9Kp9G6v1F7",
-      "label": "Lessor’s Breach of Express Warranty on Goods",
+      "label": "Lessor\u2019s Breach of Express Warranty on Goods",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -71710,7 +71710,7 @@
     },
     "http://lmss.sali.org/R7nAdEIoau71IKNfRbVollw": {
       "iri": "http://lmss.sali.org/R7nAdEIoau71IKNfRbVollw",
-      "label": "Tohono O’odham Nation of Arizona",
+      "label": "Tohono O\u2019odham Nation of Arizona",
       "status": "beta",
       "deprecated": false,
       "parents": [
@@ -72765,7 +72765,7 @@
       "parents": [
         "http://lmss.sali.org/RNoW92yXeKjoc34E3HzcI1"
       ],
-      "definition": "Engagement fee model where a client pays a fee represented by the percentage of the amount of money that a client saved in litigation — often expressed as the difference between a third party's originally demanded amount (from the client) and the client's ultimate payment amount.",
+      "definition": "Engagement fee model where a client pays a fee represented by the percentage of the amount of money that a client saved in litigation \u2014 often expressed as the difference between a third party's originally demanded amount (from the client) and the client's ultimate payment amount.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -73922,7 +73922,7 @@
       "parents": [
         "http://lmss.sali.org/RxTxaN981tLTsN82qPBcp"
       ],
-      "definition": "The threats and opportunities associated with an organization's design and delivery of specific programs, which may impact the organization's overall objectives — including the potential for negative outcomes arising from the inadequate planning, development, or execution of an organization's projects or initiatives. This can result from poor project management, ineffective stakeholder engagement, unrealistic expectations, or insufficient resources, potentially leading to delays, cost overruns, unmet objectives, or reputational damage, ultimately impacting the organization's overall performance and success",
+      "definition": "The threats and opportunities associated with an organization's design and delivery of specific programs, which may impact the organization's overall objectives \u2014 including the potential for negative outcomes arising from the inadequate planning, development, or execution of an organization's projects or initiatives. This can result from poor project management, ineffective stakeholder engagement, unrealistic expectations, or insufficient resources, potentially leading to delays, cost overruns, unmet objectives, or reputational damage, ultimately impacting the organization's overall performance and success",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -75125,7 +75125,7 @@
     },
     "http://lmss.sali.org/R7x9oK0YduqWR8uViL5Qdpt": {
       "iri": "http://lmss.sali.org/R7x9oK0YduqWR8uViL5Qdpt",
-      "label": "Chippewa Cree Indians of the Rocky Boy’s Reservation, Montana",
+      "label": "Chippewa Cree Indians of the Rocky Boy\u2019s Reservation, Montana",
       "status": "beta",
       "deprecated": false,
       "parents": [
@@ -75357,7 +75357,7 @@
       "parents": [
         "http://lmss.sali.org/RxTxaN981tLTsN82qPBcp"
       ],
-      "definition": "The threats and opportunities associated with an organization's capacity and sustainability of information technology, both the infrastructure and utilization of technological applications — including the potential for negative consequences arising from an organization's reliance on technology systems, infrastructure, and processes. This can result from technology failures, cyber attacks, data breaches, or inadequate IT management practices, potentially leading to operational disruptions, financial losses, reputational damage, or legal liabilities, ultimately impacting the organization's overall performance and competitiveness.",
+      "definition": "The threats and opportunities associated with an organization's capacity and sustainability of information technology, both the infrastructure and utilization of technological applications \u2014 including the potential for negative consequences arising from an organization's reliance on technology systems, infrastructure, and processes. This can result from technology failures, cyber attacks, data breaches, or inadequate IT management practices, potentially leading to operational disruptions, financial losses, reputational damage, or legal liabilities, ultimately impacting the organization's overall performance and competitiveness.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -75875,7 +75875,7 @@
       "parents": [
         "http://lmss.sali.org/RBQjEGIpmUNhT9brH9gpy58"
       ],
-      "definition": "\"The email address of the contact.   \n\"",
+      "definition": "\"The email address of the contact.\u00a0  \n\"",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -76013,7 +76013,7 @@
       "parents": [
         "http://lmss.sali.org/R9OVY5GWczMSrxKsf8cfgpq"
       ],
-      "definition": "An opinion letter stating that a property will not be subject to “substantive consolidation” in situations where a restructuring or liquidation may involve the property’s owner.",
+      "definition": "An opinion letter stating that a property will not be subject to \u201csubstantive consolidation\u201d in situations where a restructuring or liquidation may involve the property\u2019s owner.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -76103,7 +76103,7 @@
       "parents": [
         "http://lmss.sali.org/R8gQNLZgaibwr6Km5c3edGm"
       ],
-      "definition": "Work related to effecting service, including dealing with process servers or the foreign process office. Work in preparation of claims, petitions and any other originating process, Statements of Case, Part 20 proceedings, including reviewing those of other parties whether or not a responsive document is served. Includes all work with counsel thereon and all dealings with client and others in connection therewith.  In appeals includes Appellants’ and Respondents’ Notices and supporting skeleton arguments.",
+      "definition": "Work related to effecting service, including dealing with process servers or the foreign process office. Work in preparation of claims, petitions and any other originating process, Statements of Case, Part 20 proceedings, including reviewing those of other parties whether or not a responsive document is served. Includes all work with counsel thereon and all dealings with client and others in connection therewith.  In appeals includes Appellants\u2019 and Respondents\u2019 Notices and supporting skeleton arguments.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -77134,7 +77134,7 @@
     },
     "http://lmss.sali.org/R81SEQDLhhVCoslHg2hIbL2": {
       "iri": "http://lmss.sali.org/R81SEQDLhhVCoslHg2hIbL2",
-      "label": "Lessor’s Breach of Implied Warranty on Goods",
+      "label": "Lessor\u2019s Breach of Implied Warranty on Goods",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -77306,7 +77306,7 @@
       "parents": [
         "http://lmss.sali.org/R9QUQK65GB15xLVfXkpiW5r"
       ],
-      "definition": "An asset exchange where a party replaces debt with equity — or equity with debt — in a company. Replacing debt with equity often occurs during restructuring to improve financial stability. Replacing equity with debt can help raise capital while avoiding dilution of ownership.",
+      "definition": "An asset exchange where a party replaces debt with equity \u2014 or equity with debt \u2014 in a company. Replacing debt with equity often occurs during restructuring to improve financial stability. Replacing equity with debt can help raise capital while avoiding dilution of ownership.",
       "examples": [],
       "pref_label": "Exchange Equity for Debt",
       "sources": [],
@@ -77413,7 +77413,7 @@
       ],
       "definition": "An Intended Spouse is a person who is engaged to be married and has a clear intention to enter into a legally recognized marriage. This status often involves legal considerations, such as immigration benefits, where the intended spouse may apply for a visa to join their partner in another country for the purpose of marriage.",
       "examples": [],
-      "pref_label": "Fiancé",
+      "pref_label": "Fianc\u00e9",
       "sources": [],
       "legacy_iri": null,
       "node_type": "class"
@@ -79937,13 +79937,13 @@
     },
     "http://lmss.sali.org/R85jiP49mIhIBjTNJlNv6Wx": {
       "iri": "http://lmss.sali.org/R85jiP49mIhIBjTNJlNv6Wx",
-      "label": "Société Anonyme",
+      "label": "Soci\u00e9t\u00e9 Anonyme",
       "status": "accepted",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R7oBWHStfmqTLn2MypkW3Pj"
       ],
-      "definition": "Société anonyme (and variants in other languages; English: Anonymous society; shortened to S.A. or SA) designates a type of corporation in countries that mostly employ civil law. Depending on language, it means anonymous company, anonymous partnership, share company, or joint-stock company, roughly equivalent to a public limited company in common law jurisdictions. It is different from partnerships and private limited companies.",
+      "definition": "Soci\u00e9t\u00e9 anonyme (and variants in other languages; English: Anonymous society; shortened to S.A. or SA) designates a type of corporation in countries that mostly employ civil law. Depending on language, it means anonymous company, anonymous partnership, share company, or joint-stock company, roughly equivalent to a public limited company in common law jurisdictions. It is different from partnerships and private limited companies.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -81775,7 +81775,7 @@
       "examples": [
         "\"Stop right there!\"",
         "\"Wow!\"",
-        "“I asked ‘What did you say?’”"
+        "\u201cI asked \u2018What did you say?\u2019\u201d"
       ],
       "pref_label": null,
       "sources": [],
@@ -82972,7 +82972,7 @@
         "http://lmss.sali.org/RbvEeHm8jkxY6SgfxEoC0i",
         "http://lmss.sali.org/RxkTKgYqWS0WBHnJgrn27Y"
       ],
-      "definition": "Cash is legal tender – currency or coins – that can be used to exchange goods, debt, or services. Sometimes it also includes the value of assets that can be easily converted into cash immediately, as reported by a company. Cash equivalents are investment",
+      "definition": "Cash is legal tender \u2013 currency or coins \u2013 that can be used to exchange goods, debt, or services. Sometimes it also includes the value of assets that can be easily converted into cash immediately, as reported by a company. Cash equivalents are investment",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -85755,7 +85755,7 @@
     },
     "http://lmss.sali.org/R8F56755A9a6eE5167cC4bb5": {
       "iri": "http://lmss.sali.org/R8F56755A9a6eE5167cC4bb5",
-      "label": "Salvadoran colón",
+      "label": "Salvadoran col\u00f3n",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -85763,7 +85763,7 @@
       ],
       "definition": "Locations used: El Salvador",
       "examples": [],
-      "pref_label": "Salvadoran colón",
+      "pref_label": "Salvadoran col\u00f3n",
       "sources": [],
       "legacy_iri": "http://code.sali.org/v1/LMSS/#SVC",
       "node_type": "class"
@@ -85956,7 +85956,7 @@
       "parents": [
         "http://lmss.sali.org/R8YpJBaF5zesoc0jtaNESdQ"
       ],
-      "definition": "Persuasive Precedent refers to a legal decision or ruling from another jurisdiction or a lower court that, while not binding, may influence a court’s decision in a current case due to its relevance, reasoning, or persuasive value. This type of precedent serves as a guiding tool rather than a compulsory authority.",
+      "definition": "Persuasive Precedent refers to a legal decision or ruling from another jurisdiction or a lower court that, while not binding, may influence a court\u2019s decision in a current case due to its relevance, reasoning, or persuasive value. This type of precedent serves as a guiding tool rather than a compulsory authority.",
       "examples": [],
       "pref_label": "Influential Authority",
       "sources": [],
@@ -86945,11 +86945,11 @@
       ],
       "definition": "Duty of care is a legal obligation requiring individuals and organizations to adhere to a standard of reasonable care while performing acts that could foreseeably harm others. This duty ensures that actions or omissions do not result in injury or damage to other parties.",
       "examples": [
-        "Corporate Director’s Duty To Company: A director must make decisions with the same care an ordinarily prudent person in a similar position would use, focusing on the company's best interests.",
-        "Landowner’s Duty To Visitors: A property owner must ensure that their property is safe for visitors and take reasonable steps to prevent injuries.",
-        "Manufacturer’s Duty Of Care: A manufacturer must ensure that products are safe for consumer use and provide adequate warnings of potential hazards.",
-        "Medical Professional’s Duty To Patients: A doctor must provide treatment that meets the standard of care expected in the medical community to avoid harm to patients.",
-        "Teacher’s Duty To Students: A teacher must provide a safe learning environment and act with reasonable care to prevent harm to students."
+        "Corporate Director\u2019s Duty To Company: A director must make decisions with the same care an ordinarily prudent person in a similar position would use, focusing on the company's best interests.",
+        "Landowner\u2019s Duty To Visitors: A property owner must ensure that their property is safe for visitors and take reasonable steps to prevent injuries.",
+        "Manufacturer\u2019s Duty Of Care: A manufacturer must ensure that products are safe for consumer use and provide adequate warnings of potential hazards.",
+        "Medical Professional\u2019s Duty To Patients: A doctor must provide treatment that meets the standard of care expected in the medical community to avoid harm to patients.",
+        "Teacher\u2019s Duty To Students: A teacher must provide a safe learning environment and act with reasonable care to prevent harm to students."
       ],
       "pref_label": "Standard of Care",
       "sources": [],
@@ -88493,10 +88493,10 @@
       ],
       "definition": "Duty of loyalty is a legal obligation that requires fiduciaries to act in the best interests of their beneficiaries or principals, avoiding conflicts of interest and self-dealing. This duty ensures that fiduciaries prioritize the interests of those they serve above their own personal gain.",
       "examples": [
-        "Corporate Director’s Decisions: A corporate director must make decisions that prioritize the best interests of the company and its shareholders, avoiding personal gains at their expense.",
-        "Employee Protecting Employer’s Interests: An employee must act in the best interests of their employer, avoiding activities that would harm the employer or benefit a competitor.",
-        "Executor Administering Estate: An executor must act in the best interests of the beneficiaries when managing the deceased’s estate, avoiding any self-dealing or conflicts of interest.",
-        "Financial Advisor Providing Unbiased Advice: A financial advisor must offer investment advice that is solely in the client’s best interest, without being influenced by personal gain or third-party incentives.",
+        "Corporate Director\u2019s Decisions: A corporate director must make decisions that prioritize the best interests of the company and its shareholders, avoiding personal gains at their expense.",
+        "Employee Protecting Employer\u2019s Interests: An employee must act in the best interests of their employer, avoiding activities that would harm the employer or benefit a competitor.",
+        "Executor Administering Estate: An executor must act in the best interests of the beneficiaries when managing the deceased\u2019s estate, avoiding any self-dealing or conflicts of interest.",
+        "Financial Advisor Providing Unbiased Advice: A financial advisor must offer investment advice that is solely in the client\u2019s best interest, without being influenced by personal gain or third-party incentives.",
         "Trustee Managing Trust Assets: A trustee must manage trust assets exclusively for the benefit of the beneficiaries, avoiding any conflicts of interest."
       ],
       "pref_label": "Fiduciary Loyalty",
@@ -90416,7 +90416,7 @@
     },
     "http://lmss.sali.org/R8R2AoaEDICGsFmF97dz5gG": {
       "iri": "http://lmss.sali.org/R8R2AoaEDICGsFmF97dz5gG",
-      "label": "Child’s Right to Rescind Contract",
+      "label": "Child\u2019s Right to Rescind Contract",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -91124,7 +91124,7 @@
       "parents": [
         "http://lmss.sali.org/RfBdQ771UMEZMpb5zTUXAZ"
       ],
-      "definition": "Likelihood of an adverse result (e.g., client liability, client convicted) — sometimes expressed as a percentage, and sometimes expressed as a classification (e.g., Very High, High, Medium, Low)",
+      "definition": "Likelihood of an adverse result (e.g., client liability, client convicted) \u2014 sometimes expressed as a percentage, and sometimes expressed as a classification (e.g., Very High, High, Medium, Low)",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -92089,7 +92089,7 @@
       "parents": [
         "http://lmss.sali.org/RCNVgIoWmZL1X9aDWlGZuX9"
       ],
-      "definition": "Action based on performance and payment bonds agreed to by contractors on federal construction projects as required under the Miller Act, 40 U.S.C. § 3131-3134.",
+      "definition": "Action based on performance and payment bonds agreed to by contractors on federal construction projects as required under the Miller Act, 40 U.S.C. \u00a7 3131-3134.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -92134,7 +92134,7 @@
       "parents": [
         "http://lmss.sali.org/R8fcGNgScyMlOAFxW5Omw5Y"
       ],
-      "definition": "To use an object or instrument to unlawfully penetrate, however slightly, the genital or anal opening of the body of another person, forcibly and/or against that person’s will or not forcibly or against the person’s will in instances where the victim is incapable of giving consent because of his/her youth or because of his/her temporary or permanent mental or physical incapacity.",
+      "definition": "To use an object or instrument to unlawfully penetrate, however slightly, the genital or anal opening of the body of another person, forcibly and/or against that person\u2019s will or not forcibly or against the person\u2019s will in instances where the victim is incapable of giving consent because of his/her youth or because of his/her temporary or permanent mental or physical incapacity.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -92629,7 +92629,7 @@
     },
     "http://lmss.sali.org/R8WnrUA2CS73Xe482K0icqD": {
       "iri": "http://lmss.sali.org/R8WnrUA2CS73Xe482K0icqD",
-      "label": "625 Drug Related Seizure of Property 21 U.S.C. § 881 (PACER NoS)",
+      "label": "625 Drug Related Seizure of Property 21 U.S.C. \u00a7 881 (PACER NoS)",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -95286,7 +95286,7 @@
       "parents": [
         "http://lmss.sali.org/RnhXmv223OLuy6W4pzIHlD"
       ],
-      "definition": "Action by prisoner currently in custody for a writ of mandamus to compel action by a judge or government official relating to the prisoner’s confinement, including conditions of confinement. This category also includes any actions other than mandamus brought by a prisoner currently in custody, whether or not it relates to his confinement, if it is not classifiable under any other nature of suit category under Prisoner Petitions (for example, action by prisoner to recover property taken by the government in a criminal case).",
+      "definition": "Action by prisoner currently in custody for a writ of mandamus to compel action by a judge or government official relating to the prisoner\u2019s confinement, including conditions of confinement. This category also includes any actions other than mandamus brought by a prisoner currently in custody, whether or not it relates to his confinement, if it is not classifiable under any other nature of suit category under Prisoner Petitions (for example, action by prisoner to recover property taken by the government in a criminal case).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -95729,7 +95729,7 @@
       "parents": [
         "http://lmss.sali.org/R8t7u58Bmu2hmFFto8S64nx"
       ],
-      "definition": "A person who is licensed to practice land surveying. See Cal. Bus. and Prof. § 8701.",
+      "definition": "A person who is licensed to practice land surveying. See Cal. Bus. and Prof. \u00a7 8701.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -95896,7 +95896,7 @@
       "parents": [
         "http://lmss.sali.org/R8TvbewYypS9Uy4y5JGIwEH"
       ],
-      "definition": "The carnal knowledge of a person, forcibly and/or against that person’s will or not forcibly or against the person’s will in instances where the victim is incapable of giving consent because of his/her temporary or permanent mental or physical incapacity.",
+      "definition": "The carnal knowledge of a person, forcibly and/or against that person\u2019s will or not forcibly or against the person\u2019s will in instances where the victim is incapable of giving consent because of his/her temporary or permanent mental or physical incapacity.",
       "examples": [],
       "pref_label": "Sexual Assault",
       "sources": [],
@@ -96897,9 +96897,9 @@
       "definition": "The entity or process through which a law firm first acquired a client or a legal engagement. This source may be external, such as referrals from other lawyers, internal firm efforts like marketing, or direct client outreach.",
       "examples": [
         "A client contacts a law firm after seeing an advertisement or attending a legal seminar sponsored by the firm.",
-        "A company engages a law firm based on its in-house lawyer’s recommendation.",
+        "A company engages a law firm based on its in-house lawyer\u2019s recommendation.",
         "A law firm is referred a new client by an external lawyer.",
-        "A law firm retains a new client via a former client’s referral."
+        "A law firm retains a new client via a former client\u2019s referral."
       ],
       "pref_label": "Client Origination",
       "sources": [],
@@ -98485,7 +98485,7 @@
       "parents": [
         "http://lmss.sali.org/R7MK1XmyjtYxZKg8Iw4ZN4K"
       ],
-      "definition": "Matters relating to personal property — not real property — such as damage to vehicles, ownership of valuables (e.g., jewelry), trespass to chattels, etc.",
+      "definition": "Matters relating to personal property \u2014 not real property \u2014 such as damage to vehicles, ownership of valuables (e.g., jewelry), trespass to chattels, etc.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -99192,7 +99192,7 @@
       "parents": [
         "http://lmss.sali.org/RCuhulltRlDN8kiH5sooyW9"
       ],
-      "definition": "Chronic heart failure (CHF) is a condition where the heart is unable to pump blood effectively to meet the body’s needs, leading to symptoms such as dyspnea (shortness of breath), fatigue, and fluid retention. It is characterized by the need for ongoing, consistent medical management, including treatments like diuretics, ACE inhibitors, and beta-blockers, and may require significant lifestyle modifications or assistance with daily activities.",
+      "definition": "Chronic heart failure (CHF) is a condition where the heart is unable to pump blood effectively to meet the body\u2019s needs, leading to symptoms such as dyspnea (shortness of breath), fatigue, and fluid retention. It is characterized by the need for ongoing, consistent medical management, including treatments like diuretics, ACE inhibitors, and beta-blockers, and may require significant lifestyle modifications or assistance with daily activities.",
       "examples": [],
       "pref_label": "Congestive Heart Failure",
       "sources": [],
@@ -100148,7 +100148,7 @@
       "parents": [
         "http://lmss.sali.org/RMDZKh0zTn6FdXzpYpbsle"
       ],
-      "definition": "Total, cumulative amount paid — in fees and/or expenses.",
+      "definition": "Total, cumulative amount paid \u2014 in fees and/or expenses.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -100812,7 +100812,7 @@
       "parents": [
         "http://lmss.sali.org/RDrbY6MeW8iV9jZP5QxI6Vg"
       ],
-      "definition": "Action filed under the Family Medical Leave Act, 29 U.S.C. § 2601",
+      "definition": "Action filed under the Family Medical Leave Act, 29 U.S.C. \u00a7 2601",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -101067,7 +101067,7 @@
       "parents": [
         "http://lmss.sali.org/RNUBxUepOEIOvagLHcD3N0"
       ],
-      "definition": "An O-2 visa is issued to individuals who provide essential support services to O-1 visa holders, allowing them to enter the U.S. to assist in the performance of the O-1 visa holder’s work. This visa category includes personnel whose skills are integral to the successful performance of the O-1 visa holder.",
+      "definition": "An O-2 visa is issued to individuals who provide essential support services to O-1 visa holders, allowing them to enter the U.S. to assist in the performance of the O-1 visa holder\u2019s work. This visa category includes personnel whose skills are integral to the successful performance of the O-1 visa holder.",
       "examples": [],
       "pref_label": "Support Staff Visa For Extraordinary Talent",
       "sources": [],
@@ -101918,7 +101918,7 @@
       "parents": [
         "http://lmss.sali.org/R8gQNLZgaibwr6Km5c3edGm"
       ],
-      "definition": "Preparing and considering amendments to originating process, Statements of Case, Part 20 proceedings.  In appeals refers to amendments to Appellants’ and Respondents’ Notices and supporting skeleton arguments.",
+      "definition": "Preparing and considering amendments to originating process, Statements of Case, Part 20 proceedings.  In appeals refers to amendments to Appellants\u2019 and Respondents\u2019 Notices and supporting skeleton arguments.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -102477,13 +102477,13 @@
     },
     "http://lmss.sali.org/R8wA3T9pdhvD5aLaVlHf1mQ": {
       "iri": "http://lmss.sali.org/R8wA3T9pdhvD5aLaVlHf1mQ",
-      "label": "423 Withdrawal of Reference 28 USC § 157 (PACER NoS)",
+      "label": "423 Withdrawal of Reference 28 USC \u00a7 157 (PACER NoS)",
       "status": "accepted",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RDh40CO7HUNG1LKgW1jusOO"
       ],
-      "definition": "Action held in bankruptcy court requesting withdrawal under the provisions of 28 U.S.C. § 157",
+      "definition": "Action held in bankruptcy court requesting withdrawal under the provisions of 28 U.S.C. \u00a7 157",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -103813,7 +103813,7 @@
     },
     "http://lmss.sali.org/R8zVMDBAo2aRDyknQDZjMfs": {
       "iri": "http://lmss.sali.org/R8zVMDBAo2aRDyknQDZjMfs",
-      "label": "Lessor’s Default on Lease of Goods",
+      "label": "Lessor\u2019s Default on Lease of Goods",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -107307,7 +107307,7 @@
       "parents": [
         "http://lmss.sali.org/RCLxFZZvTWZmKpUYJa6UMmO"
       ],
-      "definition": "Action drawing into question the constitutionality of a federal or state statute filed under (Rule 5.1). Rule 5.1 implements 28 U.S.C. §2403.",
+      "definition": "Action drawing into question the constitutionality of a federal or state statute filed under (Rule 5.1). Rule 5.1 implements 28 U.S.C. \u00a72403.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -109709,7 +109709,7 @@
     },
     "http://lmss.sali.org/R9A0I2uVwmdv6q0dLzA2b3c": {
       "iri": "http://lmss.sali.org/R9A0I2uVwmdv6q0dLzA2b3c",
-      "label": "Village of Clark’s Point",
+      "label": "Village of Clark\u2019s Point",
       "status": "beta",
       "deprecated": false,
       "parents": [
@@ -110943,7 +110943,7 @@
     },
     "http://lmss.sali.org/R9BgzBqCWU5ljdmx9uyagbX": {
       "iri": "http://lmss.sali.org/R9BgzBqCWU5ljdmx9uyagbX",
-      "label": "Agent’s Personal Liability on Contract",
+      "label": "Agent\u2019s Personal Liability on Contract",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -111823,13 +111823,13 @@
     },
     "http://lmss.sali.org/R9Cy2HyrxJFo8tk0VgAkLKi": {
       "iri": "http://lmss.sali.org/R9Cy2HyrxJFo8tk0VgAkLKi",
-      "label": "Friedreich’s Ataxia",
+      "label": "Friedreich\u2019s Ataxia",
       "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RkvRD1NfpM4aO12DEEarGf"
       ],
-      "definition": "Friedreich’s ataxia is a rare, inherited degenerative disorder that primarily affects the nervous system and the spinal cord. It is characterized by progressive loss of coordination, muscle weakness, and gait disturbances due to the degeneration of spinal cord pathways and cerebellum.",
+      "definition": "Friedreich\u2019s ataxia is a rare, inherited degenerative disorder that primarily affects the nervous system and the spinal cord. It is characterized by progressive loss of coordination, muscle weakness, and gait disturbances due to the degeneration of spinal cord pathways and cerebellum.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -112669,7 +112669,7 @@
       "parents": [
         "http://lmss.sali.org/RDwNOkyYBQw2SPTqJl6tIjZ"
       ],
-      "definition": "\"An optional field assigned by the law firm to identify the firm.   \n\"",
+      "definition": "\"An optional field assigned by the law firm to identify the firm.\u00a0  \n\"",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -114945,7 +114945,7 @@
       "parents": [
         "http://lmss.sali.org/RR9QJW9652P8tYfw5XQ5Tl"
       ],
-      "definition": "Immigration habeas petition under 28 U.S.C. § 2241. All cases filed with this nature of suit code are restricted to case participants and public terminals. Petition is filed by an alien detainee.",
+      "definition": "Immigration habeas petition under 28 U.S.C. \u00a7 2241. All cases filed with this nature of suit code are restricted to case participants and public terminals. Petition is filed by an alien detainee.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -115270,13 +115270,13 @@
     },
     "http://lmss.sali.org/R9JhFu3gdrpsakpnlIVLkUu": {
       "iri": "http://lmss.sali.org/R9JhFu3gdrpsakpnlIVLkUu",
-      "label": "835 Patent – Abbreviated New Drug Application (PACER NoS)",
+      "label": "835 Patent \u2013 Abbreviated New Drug Application (PACER NoS)",
       "status": "accepted",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RCKkUM2s9JcBYCHb797Fk9h"
       ],
-      "definition": "Action filed in support or to dispute a patent claim involving an Abbreviated New Drug Application (ANDA). These cases are also known as “Hatch-Waxman” cases.",
+      "definition": "Action filed in support or to dispute a patent claim involving an Abbreviated New Drug Application (ANDA). These cases are also known as \u201cHatch-Waxman\u201d cases.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -116305,7 +116305,7 @@
       "parents": [
         "http://lmss.sali.org/RCNVgIoWmZL1X9aDWlGZuX9"
       ],
-      "definition": "Action primarily based on rights and obligations under a contract not classifiable elsewhere under the specific natures of suit under “Contract.”",
+      "definition": "Action primarily based on rights and obligations under a contract not classifiable elsewhere under the specific natures of suit under \u201cContract.\u201d",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -119243,7 +119243,7 @@
       "parents": [
         "http://lmss.sali.org/R9c3HXkuELwcWa4UNcvpbxk"
       ],
-      "definition": "Debt Instrument Attributes refer to specific characteristics and features that define various aspects of debt instruments, such as bonds, loans, and other forms of borrowing. These attributes include terms related to pricing, structure, and type of debt, which impact the instrument’s value, risk, and marketability.",
+      "definition": "Debt Instrument Attributes refer to specific characteristics and features that define various aspects of debt instruments, such as bonds, loans, and other forms of borrowing. These attributes include terms related to pricing, structure, and type of debt, which impact the instrument\u2019s value, risk, and marketability.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -119363,7 +119363,7 @@
       "parents": [
         "http://lmss.sali.org/RfBdQ771UMEZMpb5zTUXAZ"
       ],
-      "definition": "The maximum amount in controversy, where the actual amount in dispute is below that maximum. Example: Small-claims courts (also known as \"conciliation courts\" frequently have a maximum amount of controversy (e.g., $1,000 or $10,000) — over which the case must be argued in a higher court (e.g., state district court).",
+      "definition": "The maximum amount in controversy, where the actual amount in dispute is below that maximum. Example: Small-claims courts (also known as \"conciliation courts\" frequently have a maximum amount of controversy (e.g., $1,000 or $10,000) \u2014 over which the case must be argued in a higher court (e.g., state district court).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -122417,7 +122417,7 @@
       "parents": [
         "http://lmss.sali.org/RC2WMPkRhWUyZLYCJbRJFwj"
       ],
-      "definition": "Temporal detail of how frequently a particular Project-Management Document recurs — for example, a document (e.g., budget, schedule, plan) can be weekly, monthly, quarterly.",
+      "definition": "Temporal detail of how frequently a particular Project-Management Document recurs \u2014 for example, a document (e.g., budget, schedule, plan) can be weekly, monthly, quarterly.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -124463,7 +124463,7 @@
       "parents": [
         "http://lmss.sali.org/RBQjEGIpmUNhT9brH9gpy58"
       ],
-      "definition": "\"The first name of the contact.   \n\"",
+      "definition": "\"The first name of the contact.\u00a0  \n\"",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -126600,7 +126600,7 @@
       "parents": [
         "http://lmss.sali.org/RCLxFZZvTWZmKpUYJa6UMmO"
       ],
-      "definition": "Action brought under the False Claims Act by private persons (also known as \"whistleblowers\") on their own behalf and on behalf of the United States to recover damages against another person or entity that acted fraudulently in receiving payments or property from, or avoiding debts owed to, the United States Government, 31 U.S.C. § 3730",
+      "definition": "Action brought under the False Claims Act by private persons (also known as \"whistleblowers\") on their own behalf and on behalf of the United States to recover damages against another person or entity that acted fraudulently in receiving payments or property from, or avoiding debts owed to, the United States Government, 31 U.S.C. \u00a7 3730",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -126721,7 +126721,7 @@
       "parents": [
         "http://lmss.sali.org/R7PHFZzZmVmczzNQl6iZKsa"
       ],
-      "definition": "A creditor who initiates an involuntary bankruptcy by filing an involuntary petition, which can be filed against an individual or business. 11 US Code § 303",
+      "definition": "A creditor who initiates an involuntary bankruptcy by filing an involuntary petition, which can be filed against an individual or business. 11 US Code \u00a7 303",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -127595,7 +127595,7 @@
       "parents": [
         "http://lmss.sali.org/R8Ahr1iRMkczkHNvcrZ3KOG"
       ],
-      "definition": "Cash is legal tender – currency or coins – that can be used to exchange goods, debt, or services. Sometimes it also includes the value of assets that can be easily converted into cash immediately, as reported by a company.",
+      "definition": "Cash is legal tender \u2013 currency or coins \u2013 that can be used to exchange goods, debt, or services. Sometimes it also includes the value of assets that can be easily converted into cash immediately, as reported by a company.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -127891,7 +127891,7 @@
     },
     "http://lmss.sali.org/R9t3AYQvReMSxehDqSagifl": {
       "iri": "http://lmss.sali.org/R9t3AYQvReMSxehDqSagifl",
-      "label": "Longshore and Harbor Workers’ Compensation Act Claim",
+      "label": "Longshore and Harbor Workers\u2019 Compensation Act Claim",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -127899,7 +127899,7 @@
         "http://lmss.sali.org/RD22PX6hiObnrRSM3c6bXdR",
         "http://lmss.sali.org/RqHLQbqYW16CtZ6TSKOZPz"
       ],
-      "definition": "A claim made under the Longshore and Harbor Workers’ Compensation Act (LHWCA), which provides benefits to certain maritime workers who are injured or become ill while working on navigable waters or in adjoining areas used for loading, unloading, repairing, or building a vessel.",
+      "definition": "A claim made under the Longshore and Harbor Workers\u2019 Compensation Act (LHWCA), which provides benefits to certain maritime workers who are injured or become ill while working on navigable waters or in adjoining areas used for loading, unloading, repairing, or building a vessel.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -128340,7 +128340,7 @@
       "parents": [
         "http://lmss.sali.org/R8TvbewYypS9Uy4y5JGIwEH"
       ],
-      "definition": "Oral or anal sexual intercourse with another person, forcibly and/or against that person’s will or not forcibly or against the person’s will in instances where the victim is incapable of giving consent because of his/her youth or because of his/her temporary or permanent mental or physical incapacity.",
+      "definition": "Oral or anal sexual intercourse with another person, forcibly and/or against that person\u2019s will or not forcibly or against the person\u2019s will in instances where the victim is incapable of giving consent because of his/her youth or because of his/her temporary or permanent mental or physical incapacity.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -128764,7 +128764,7 @@
       "parents": [
         "http://lmss.sali.org/RDrbY6MeW8iV9jZP5QxI6Vg"
       ],
-      "definition": "Action relating to disputes filed under the Railway Labor Act, 45 U.S.C. § 151 including labor disputes, individual claims, and response to sanctions.",
+      "definition": "Action relating to disputes filed under the Railway Labor Act, 45 U.S.C. \u00a7 151 including labor disputes, individual claims, and response to sanctions.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -130550,7 +130550,7 @@
       "parents": [
         "http://lmss.sali.org/RCAB15957188722B6fc98458"
       ],
-      "definition": "Principe (subdivision of São Tomé and Príncipe) is a specific political subdivision within the country of São Tomé and Príncipe, located on the island of Principe.",
+      "definition": "Principe (subdivision of S\u00e3o Tom\u00e9 and Pr\u00edncipe) is a specific political subdivision within the country of S\u00e3o Tom\u00e9 and Pr\u00edncipe, located on the island of Principe.",
       "examples": [],
       "pref_label": "Principe",
       "sources": [],
@@ -134596,7 +134596,7 @@
     },
     "http://lmss.sali.org/RAF836b688a27CD650c6D3a8": {
       "iri": "http://lmss.sali.org/RAF836b688a27CD650c6D3a8",
-      "label": "Mongolian tögrög",
+      "label": "Mongolian t\u00f6gr\u00f6g",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -134604,7 +134604,7 @@
       ],
       "definition": "Locations used: Mongolia",
       "examples": [],
-      "pref_label": "Mongolian tögrög",
+      "pref_label": "Mongolian t\u00f6gr\u00f6g",
       "sources": [],
       "legacy_iri": "http://code.sali.org/v1/LMSS/#MNT",
       "node_type": "class"
@@ -134918,7 +134918,7 @@
       "parents": [
         "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb"
       ],
-      "definition": "Sassandra-Marahoue is a region in Côte d'Ivoire.",
+      "definition": "Sassandra-Marahoue is a region in C\u00f4te d'Ivoire.",
       "examples": [],
       "pref_label": "Sassandra-Marahoue",
       "sources": [],
@@ -135291,13 +135291,13 @@
     },
     "http://lmss.sali.org/RB0qPRMj5N3h44DMCy1eMuO": {
       "iri": "http://lmss.sali.org/RB0qPRMj5N3h44DMCy1eMuO",
-      "label": "Bokmål, Norwegian; Norwegian Bokmål",
+      "label": "Bokm\u00e5l, Norwegian; Norwegian Bokm\u00e5l",
       "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RDOvAHsvY8TKJ1O1orXPM9o"
       ],
-      "definition": "Bokmål, Norwegian or Norwegian Bokmål is a written or spoken structured system of communication that consists of grammar and vocabulary, and is a subcategory of the Language class in the context of legal matters.",
+      "definition": "Bokm\u00e5l, Norwegian or Norwegian Bokm\u00e5l is a written or spoken structured system of communication that consists of grammar and vocabulary, and is a subcategory of the Language class in the context of legal matters.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -136554,7 +136554,7 @@
       "parents": [
         "http://lmss.sali.org/RDrbY6MeW8iV9jZP5QxI6Vg"
       ],
-      "definition": "Action relating to non-union workplace related disputes filed under the Fair Labor Standards Act, 29 U.S.C. § 201 including but not limited to wage discrimination, paid leave, minimum wage and overtime pay.",
+      "definition": "Action relating to non-union workplace related disputes filed under the Fair Labor Standards Act, 29 U.S.C. \u00a7 201 including but not limited to wage discrimination, paid leave, minimum wage and overtime pay.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -137111,7 +137111,7 @@
       "parents": [
         "http://lmss.sali.org/RBHMad8oNmYXkYHOHZLCgqv"
       ],
-      "definition": "Big Data refers to large, complex datasets that require advanced computational tools and methodologies for processing and analysis. These datasets are often characterized by their volume, velocity, and variety, making traditional data processing methods inadequate ​",
+      "definition": "Big Data refers to large, complex datasets that require advanced computational tools and methodologies for processing and analysis. These datasets are often characterized by their volume, velocity, and variety, making traditional data processing methods inadequate \u200b",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -138939,7 +138939,7 @@
       "parents": [
         "http://lmss.sali.org/RCLxFZZvTWZmKpUYJa6UMmO"
       ],
-      "definition": "Action filed under the Fair Credit Reporting Act, 15 U.S.C. 1681n or 15 U.S.C. 1681o, and the Fair Debt Collection Practices Act, 15 U.S.C. § 1692k",
+      "definition": "Action filed under the Fair Credit Reporting Act, 15 U.S.C. 1681n or 15 U.S.C. 1681o, and the Fair Debt Collection Practices Act, 15 U.S.C. \u00a7 1692k",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -141038,13 +141038,13 @@
     },
     "http://lmss.sali.org/RB9t0P0FVnebof83O9QPhMy": {
       "iri": "http://lmss.sali.org/RB9t0P0FVnebof83O9QPhMy",
-      "label": "422 Appeal 28 USC § 158 (PACER NoS)",
+      "label": "422 Appeal 28 USC \u00a7 158 (PACER NoS)",
       "status": "accepted",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RDh40CO7HUNG1LKgW1jusOO"
       ],
-      "definition": "All appeals of previous bankruptcy decisions filed under 28 U.S.C. § 158",
+      "definition": "All appeals of previous bankruptcy decisions filed under 28 U.S.C. \u00a7 158",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -143010,7 +143010,7 @@
     },
     "http://lmss.sali.org/RBD48bbF1Dd822598aa47295": {
       "iri": "http://lmss.sali.org/RBD48bbF1Dd822598aa47295",
-      "label": "Icelandic króna",
+      "label": "Icelandic kr\u00f3na",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -143018,7 +143018,7 @@
       ],
       "definition": "Locations used: Iceland",
       "examples": [],
-      "pref_label": "Icelandic króna",
+      "pref_label": "Icelandic kr\u00f3na",
       "sources": [],
       "legacy_iri": "http://code.sali.org/v1/LMSS/#ISK",
       "node_type": "class"
@@ -143136,7 +143136,7 @@
       "parents": [
         "http://lmss.sali.org/R4D912d7BF1522F346a04278"
       ],
-      "definition": "Société en Commandite Simple is a form of business in which a limited partner provides the bulk of the funds but entrusts the administration of the company to the general partner, who has increased prerogatives from the larger corporations. It should be distinguished from the more frequent limited partnership (SCA).",
+      "definition": "Soci\u00e9t\u00e9 en Commandite Simple is a form of business in which a limited partner provides the bulk of the funds but entrusts the administration of the company to the general partner, who has increased prerogatives from the larger corporations. It should be distinguished from the more frequent limited partnership (SCA).",
       "examples": [],
       "pref_label": "Jawa Tengah",
       "sources": [],
@@ -143633,7 +143633,7 @@
       "parents": [
         "http://lmss.sali.org/RDwNOkyYBQw2SPTqJl6tIjZ"
       ],
-      "definition": "\"The law firm's website URL.  Should always begin \"\"http://www. …\"\"  \n\"",
+      "definition": "\"The law firm's website URL.  Should always begin \"\"http://www. \u2026\"\"  \n\"",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -145006,7 +145006,7 @@
       "parents": [
         "http://lmss.sali.org/R7TD3hT0O1z2jjc0Y0q9rjq"
       ],
-      "definition": "An \"Immigrant Visa for Professionals and Other Workers\" provides permanent residency to skilled workers, professionals with a bachelor’s degree, and certain unskilled workers for positions that require less training. This visa category serves individuals who fulfill labor demands in the host country and do not qualify under higher employment-based categories.",
+      "definition": "An \"Immigrant Visa for Professionals and Other Workers\" provides permanent residency to skilled workers, professionals with a bachelor\u2019s degree, and certain unskilled workers for positions that require less training. This visa category serves individuals who fulfill labor demands in the host country and do not qualify under higher employment-based categories.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -145910,7 +145910,7 @@
       "parents": [
         "http://lmss.sali.org/RBQjEGIpmUNhT9brH9gpy58"
       ],
-      "definition": "\"The last name of the contact.   \n\"",
+      "definition": "\"The last name of the contact.\u00a0  \n\"",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -147967,7 +147967,7 @@
       "parents": [
         "http://lmss.sali.org/RCqBiJAwLT5iG2nvk12tNKW"
       ],
-      "definition": "DEFINITION OF Destruction/Damage/Vandalism of Property — To willfully or maliciously destroy, damage, deface, or otherwise injure real or personal property without the consent of the owner or the person having custody or control of it.",
+      "definition": "DEFINITION OF Destruction/Damage/Vandalism of Property \u2014 To willfully or maliciously destroy, damage, deface, or otherwise injure real or personal property without the consent of the owner or the person having custody or control of it.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -152884,7 +152884,7 @@
       "parents": [
         "http://lmss.sali.org/RCLxFZZvTWZmKpUYJa6UMmO"
       ],
-      "definition": "Action filed involving unauthorized reception of cable/satellite TV service under 47 U.S.C. § 553 (unauthorized reception of cable/satellite TV), or 47 U.S.C. § 605 (e)(3) (unauthorized use or publication of a communication)",
+      "definition": "Action filed involving unauthorized reception of cable/satellite TV service under 47 U.S.C. \u00a7 553 (unauthorized reception of cable/satellite TV), or 47 U.S.C. \u00a7 605 (e)(3) (unauthorized use or publication of a communication)",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -153113,7 +153113,7 @@
       "examples": [],
       "pref_label": "Birth Parent",
       "sources": [
-        "From LIST: Legal Issues Taxonomy — https://taxonomy.legal/"
+        "From LIST: Legal Issues Taxonomy \u2014 https://taxonomy.legal/"
       ],
       "legacy_iri": null,
       "node_type": "class"
@@ -153352,7 +153352,7 @@
       "parents": [
         "http://lmss.sali.org/RCdJG6uCwl9vj0GwxJe7mez"
       ],
-      "definition": "\"The law firm assigned matter id or case reference number. Multiple lf_matter_id's can be billed in the same invoice.   \n\"",
+      "definition": "\"The law firm assigned matter id or case reference number. Multiple lf_matter_id's can be billed in the same invoice.\u00a0  \n\"",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -154079,7 +154079,7 @@
       "parents": [
         "http://lmss.sali.org/RCLxFZZvTWZmKpUYJa6UMmO"
       ],
-      "definition": "Action brought under the Clayton Act 15 U.S.C. § 12 - 27 alleging undue restriction of trade and commerce by designated methods that limit free competition in the market place amongst consumers such as anti-competitive price discrimination, corporate mergers, interlocking directorates or tying and exclusive dealing contracts.",
+      "definition": "Action brought under the Clayton Act 15 U.S.C. \u00a7 12 - 27 alleging undue restriction of trade and commerce by designated methods that limit free competition in the market place amongst consumers such as anti-competitive price discrimination, corporate mergers, interlocking directorates or tying and exclusive dealing contracts.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -155463,7 +155463,7 @@
     },
     "http://lmss.sali.org/RBgyq2bGwkmGczszqmysCpl": {
       "iri": "http://lmss.sali.org/RBgyq2bGwkmGczszqmysCpl",
-      "label": "Bankrupt’s Voiding of Preferential Transfer of Property",
+      "label": "Bankrupt\u2019s Voiding of Preferential Transfer of Property",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -155915,7 +155915,7 @@
     },
     "http://lmss.sali.org/RBi3jsUnIBZpoGWaXQ3BXas": {
       "iri": "http://lmss.sali.org/RBi3jsUnIBZpoGWaXQ3BXas",
-      "label": "Lessee’s Default on Lease of Goods",
+      "label": "Lessee\u2019s Default on Lease of Goods",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -156087,7 +156087,7 @@
       "parents": [
         "http://lmss.sali.org/R9p98NogvwJk1MnJgYzuiZd"
       ],
-      "definition": "Strategic Communications Practice involves providing legal advice and services related to the management and dissemination of information to the public, media, and stakeholders, particularly in situations requiring public relations and crisis management. This legal practice ensures that communications are legally compliant, strategically effective, and aligned with the client’s objectives.",
+      "definition": "Strategic Communications Practice involves providing legal advice and services related to the management and dissemination of information to the public, media, and stakeholders, particularly in situations requiring public relations and crisis management. This legal practice ensures that communications are legally compliant, strategically effective, and aligned with the client\u2019s objectives.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -156226,7 +156226,7 @@
       "parents": [
         "http://lmss.sali.org/R7UYJUZ3D37DD8nEuNUXXti"
       ],
-      "definition": "A Paroled Refugee is an individual who has been allowed entry into a country on a temporary basis for urgent humanitarian reasons or significant public benefit, even though they do not meet the regular admission requirements for refugees. This status provides temporary legal presence in the host country while the individual’s case is reviewed or until more permanent arrangements can be made.",
+      "definition": "A Paroled Refugee is an individual who has been allowed entry into a country on a temporary basis for urgent humanitarian reasons or significant public benefit, even though they do not meet the regular admission requirements for refugees. This status provides temporary legal presence in the host country while the individual\u2019s case is reviewed or until more permanent arrangements can be made.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -156257,7 +156257,7 @@
       "parents": [
         "http://lmss.sali.org/R8TvbewYypS9Uy4y5JGIwEH"
       ],
-      "definition": "The touching of the private body parts of another person for the purpose of sexual gratification, forcibly and/or against that person’s will or not forcibly or against the person’s will in instances where the victim is incapable of giving consent because of his/her youth or because of his/her temporary or permanent mental or physical incapacity.",
+      "definition": "The touching of the private body parts of another person for the purpose of sexual gratification, forcibly and/or against that person\u2019s will or not forcibly or against the person\u2019s will in instances where the victim is incapable of giving consent because of his/her youth or because of his/her temporary or permanent mental or physical incapacity.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -158004,7 +158004,7 @@
       "parents": [
         "http://lmss.sali.org/RBOtHAspaFqAn6etwaV6JMm"
       ],
-      "definition": "Action of discrimination against an employee with disabilities of any type in the work place, filed under 42 U.S.C. § 12117",
+      "definition": "Action of discrimination against an employee with disabilities of any type in the work place, filed under 42 U.S.C. \u00a7 12117",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -158744,7 +158744,7 @@
       "parents": [
         "http://lmss.sali.org/RCNVgIoWmZL1X9aDWlGZuX9"
       ],
-      "definition": "Action relating to payments of veterans’ benefits, primarily including actions to recover overpayments.",
+      "definition": "Action relating to payments of veterans\u2019 benefits, primarily including actions to recover overpayments.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -158935,13 +158935,13 @@
     },
     "http://lmss.sali.org/RBpkU6cTDASAm3MhUcsNUAL": {
       "iri": "http://lmss.sali.org/RBpkU6cTDASAm3MhUcsNUAL",
-      "label": "Société à Responsabilité Limitée",
+      "label": "Soci\u00e9t\u00e9 \u00e0 Responsabilit\u00e9 Limit\u00e9e",
       "status": "accepted",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R7oBWHStfmqTLn2MypkW3Pj"
       ],
-      "definition": "A Société à responsabilité limitée (short SARL and variations thereof; lit. \"society with limited responsibility\") is a form of private company that exists mainly in French-speaking countries, such as France, Luxembourg, Monaco, Algeria, Morocco, Tunisia, Madagascar, Lebanon, and Switzerland (where it is also designated by GmbH or Sagl).",
+      "definition": "A Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e (short SARL and variations thereof; lit. \"society with limited responsibility\") is a form of private company that exists mainly in French-speaking countries, such as France, Luxembourg, Monaco, Algeria, Morocco, Tunisia, Madagascar, Lebanon, and Switzerland (where it is also designated by GmbH or Sagl).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -159691,7 +159691,7 @@
       "parents": [
         "http://lmss.sali.org/RxTxaN981tLTsN82qPBcp"
       ],
-      "definition": "The threats and opportunities associated with the political climate and operating context of an organization — such as the potential for negative consequences arising from political events, decisions, or changes in the regulatory environment that may affect an organization's operations, investments, or overall business climate. These risks can include policy shifts, government instability, geopolitical tensions, or trade restrictions, potentially leading to financial losses, operational disruptions, or reduced market opportunities",
+      "definition": "The threats and opportunities associated with the political climate and operating context of an organization \u2014 such as the potential for negative consequences arising from political events, decisions, or changes in the regulatory environment that may affect an organization's operations, investments, or overall business climate. These risks can include policy shifts, government instability, geopolitical tensions, or trade restrictions, potentially leading to financial losses, operational disruptions, or reduced market opportunities",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -160662,7 +160662,7 @@
       "examples": [],
       "pref_label": null,
       "sources": [
-        "From LIST: Legal Issues Taxonomy — https://taxonomy.legal/"
+        "From LIST: Legal Issues Taxonomy \u2014 https://taxonomy.legal/"
       ],
       "legacy_iri": null,
       "node_type": "class"
@@ -161054,7 +161054,7 @@
       "parents": [
         "http://lmss.sali.org/RBVCwr551O94R7T2y8aKsPS"
       ],
-      "definition": "Taxes levied regularly (in most cases annually) on net wealth, i.e. taxes on a wide range of movable and immovable property, net of debt. It is sub-divided into taxes paid by individuals, and taxes paid by corporate enterprises, according to the criteria set out in §31(a) above. If separate figures exist for receipts paid by institutions, the tax payments involved are added to those paid by corporations.",
+      "definition": "Taxes levied regularly (in most cases annually) on net wealth, i.e. taxes on a wide range of movable and immovable property, net of debt. It is sub-divided into taxes paid by individuals, and taxes paid by corporate enterprises, according to the criteria set out in \u00a731(a) above. If separate figures exist for receipts paid by institutions, the tax payments involved are added to those paid by corporations.",
       "examples": [],
       "pref_label": "Net Wealth Tax Payment",
       "sources": [],
@@ -161894,7 +161894,7 @@
     },
     "http://lmss.sali.org/RBy5JxLTjZJsd9BbZh4wtxF": {
       "iri": "http://lmss.sali.org/RBy5JxLTjZJsd9BbZh4wtxF",
-      "label": "Pitka’s Point Traditional Council",
+      "label": "Pitka\u2019s Point Traditional Council",
       "status": "beta",
       "deprecated": false,
       "parents": [
@@ -162309,7 +162309,7 @@
       "parents": [
         "http://lmss.sali.org/R9CBXdybYDztLBRNDNJl0W"
       ],
-      "definition": "A conditional waiver is the relinquishment of a legal right or claim that becomes effective only if specific conditions are met. If the stipulated conditions fail to occur, the waiver does not take effect, preserving the party’s original rights.",
+      "definition": "A conditional waiver is the relinquishment of a legal right or claim that becomes effective only if specific conditions are met. If the stipulated conditions fail to occur, the waiver does not take effect, preserving the party\u2019s original rights.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -162584,7 +162584,7 @@
       "parents": [
         "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb"
       ],
-      "definition": "Goh-Djiboua is a region in Côte d'Ivoire.",
+      "definition": "Goh-Djiboua is a region in C\u00f4te d'Ivoire.",
       "examples": [],
       "pref_label": "Goh-Djiboua",
       "sources": [],
@@ -163988,7 +163988,7 @@
       "parents": [
         "http://lmss.sali.org/RCLxFZZvTWZmKpUYJa6UMmO"
       ],
-      "definition": "Action filed by private individuals alleging fraud against the U.S. Government under 31 U.S.C. § 3729.",
+      "definition": "Action filed by private individuals alleging fraud against the U.S. Government under 31 U.S.C. \u00a7 3729.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -165496,7 +165496,7 @@
       "parents": [
         "http://lmss.sali.org/RBOtHAspaFqAn6etwaV6JMm"
       ],
-      "definition": "Action filed under the Individuals with Disabilities Educations Act, 20 U.S.C. § 1401 and Title IX of the Education Amendment of 1972, 20 U.S.C. § 1681 et seq.",
+      "definition": "Action filed under the Individuals with Disabilities Educations Act, 20 U.S.C. \u00a7 1401 and Title IX of the Education Amendment of 1972, 20 U.S.C. \u00a7 1681 et seq.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -165831,7 +165831,7 @@
       "examples": [],
       "pref_label": null,
       "sources": [
-        "From LIST: Legal Issues Taxonomy — https://taxonomy.legal/"
+        "From LIST: Legal Issues Taxonomy \u2014 https://taxonomy.legal/"
       ],
       "legacy_iri": null,
       "node_type": "class"
@@ -166587,7 +166587,7 @@
       "parents": [
         "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb"
       ],
-      "definition": "Denguele is a region located in Côte d'Ivoire.",
+      "definition": "Denguele is a region located in C\u00f4te d'Ivoire.",
       "examples": [],
       "pref_label": "Denguele",
       "sources": [],
@@ -167460,7 +167460,7 @@
     },
     "http://lmss.sali.org/RC8uxZ3wNFtreIXMuXDmR6a": {
       "iri": "http://lmss.sali.org/RC8uxZ3wNFtreIXMuXDmR6a",
-      "label": "Principal’s/Promoter’s Bad Faith Liability for Real Estate Broker’s Commission",
+      "label": "Principal\u2019s/Promoter\u2019s Bad Faith Liability for Real Estate Broker\u2019s Commission",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -167812,7 +167812,7 @@
       "parents": [
         "http://lmss.sali.org/RDOvAHsvY8TKJ1O1orXPM9o"
       ],
-      "definition": "A creole language spoken in the Caribbean islands of Aruba, Bonaire, and Curaçao, characterized by a mixture of Portuguese, Spanish, Dutch, and African languages.",
+      "definition": "A creole language spoken in the Caribbean islands of Aruba, Bonaire, and Cura\u00e7ao, characterized by a mixture of Portuguese, Spanish, Dutch, and African languages.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -168377,7 +168377,7 @@
     },
     "http://lmss.sali.org/RCAB15957188722B6fc98458": {
       "iri": "http://lmss.sali.org/RCAB15957188722B6fc98458",
-      "label": "São Tomé and Príncipe",
+      "label": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -168563,7 +168563,7 @@
       "parents": [
         "http://lmss.sali.org/RCNVgIoWmZL1X9aDWlGZuX9"
       ],
-      "definition": "Action to recover debt owed to the United States, including enforcement of judgments, based on overpayments and restitution agreements involving matters other than Medicare benefits, student loans and veterans’ benefits.",
+      "definition": "Action to recover debt owed to the United States, including enforcement of judgments, based on overpayments and restitution agreements involving matters other than Medicare benefits, student loans and veterans\u2019 benefits.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -168686,7 +168686,7 @@
       ],
       "definition": "Completion Accounts are financial statements prepared as of the closing date of an M&A transaction to determine the final purchase price. They include adjustments for working capital, cash, debt, and other relevant items, ensuring the buyer pays a price reflecting the target's actual financial position at closing.",
       "examples": [
-        "A target company’s Completion Accounts show a higher debt level at closing, resulting in a purchase price reduction.",
+        "A target company\u2019s Completion Accounts show a higher debt level at closing, resulting in a purchase price reduction.",
         "The Completion Accounts include adjustments for previously undisclosed liabilities discovered during due diligence."
       ],
       "pref_label": null,
@@ -174811,7 +174811,7 @@
     },
     "http://lmss.sali.org/RCMjc7vlpo6lmTOxvekbZYL": {
       "iri": "http://lmss.sali.org/RCMjc7vlpo6lmTOxvekbZYL",
-      "label": "Enforcement of Security Interest Delegating Seller’s Performance",
+      "label": "Enforcement of Security Interest Delegating Seller\u2019s Performance",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -175946,7 +175946,7 @@
     },
     "http://lmss.sali.org/RCPzgUvmfPZ0spb7uALcBe0": {
       "iri": "http://lmss.sali.org/RCPzgUvmfPZ0spb7uALcBe0",
-      "label": "Agent’s Negligence Causing Harm to Others",
+      "label": "Agent\u2019s Negligence Causing Harm to Others",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -177606,7 +177606,7 @@
         "http://lmss.sali.org/R8x0u39yCNHqlqk08vu3PPb",
         "http://lmss.sali.org/RCAIUgUHLdwFdtdPTruyEgL"
       ],
-      "definition": "A Convertible Note is a form of short-term debt that converts into equity, usually in conjunction with a future financing round. The investor lends money to a startup and instead of getting the money back with interest, the investor receives equity in the company. Each convertible note is usually an unsecured, short-term debt instrument that converts into equity — typically preferred shares — under specified conditions, such as a future funding round. The conversion to equity can be mandatory in some conditions or elective in others.",
+      "definition": "A Convertible Note is a form of short-term debt that converts into equity, usually in conjunction with a future financing round. The investor lends money to a startup and instead of getting the money back with interest, the investor receives equity in the company. Each convertible note is usually an unsecured, short-term debt instrument that converts into equity \u2014 typically preferred shares \u2014 under specified conditions, such as a future funding round. The conversion to equity can be mandatory in some conditions or elective in others.",
       "examples": [],
       "pref_label": "Convertible Loan",
       "sources": [],
@@ -178951,7 +178951,7 @@
       "parents": [
         "http://lmss.sali.org/RR9QJW9652P8tYfw5XQ5Tl"
       ],
-      "definition": "Action by a prisoner to vacate or modify a sentence imposed in federal court, other than a death sentence, under 28 U.S.C. § 2255.",
+      "definition": "Action by a prisoner to vacate or modify a sentence imposed in federal court, other than a death sentence, under 28 U.S.C. \u00a7 2255.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -179312,7 +179312,7 @@
       "parents": [
         "http://lmss.sali.org/R9p98NogvwJk1MnJgYzuiZd"
       ],
-      "definition": "A tabletop exercise practice involves legal work related to conducting simulated scenarios to test and evaluate the effectiveness of an organization’s plans and procedures for handling emergencies or specific situations, such as cybersecurity incidents or disaster recovery. Legal work related to these exercises typically involve discussion-based sessions where participants analyze hypothetical events and collaboratively develop response strategies, as well as the resultant legal implications.",
+      "definition": "A tabletop exercise practice involves legal work related to conducting simulated scenarios to test and evaluate the effectiveness of an organization\u2019s plans and procedures for handling emergencies or specific situations, such as cybersecurity incidents or disaster recovery. Legal work related to these exercises typically involve discussion-based sessions where participants analyze hypothetical events and collaboratively develop response strategies, as well as the resultant legal implications.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -181356,7 +181356,7 @@
       ],
       "definition": "Money Order Payment involves the use of a money order, a pre-funded paper document resembling a check, to transfer funds between parties. Money orders are typically issued by financial institutions, post offices, or retail stores and offer a secure method of payment.",
       "examples": [],
-      "pref_label": "Cashier’s Check Payment",
+      "pref_label": "Cashier\u2019s Check Payment",
       "sources": [],
       "legacy_iri": null,
       "node_type": "class"
@@ -181384,7 +181384,7 @@
       "parents": [
         "http://lmss.sali.org/R8t7u58Bmu2hmFFto8S64nx"
       ],
-      "definition": "An expert in the field of manufacturing, including managers and workers with experience in the manufacturing industry. 10 U.S.C. § 2197",
+      "definition": "An expert in the field of manufacturing, including managers and workers with experience in the manufacturing industry. 10 U.S.C. \u00a7 2197",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -181795,7 +181795,7 @@
       "parents": [
         "http://lmss.sali.org/R7sBKqCcmlK1Dw9HBvKenYy"
       ],
-      "definition": "Date Signed refers to the specific calendar date on which a legal document or contract is executed by the involved parties. This date is crucial as it often marks the commencement of the document’s legal effect and the start of obligations or rights.",
+      "definition": "Date Signed refers to the specific calendar date on which a legal document or contract is executed by the involved parties. This date is crucial as it often marks the commencement of the document\u2019s legal effect and the start of obligations or rights.",
       "examples": [],
       "pref_label": "Execution Date",
       "sources": [],
@@ -182651,7 +182651,7 @@
     },
     "http://lmss.sali.org/RCinvNePPhvv1jnGdDCYMGi": {
       "iri": "http://lmss.sali.org/RCinvNePPhvv1jnGdDCYMGi",
-      "label": "Sun’aq Tribe of Kodiak",
+      "label": "Sun\u2019aq Tribe of Kodiak",
       "status": "beta",
       "deprecated": false,
       "parents": [
@@ -184115,7 +184115,7 @@
     },
     "http://lmss.sali.org/RCmCiJ3R6WEeDnMEzHeloq8": {
       "iri": "http://lmss.sali.org/RCmCiJ3R6WEeDnMEzHeloq8",
-      "label": "German Stock Exchange (Deutsche Börse AG)",
+      "label": "German Stock Exchange (Deutsche B\u00f6rse AG)",
       "status": "beta",
       "deprecated": false,
       "parents": [
@@ -184151,7 +184151,7 @@
       "parents": [
         "http://lmss.sali.org/R73hoH1RXYjBTYiGfolpsAF"
       ],
-      "definition": "Date at which a matter is closed — by either Buyer (e.g., Law Department) or Seller (e.g., Law Firm).",
+      "definition": "Date at which a matter is closed \u2014 by either Buyer (e.g., Law Department) or Seller (e.g., Law Firm).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -184742,7 +184742,7 @@
       "parents": [
         "http://lmss.sali.org/RCAZQP6AHCQX7HNZqzV7oIR"
       ],
-      "definition": "Work relating to such hearings and the preparation for them, including PTR and CMC’s. This does not include interim applications heard at the same time.",
+      "definition": "Work relating to such hearings and the preparation for them, including PTR and CMC\u2019s. This does not include interim applications heard at the same time.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -184766,7 +184766,7 @@
     },
     "http://lmss.sali.org/RCo89SzQRYtKZ1NuTv01BPL": {
       "iri": "http://lmss.sali.org/RCo89SzQRYtKZ1NuTv01BPL",
-      "label": "Certified or Cashier’s Check Wrongfully Dishonored",
+      "label": "Certified or Cashier\u2019s Check Wrongfully Dishonored",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -184842,15 +184842,15 @@
     },
     "http://lmss.sali.org/RCoJvHjMZAsxOq6tWt43JXH": {
       "iri": "http://lmss.sali.org/RCoJvHjMZAsxOq6tWt43JXH",
-      "label": "Arm’s Length",
+      "label": "Arm\u2019s Length",
       "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R7kD4ePZmjNDaw2a1pWIDds"
       ],
-      "definition": "Arm’s length negotiation refers to a negotiation between parties who act independently and have no relationship to each other, ensuring that each party acts in its own self-interest. This type of negotiation is characterized by fairness, objectivity, and the absence of any collusion or undue influence, often used to determine the fair market value of goods or services.",
+      "definition": "Arm\u2019s length negotiation refers to a negotiation between parties who act independently and have no relationship to each other, ensuring that each party acts in its own self-interest. This type of negotiation is characterized by fairness, objectivity, and the absence of any collusion or undue influence, often used to determine the fair market value of goods or services.",
       "examples": [],
-      "pref_label": "Arm’s Length Negotiation",
+      "pref_label": "Arm\u2019s Length Negotiation",
       "sources": [],
       "legacy_iri": null,
       "node_type": "class"
@@ -185369,7 +185369,7 @@
     },
     "http://lmss.sali.org/RCpm4tlYl3z8JC06jhK8DdV": {
       "iri": "http://lmss.sali.org/RCpm4tlYl3z8JC06jhK8DdV",
-      "label": "Coeur D’Alene Tribe",
+      "label": "Coeur D\u2019Alene Tribe",
       "status": "beta",
       "deprecated": false,
       "parents": [
@@ -186706,7 +186706,7 @@
       "parents": [
         "http://lmss.sali.org/RCua1MtzwNcjfYov8VFcoV3"
       ],
-      "definition": "Company whose stock is not publicly available on a public stock exchange, as recognized by the relevant jurisdictions' authority — and is not required by relevant legal authorities to make public disclosures (e.g., operations, finance).",
+      "definition": "Company whose stock is not publicly available on a public stock exchange, as recognized by the relevant jurisdictions' authority \u2014 and is not required by relevant legal authorities to make public disclosures (e.g., operations, finance).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -187525,7 +187525,7 @@
       "parents": [
         "http://lmss.sali.org/RBQjEGIpmUNhT9brH9gpy58"
       ],
-      "definition": "\"The phone number of the contact.   \n\"",
+      "definition": "\"The phone number of the contact.\u00a0  \n\"",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -190735,7 +190735,7 @@
       "parents": [
         "http://lmss.sali.org/R723CZDeI1c9CzFdyGi58Xd"
       ],
-      "definition": "Action for personal injury or wrongful death brought by a railroad employee or his survivors under the Federal Employers’ Liability Act (FELA), 45 U.S.C. § 51, et. seq.",
+      "definition": "Action for personal injury or wrongful death brought by a railroad employee or his survivors under the Federal Employers\u2019 Liability Act (FELA), 45 U.S.C. \u00a7 51, et. seq.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -193703,7 +193703,7 @@
     },
     "http://lmss.sali.org/RDA9cf7FFA45d01A801BAbeb": {
       "iri": "http://lmss.sali.org/RDA9cf7FFA45d01A801BAbeb",
-      "label": "Åland Islands",
+      "label": "\u00c5land Islands",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -193711,7 +193711,7 @@
       ],
       "definition": null,
       "examples": [],
-      "pref_label": "Åland Islands",
+      "pref_label": "\u00c5land Islands",
       "sources": [],
       "legacy_iri": "http://code.sali.org/v1/LMSS/#Loc-EUR-AX",
       "node_type": "class"
@@ -196307,7 +196307,7 @@
       "parents": [
         "http://lmss.sali.org/RDroRAFhNybTCHv1WlHGerL"
       ],
-      "definition": "An Employment Verbal Warning is an informal reprimand issued by an employer to an employee for minor misconduct or performance issues. This warning serves as an initial step in the disciplinary process and is typically documented in the employee’s personnel file.",
+      "definition": "An Employment Verbal Warning is an informal reprimand issued by an employer to an employee for minor misconduct or performance issues. This warning serves as an initial step in the disciplinary process and is typically documented in the employee\u2019s personnel file.",
       "examples": [],
       "pref_label": "Employment Verbal Warning",
       "sources": [],
@@ -196713,7 +196713,7 @@
       "parents": [
         "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb"
       ],
-      "definition": "A body of water surrounded by land, specifically referring to those located in Côte d'Ivoire.",
+      "definition": "A body of water surrounded by land, specifically referring to those located in C\u00f4te d'Ivoire.",
       "examples": [],
       "pref_label": "Lacs",
       "sources": [],
@@ -198434,7 +198434,7 @@
       "parents": [
         "http://lmss.sali.org/R7PHFZzZmVmczzNQl6iZKsa"
       ],
-      "definition": "An Undersecured Creditor is a lender whose collateral value securing a loan is less than the outstanding debt owed by the borrower. This situation often arises in bankruptcy contexts, affecting the creditor’s ability to fully recover the loan amount through collateral liquidation.",
+      "definition": "An Undersecured Creditor is a lender whose collateral value securing a loan is less than the outstanding debt owed by the borrower. This situation often arises in bankruptcy contexts, affecting the creditor\u2019s ability to fully recover the loan amount through collateral liquidation.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -199039,7 +199039,7 @@
       "examples": [],
       "pref_label": null,
       "sources": [
-        "From LIST: Legal Issues Taxonomy — https://taxonomy.legal/"
+        "From LIST: Legal Issues Taxonomy \u2014 https://taxonomy.legal/"
       ],
       "legacy_iri": null,
       "node_type": "class"
@@ -200927,7 +200927,7 @@
       "parents": [
         "http://lmss.sali.org/R8xoAbLw9cOhM7q4iRXRmXu"
       ],
-      "definition": "A Board of Members refers to a collective group within an organization, typically composed of individuals who are elected or appointed to oversee the organization’s strategic direction, governance, and policy-making. This body sets long-term goals, approves plans and budgets, and ensures organizational adherence to its mission and legal requirements. Different from a Board of Directors, \"Board of Members\" can be used in specific organizational contexts where the board is composed entirely of members from within the organization, such as in some cooperatives, membership organizations, or clubs. The term might emphasize that the directors are also members of the organization, highlighting their dual roles as both members and directors, or it may refer to a governing body in a less formal or less structured setting than what is typically governed by a board of directors.",
+      "definition": "A Board of Members refers to a collective group within an organization, typically composed of individuals who are elected or appointed to oversee the organization\u2019s strategic direction, governance, and policy-making. This body sets long-term goals, approves plans and budgets, and ensures organizational adherence to its mission and legal requirements. Different from a Board of Directors, \"Board of Members\" can be used in specific organizational contexts where the board is composed entirely of members from within the organization, such as in some cooperatives, membership organizations, or clubs. The term might emphasize that the directors are also members of the organization, highlighting their dual roles as both members and directors, or it may refer to a governing body in a less formal or less structured setting than what is typically governed by a board of directors.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -201948,7 +201948,7 @@
       "parents": [
         "http://lmss.sali.org/RxTxaN981tLTsN82qPBcp"
       ],
-      "definition": "Capital Infrastructure Risk is the potential for financial loss or operational disruptions stemming from the failure, damage, or obsolescence of physical assets or structures, such as buildings, equipment, or transportation systems — apart from IT infrastructure (listed separately). These risks can result from natural disasters, accidents, poor maintenance, or insufficient investment in upgrades and replacements, impacting a company or government's ability to function effectively.",
+      "definition": "Capital Infrastructure Risk is the potential for financial loss or operational disruptions stemming from the failure, damage, or obsolescence of physical assets or structures, such as buildings, equipment, or transportation systems \u2014 apart from IT infrastructure (listed separately). These risks can result from natural disasters, accidents, poor maintenance, or insufficient investment in upgrades and replacements, impacting a company or government's ability to function effectively.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -204647,7 +204647,7 @@
       "parents": [
         "http://lmss.sali.org/RBOtHAspaFqAn6etwaV6JMm"
       ],
-      "definition": "Action filed under the Fair Housing Act (Title VII), 42 U.S.C. § 3601 & 3602.",
+      "definition": "Action filed under the Fair Housing Act (Title VII), 42 U.S.C. \u00a7 3601 & 3602.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -204857,7 +204857,7 @@
       "parents": [
         "http://lmss.sali.org/R73hoH1RXYjBTYiGfolpsAF"
       ],
-      "definition": "A matter's resolution — the point at which the legal matter is resolved. Some Providers refer to this as a \"pencils down\" period. This event may differ from `Matter Closure`, which may occur later.",
+      "definition": "A matter's resolution \u2014 the point at which the legal matter is resolved. Some Providers refer to this as a \"pencils down\" period. This event may differ from `Matter Closure`, which may occur later.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -205169,7 +205169,7 @@
     },
     "http://lmss.sali.org/RDbyX1SuwIsejbZGgdJSKaT": {
       "iri": "http://lmss.sali.org/RDbyX1SuwIsejbZGgdJSKaT",
-      "label": "Agent’s Liability for Principal’s Obligation",
+      "label": "Agent\u2019s Liability for Principal\u2019s Obligation",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -205954,7 +205954,7 @@
       "parents": [
         "http://lmss.sali.org/RNoW92yXeKjoc34E3HzcI1"
       ],
-      "definition": "Engagement fee model where the parties agree upon a maximum cost (i.e., “cap”).",
+      "definition": "Engagement fee model where the parties agree upon a maximum cost (i.e., \u201ccap\u201d).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -207640,7 +207640,7 @@
       "parents": [
         "http://lmss.sali.org/RCEDL3kMYgjFUEOhOyGp3IE"
       ],
-      "definition": "A person or body authorized in a foreign proceeding to administer the reorganization or the liquidation of the debtor's assets or affairs or to act as a representative of such foreign proceeding. 11 U.S.C. § 101(24).",
+      "definition": "A person or body authorized in a foreign proceeding to administer the reorganization or the liquidation of the debtor's assets or affairs or to act as a representative of such foreign proceeding. 11 U.S.C. \u00a7 101(24).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -208378,7 +208378,7 @@
       "parents": [
         "http://lmss.sali.org/R7epmKzXnQGUjQ78UEKxoTG"
       ],
-      "definition": "A formal proceeding often used by insurance companies to obtain information about a claim — usually before a suit is filed.",
+      "definition": "A formal proceeding often used by insurance companies to obtain information about a claim \u2014 usually before a suit is filed.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -208717,7 +208717,7 @@
     },
     "http://lmss.sali.org/RDlbGQZTZoVQjWgt84HaCAm": {
       "iri": "http://lmss.sali.org/RDlbGQZTZoVQjWgt84HaCAm",
-      "label": "Spouse Liable for Other Spouse’s Debt",
+      "label": "Spouse Liable for Other Spouse\u2019s Debt",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -208817,7 +208817,7 @@
       "parents": [
         "http://lmss.sali.org/RHfeijrOTjaF7qpuoGIGkR"
       ],
-      "definition": "\"The currency for this invoice.  Use ISO 4217 currency codes set forth by International Standards Organization (www.iso.org.).  \n\"",
+      "definition": "\"The currency for this invoice.\u00a0 Use ISO 4217 currency codes set forth by International Standards Organization (www.iso.org.).  \n\"",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -209951,7 +209951,7 @@
       "parents": [
         "http://lmss.sali.org/RBZL31YCqZA1E1vlIkzRRqw"
       ],
-      "definition": "\"In a \"\"tax-on-tax\"\" situation (described above), the tax_on_tax_id is the tx_id of the tax that should be included in the tax calculation for the current tx_id.  For example, in Canada the TVQ tax includes not only the line items taxed, but also the GST tax for these line items.  The proper response to this tax_on_tax_id field would be the tx_id for the GST tax.\n\nAlthough we are currently not aware of any such situation, it may be the case in a jurisdiction that there is a tax-on-tax-on-tax situation.  It is anticipated that this field would hierarchically grow as necessary.  Using the example in the previous paragraph, say that tax3 includes TVQ and GST taxes.  Since the TVQ tax already shows the hierarchical relationship with GST in the tax_on_tax_id field, tax 3 would list the tx_id for TVQ in this tax_on_tax_id field.\n\"",
+      "definition": "\"In a \"\"tax-on-tax\"\" situation (described above), the tax_on_tax_id is the tx_id of the tax that should be included in the tax calculation for the current tx_id.\u00a0 For example, in Canada the TVQ tax includes not only the line items taxed, but also the GST tax for these line items.\u00a0 The proper response to this tax_on_tax_id field would be the tx_id for the GST tax.\n\nAlthough we are currently not aware of any such situation, it may be the case in a jurisdiction that there is a tax-on-tax-on-tax situation.  It is anticipated that this field would hierarchically grow as necessary.  Using the example in the previous paragraph, say that tax3 includes TVQ and GST taxes.  Since the TVQ tax already shows the hierarchical relationship with GST in the tax_on_tax_id field, tax 3 would list the tx_id for TVQ in this tax_on_tax_id field.\n\"",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -211964,7 +211964,7 @@
     },
     "http://lmss.sali.org/RDuf39SqsoMEvQNTewHYHcK": {
       "iri": "http://lmss.sali.org/RDuf39SqsoMEvQNTewHYHcK",
-      "label": "Bank’s Wrongful Dishonor of Negotiable Instrument",
+      "label": "Bank\u2019s Wrongful Dishonor of Negotiable Instrument",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -213760,7 +213760,7 @@
     },
     "http://lmss.sali.org/RE010faA0659c1DE059A8d0a": {
       "iri": "http://lmss.sali.org/RE010faA0659c1DE059A8d0a",
-      "label": "Nicaraguan córdoba",
+      "label": "Nicaraguan c\u00f3rdoba",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -213768,7 +213768,7 @@
       ],
       "definition": "Locations used: Nicaragua",
       "examples": [],
-      "pref_label": "Nicaraguan córdoba",
+      "pref_label": "Nicaraguan c\u00f3rdoba",
       "sources": [],
       "legacy_iri": "http://code.sali.org/v1/LMSS/#NIO",
       "node_type": "class"
@@ -213826,7 +213826,7 @@
       "parents": [
         "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb"
       ],
-      "definition": "Woroba is a region in Côte d'Ivoire.",
+      "definition": "Woroba is a region in C\u00f4te d'Ivoire.",
       "examples": [],
       "pref_label": "Woroba",
       "sources": [],
@@ -213865,7 +213865,7 @@
     },
     "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb": {
       "iri": "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb",
-      "label": "Côte d'Ivoire",
+      "label": "C\u00f4te d'Ivoire",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -213873,7 +213873,7 @@
       ],
       "definition": null,
       "examples": [],
-      "pref_label": "Côte d'Ivoire",
+      "pref_label": "C\u00f4te d'Ivoire",
       "sources": [],
       "legacy_iri": "http://code.sali.org/v1/LMSS/#Loc-AFR-CI",
       "node_type": "class"
@@ -214516,7 +214516,7 @@
       "parents": [
         "http://lmss.sali.org/R767niCLQVC5zIcO5WDQMSl"
       ],
-      "definition": "Locations used: Curaçao(CW), Sint Maarten(SX)",
+      "definition": "Locations used: Cura\u00e7ao(CW), Sint Maarten(SX)",
       "examples": [],
       "pref_label": "Netherlands Antillean guilder",
       "sources": [],
@@ -220046,7 +220046,7 @@
     },
     "http://lmss.sali.org/RF1Bb17590998E0669e31592": {
       "iri": "http://lmss.sali.org/RF1Bb17590998E0669e31592",
-      "label": "Venezuelan bolívar soberano",
+      "label": "Venezuelan bol\u00edvar soberano",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -220054,7 +220054,7 @@
       ],
       "definition": "Locations used: Venezuela",
       "examples": [],
-      "pref_label": "Venezuelan bolívar soberano",
+      "pref_label": "Venezuelan bol\u00edvar soberano",
       "sources": [],
       "legacy_iri": "http://code.sali.org/v1/LMSS/#VES",
       "node_type": "class"
@@ -222077,7 +222077,7 @@
       "parents": [
         "http://lmss.sali.org/RE053d14B2fbc4DEb40170fb"
       ],
-      "definition": "Abidjan is a city in Côte d'Ivoire.",
+      "definition": "Abidjan is a city in C\u00f4te d'Ivoire.",
       "examples": [],
       "pref_label": "Abidjan",
       "sources": [],
@@ -222422,7 +222422,7 @@
       "parents": [
         "http://lmss.sali.org/RCAB15957188722B6fc98458"
       ],
-      "definition": "Sao Tome is a subdivision of São Tomé and Príncipe, a country located in Africa.",
+      "definition": "Sao Tome is a subdivision of S\u00e3o Tom\u00e9 and Pr\u00edncipe, a country located in Africa.",
       "examples": [],
       "pref_label": "Sao Tome",
       "sources": [],
@@ -223487,7 +223487,7 @@
       "parents": [
         "http://lmss.sali.org/RCNVgIoWmZL1X9aDWlGZuX9"
       ],
-      "definition": "Action brought by stockholder(s) of a corporation (including both stockholder derivative suits and direct actions based on plaintiff’s rights as a stockholder), usually alleging claims based on contract and/or tort law and/or fiduciary obligations.",
+      "definition": "Action brought by stockholder(s) of a corporation (including both stockholder derivative suits and direct actions based on plaintiff\u2019s rights as a stockholder), usually alleging claims based on contract and/or tort law and/or fiduciary obligations.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -224714,7 +224714,7 @@
     },
     "http://lmss.sali.org/RFcc1hLGAY0GgnjkxuGOck": {
       "iri": "http://lmss.sali.org/RFcc1hLGAY0GgnjkxuGOck",
-      "label": "Volapük",
+      "label": "Volap\u00fck",
       "status": "beta",
       "deprecated": false,
       "parents": [
@@ -224796,7 +224796,7 @@
         "http://lmss.sali.org/R5ks6eYBkfLh4Fgv1Zusal",
         "http://lmss.sali.org/Rd7uelGFqCTWSgf9lWki5N"
       ],
-      "definition": "Falsely representing one’s identity or position, and acting in the character or position thus unlawfully assumed, to deceive others and thereby gain a profit or advantage, enjoy some right or privilege, or subject another person or entity to an expense, charge, or liability which would not have otherwise been incurred.",
+      "definition": "Falsely representing one\u2019s identity or position, and acting in the character or position thus unlawfully assumed, to deceive others and thereby gain a profit or advantage, enjoy some right or privilege, or subject another person or entity to an expense, charge, or liability which would not have otherwise been incurred.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -224961,7 +224961,7 @@
       "parents": [
         "http://lmss.sali.org/RCSGywkPBv7f2ACrfTSiirV"
       ],
-      "definition": "The concept of \"06 Forfeiture/Penalty (PACER NoS)\" refers to a specific category within the PACER Nature of Suit (NoS) Codes that deals with the legal process of seizing property as a penalty for drug-related offenses under 21 U.S.C. § 881.",
+      "definition": "The concept of \"06 Forfeiture/Penalty (PACER NoS)\" refers to a specific category within the PACER Nature of Suit (NoS) Codes that deals with the legal process of seizing property as a penalty for drug-related offenses under 21 U.S.C. \u00a7 881.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -226557,7 +226557,7 @@
     },
     "http://lmss.sali.org/RI57S9fFjyTKISLtBd9QCf": {
       "iri": "http://lmss.sali.org/RI57S9fFjyTKISLtBd9QCf",
-      "label": "Native Village of Mary’s Igloo",
+      "label": "Native Village of Mary\u2019s Igloo",
       "status": "beta",
       "deprecated": false,
       "parents": [
@@ -226698,7 +226698,7 @@
       "parents": [
         "http://lmss.sali.org/R9WeLPiEbGoOavw05ow5nev"
       ],
-      "definition": "An Analysis of Pre-Petition Auto Financing involves reviewing and assessing automobile financing agreements and related financial activities conducted before the filing of a bankruptcy petition. This analysis helps determine the validity, priority, and enforceability of claims against the debtor’s vehicle within the bankruptcy proceedings.",
+      "definition": "An Analysis of Pre-Petition Auto Financing involves reviewing and assessing automobile financing agreements and related financial activities conducted before the filing of a bankruptcy petition. This analysis helps determine the validity, priority, and enforceability of claims against the debtor\u2019s vehicle within the bankruptcy proceedings.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -227288,7 +227288,7 @@
       "parents": [
         "http://lmss.sali.org/R9qtOzWmov77zTz4rUCNAKr"
       ],
-      "definition": "A Board Vice Chair is a board officer who assists the Board Chair in leading the board of directors and may assume the Chair's duties in their absence. The Vice Chair supports board governance, facilitates meetings, and collaborates with other board members to advance the organization’s strategic objectives.",
+      "definition": "A Board Vice Chair is a board officer who assists the Board Chair in leading the board of directors and may assume the Chair's duties in their absence. The Vice Chair supports board governance, facilitates meetings, and collaborates with other board members to advance the organization\u2019s strategic objectives.",
       "examples": [],
       "pref_label": "Vice Chair of the Board",
       "sources": [],
@@ -227760,7 +227760,7 @@
       "examples": [],
       "pref_label": null,
       "sources": [
-        "From LIST: Legal Issues Taxonomy — https://taxonomy.legal/"
+        "From LIST: Legal Issues Taxonomy \u2014 https://taxonomy.legal/"
       ],
       "legacy_iri": null,
       "node_type": "class"
@@ -227866,7 +227866,7 @@
       ],
       "definition": "A Fraud Prevention Regulation Claim (aka Red Flags Rule) stems from regulations by a regulator (e.g., U.S. FTC) that requires certain businesses and organizations to implement a written identity theft prevention program. Such rules are designed to detect, prevent, and mitigate identity theft by identifying and responding to \"red flags,\" which are patterns, practices, or specific activities that indicate the possible existence of identity theft.",
       "examples": [
-        "16 C.F.R. § 681"
+        "16 C.F.R. \u00a7 681"
       ],
       "pref_label": "Red Flags Rule",
       "sources": [],
@@ -229474,7 +229474,7 @@
     },
     "http://lmss.sali.org/RLJT8v5yTfRQ6xRfJAq59P": {
       "iri": "http://lmss.sali.org/RLJT8v5yTfRQ6xRfJAq59P",
-      "label": "Bank’s Wrongful Payment of Negotiable Instrument",
+      "label": "Bank\u2019s Wrongful Payment of Negotiable Instrument",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -230415,13 +230415,13 @@
     },
     "http://lmss.sali.org/RMIOoCkgz98RPaDxvQbOAD": {
       "iri": "http://lmss.sali.org/RMIOoCkgz98RPaDxvQbOAD",
-      "label": "Provençal, Old ;Occitan, Old",
+      "label": "Proven\u00e7al, Old ;Occitan, Old",
       "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RDOvAHsvY8TKJ1O1orXPM9o"
       ],
-      "definition": "Old Provençal and Occitan languages, up to the year 1500, used in legal documents, artifacts, evidence, testimony, proceedings, or any other legal aspect.",
+      "definition": "Old Proven\u00e7al and Occitan languages, up to the year 1500, used in legal documents, artifacts, evidence, testimony, proceedings, or any other legal aspect.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -232260,7 +232260,7 @@
       "parents": [
         "http://lmss.sali.org/RKlwTYjHZjCA0RDu28HpAo"
       ],
-      "definition": "Action seeking review of denial of an application for naturalization [8 U.S.C. § 1447(b)] or alleging failure to make a determination regarding an application for naturalization [8 U.S.C. § 1421(c)].",
+      "definition": "Action seeking review of denial of an application for naturalization [8 U.S.C. \u00a7 1447(b)] or alleging failure to make a determination regarding an application for naturalization [8 U.S.C. \u00a7 1421(c)].",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -232470,7 +232470,7 @@
       "parents": [
         "http://lmss.sali.org/RCEDL3kMYgjFUEOhOyGp3IE"
       ],
-      "definition": "A person who owes a debt to a judgment debtor, or a person other than the judgment debtor who has property in his possession or custody in which a judgment debtor has an interest. NY CPLR § 105.",
+      "definition": "A person who owes a debt to a judgment debtor, or a person other than the judgment debtor who has property in his possession or custody in which a judgment debtor has an interest. NY CPLR \u00a7 105.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -233450,7 +233450,7 @@
       "parents": [
         "http://lmss.sali.org/RNoW92yXeKjoc34E3HzcI1"
       ],
-      "definition": "Engagement model where a client pays a predetermined fee — sometimes by milestone (e.g., by document, by stage) or by a bundle of matters (e.g., by portfolio).",
+      "definition": "Engagement model where a client pays a predetermined fee \u2014 sometimes by milestone (e.g., by document, by stage) or by a bundle of matters (e.g., by portfolio).",
       "examples": [],
       "pref_label": "Flat Fee Billing",
       "sources": [],
@@ -234135,7 +234135,7 @@
       "parents": [
         "http://lmss.sali.org/Rhpdjd9p358e9Rkel80dvQ"
       ],
-      "definition": "An Employee Stock Ownership Plan (ESOP) document is a formal written plan that outlines the terms, conditions, and procedures for establishing and operating an Employee Stock Ownership Plan. This document details the rules governing employee eligibility, stock allocation, vesting schedules, and the plan’s administration to ensure compliance with legal requirements.",
+      "definition": "An Employee Stock Ownership Plan (ESOP) document is a formal written plan that outlines the terms, conditions, and procedures for establishing and operating an Employee Stock Ownership Plan. This document details the rules governing employee eligibility, stock allocation, vesting schedules, and the plan\u2019s administration to ensure compliance with legal requirements.",
       "examples": [],
       "pref_label": "Employee Share Ownership Plan Document",
       "sources": [],
@@ -236368,7 +236368,7 @@
       "parents": [
         "http://lmss.sali.org/RGRlexTF9nmZ1BSpxAXWB1"
       ],
-      "definition": "A \"Special Immigrant Visa\" provides permanent residency to individuals who have assisted a host country’s government in a high-risk capacity, often in conflict zones. This visa type primarily supports interpreters, translators, and other personnel who face danger due to their association with the host country’s military or government entities.",
+      "definition": "A \"Special Immigrant Visa\" provides permanent residency to individuals who have assisted a host country\u2019s government in a high-risk capacity, often in conflict zones. This visa type primarily supports interpreters, translators, and other personnel who face danger due to their association with the host country\u2019s military or government entities.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -236578,7 +236578,7 @@
       "parents": [
         "http://lmss.sali.org/RNoW92yXeKjoc34E3HzcI1"
       ],
-      "definition": "Engagement fee model where if a matter is successful, the provider is paid a percentage of a client’s recovery.",
+      "definition": "Engagement fee model where if a matter is successful, the provider is paid a percentage of a client\u2019s recovery.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -238302,7 +238302,7 @@
       "parents": [
         "http://lmss.sali.org/R1PpxLN7jiSIvJVou8IjDG"
       ],
-      "definition": "Engagement fee model where a client pays for the legal service provider's number of expended hours, but rather than paying for a person's individualized rate (e.g., partner's higher rate, associate's lower rate), the provider pays an average billable rate — regardless of which lawyer performs the work.",
+      "definition": "Engagement fee model where a client pays for the legal service provider's number of expended hours, but rather than paying for a person's individualized rate (e.g., partner's higher rate, associate's lower rate), the provider pays an average billable rate \u2014 regardless of which lawyer performs the work.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -238937,7 +238937,7 @@
       "parents": [
         "http://lmss.sali.org/R8t7u58Bmu2hmFFto8S64nx"
       ],
-      "definition": "A person who holds a health care professional degree from a university or college, who has engaged in the practice of that profession, and who has knowledge or skill about the subject upon which he is called to testify or provide an opinion. See Fla. Stat. § 766.202(5); Fort Walton Beach Medical Center, Inc. v. Dingler, 697 So.2d 575 (Fla. App. 1997).",
+      "definition": "A person who holds a health care professional degree from a university or college, who has engaged in the practice of that profession, and who has knowledge or skill about the subject upon which he is called to testify or provide an opinion. See Fla. Stat. \u00a7 766.202(5); Fort Walton Beach Medical Center, Inc. v. Dingler, 697 So.2d 575 (Fla. App. 1997).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -240421,7 +240421,7 @@
     },
     "http://lmss.sali.org/RYWwm3NWhR7v3JHGnX26ql": {
       "iri": "http://lmss.sali.org/RYWwm3NWhR7v3JHGnX26ql",
-      "label": "DEPRECATED Debtor’s Fraudulent Conveyance",
+      "label": "DEPRECATED Debtor\u2019s Fraudulent Conveyance",
       "status": "accepted",
       "deprecated": false,
       "parents": [
@@ -240548,7 +240548,7 @@
       "parents": [
         "http://lmss.sali.org/RBQZfWGxOZnZAvQ3ghLRvae"
       ],
-      "definition": "The theft of articles from another person’s physical possession by stealth where the victim usually does not become immediately aware of the theft.",
+      "definition": "The theft of articles from another person\u2019s physical possession by stealth where the victim usually does not become immediately aware of the theft.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -244568,7 +244568,7 @@
       "parents": [
         "http://lmss.sali.org/Rx69EnEj3H3TpcgTfUSoYx"
       ],
-      "definition": "Status Process Outcome reflects the result or disposition of a particular process or action — at a particular point in time — often indicating the decision or outcome of an application, request, or submission within a legal or regulatory context. This status conveys the relevant authority's determination, such as \"approved,\" \"denied,\" \"received,\" \"responded,\" or \"withdrawn.\"",
+      "definition": "Status Process Outcome reflects the result or disposition of a particular process or action \u2014 at a particular point in time \u2014 often indicating the decision or outcome of an application, request, or submission within a legal or regulatory context. This status conveys the relevant authority's determination, such as \"approved,\" \"denied,\" \"received,\" \"responded,\" or \"withdrawn.\"",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -244914,7 +244914,7 @@
       "parents": [
         "http://lmss.sali.org/R9DXiBqsNgLGb4GIKF77xx9"
       ],
-      "definition": "Action filed with regard to social security benefits provided for Retirement, Survivor Insurance under 42 U.S.C. § 405",
+      "definition": "Action filed with regard to social security benefits provided for Retirement, Survivor Insurance under 42 U.S.C. \u00a7 405",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -245725,7 +245725,7 @@
       "parents": [
         "http://lmss.sali.org/RsJ6DupkWKlUlCHH0Ycxvp"
       ],
-      "definition": "The amount at stake in a dispute, particularly where the jurisdictional requirements for certain courts (e.g., federal courts, small claims courts) require either maximum or minimum amounts in controversy — including both plaintiffs' claims and defendants' counterclaims.",
+      "definition": "The amount at stake in a dispute, particularly where the jurisdictional requirements for certain courts (e.g., federal courts, small claims courts) require either maximum or minimum amounts in controversy \u2014 including both plaintiffs' claims and defendants' counterclaims.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -246505,9 +246505,9 @@
       ],
       "definition": "Verbal Acts, also known as \"operative words,\" are statements that have legal significance or create legal consequences independently of the truth of the content asserted in the statement. These statements are not considered hearsay because their relevance lies in the fact that they were made, rather than in the truthfulness of the content.",
       "examples": [
-        "In a contract case, the witness can testify to this verbal act: “I heard Smith say: ‘I will sell you Property X if you sell me Property Y.’”",
-        "In a defamation case, a witness can testify: “Smith said that Jones was a socialist.”",
-        "In an injury case, a witness could testify about hearing plaintiff cry out after the accident -- statements like “Call for help!” -- where the statement demonstrates that the plaintiff was conscious."
+        "In a contract case, the witness can testify to this verbal act: \u201cI heard Smith say: \u2018I will sell you Property X if you sell me Property Y.\u2019\u201d",
+        "In a defamation case, a witness can testify: \u201cSmith said that Jones was a socialist.\u201d",
+        "In an injury case, a witness could testify about hearing plaintiff cry out after the accident -- statements like \u201cCall for help!\u201d -- where the statement demonstrates that the plaintiff was conscious."
       ],
       "pref_label": "Operative Words",
       "sources": [],
@@ -247770,7 +247770,7 @@
       "parents": [
         "http://lmss.sali.org/RR9QJW9652P8tYfw5XQ5Tl"
       ],
-      "definition": "Action by a federal or state prisoner currently in custody challenging the legality of confinement or other punishment. This includes claims alleging illegalities that occurred in trial (for example, ineffective assistance of counsel), sentencing (including fines and restitution orders), or disciplinary proceedings in prison (for example, loss of good time credits). Habeas petition under 28 U.S.C. § 2254 or prisoner habeas under 28 U.S.C. § 2241.",
+      "definition": "Action by a federal or state prisoner currently in custody challenging the legality of confinement or other punishment. This includes claims alleging illegalities that occurred in trial (for example, ineffective assistance of counsel), sentencing (including fines and restitution orders), or disciplinary proceedings in prison (for example, loss of good time credits). Habeas petition under 28 U.S.C. \u00a7 2254 or prisoner habeas under 28 U.S.C. \u00a7 2241.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -248464,7 +248464,7 @@
       "parents": [
         "http://lmss.sali.org/RCLxFZZvTWZmKpUYJa6UMmO"
       ],
-      "definition": "Action filed under the Reapportionment Act of 1929 Ch. 28, 46 Stat. 21, 2 U.S.C. § 2a.",
+      "definition": "Action filed under the Reapportionment Act of 1929 Ch. 28, 46 Stat. 21, 2 U.S.C. \u00a7 2a.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -249156,7 +249156,7 @@
       "parents": [
         "http://lmss.sali.org/RIxZRp4UxyqiBeFnokFhrA"
       ],
-      "definition": "Grapefruits are large citrus fruits from the Citrus × paradisi species, known for their tart to semi-sweet flavor and distinctive segmented flesh. They are consumed fresh, juiced, or used in culinary applications, valued for their high vitamin C content, dietary fiber, and potential health benefits, including antioxidant properties.",
+      "definition": "Grapefruits are large citrus fruits from the Citrus \u00d7 paradisi species, known for their tart to semi-sweet flavor and distinctive segmented flesh. They are consumed fresh, juiced, or used in culinary applications, valued for their high vitamin C content, dietary fiber, and potential health benefits, including antioxidant properties.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -249714,7 +249714,7 @@
       "parents": [
         "http://lmss.sali.org/RBWo88jsbY4qHzhlTFr5Np7"
       ],
-      "definition": "Audit practice refers to the systematic process of evaluating and examining an organization's records, processes, operations, and performance — ensuring compliance with laws, standards, and regulations. Audits can relate to many areas of law (e.g., Tax, Employment, Regulatory).",
+      "definition": "Audit practice refers to the systematic process of evaluating and examining an organization's records, processes, operations, and performance \u2014 ensuring compliance with laws, standards, and regulations. Audits can relate to many areas of law (e.g., Tax, Employment, Regulatory).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -249835,7 +249835,7 @@
       "parents": [
         "http://lmss.sali.org/RCAZQP6AHCQX7HNZqzV7oIR"
       ],
-      "definition": "All work throughout the life of the case relating to budgeting and costs management, excluding the ‘costs assessment’ and ‘funding’ related work and preparation for and attendance at any costs management hearing, all of which have discrete phases.",
+      "definition": "All work throughout the life of the case relating to budgeting and costs management, excluding the \u2018costs assessment\u2019 and \u2018funding\u2019 related work and preparation for and attendance at any costs management hearing, all of which have discrete phases.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -251793,7 +251793,7 @@
     },
     "http://lmss.sali.org/RmWcscZ56BvzJFBzUXxw7L": {
       "iri": "http://lmss.sali.org/RmWcscZ56BvzJFBzUXxw7L",
-      "label": "Village of Bill Morre’s Slough",
+      "label": "Village of Bill Morre\u2019s Slough",
       "status": "beta",
       "deprecated": false,
       "parents": [
@@ -251950,7 +251950,7 @@
       "parents": [
         "http://lmss.sali.org/RCua1MtzwNcjfYov8VFcoV3"
       ],
-      "definition": "Company whose stock is publicly available on a public stock exchange, as recognized by the relevant jurisdictions' authority — as well as a private company that are required by relevant legal authorities to make public disclosures (e.g., operations, finance).",
+      "definition": "Company whose stock is publicly available on a public stock exchange, as recognized by the relevant jurisdictions' authority \u2014 as well as a private company that are required by relevant legal authorities to make public disclosures (e.g., operations, finance).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -252689,7 +252689,7 @@
       "parents": [
         "http://lmss.sali.org/RN3TubQIlusDFnPgrNAk8D"
       ],
-      "definition": "Intellectual Disability (ID) is a developmental disorder characterized by significant limitations in both intellectual functioning (e.g., learning, reasoning, problem-solving) and adaptive behavior (e.g., social and practical skills), originating before the age of 18. Individuals with ID may experience difficulties in daily activities and require varying levels of support to live independently. This disorder is characterized by significantly subaverage general intellectual functioning, significant deficits in current adaptive functioning, and manifestation of the disorder before age 22. Signs may include, but are not limited to, poor conceptual, social, or practical skills evident in your adaptive functioning. Disorders in this category may be described in the evidence as intellectual disability, intellectual developmental disorder, or historically used terms such as “mental retardation.”",
+      "definition": "Intellectual Disability (ID) is a developmental disorder characterized by significant limitations in both intellectual functioning (e.g., learning, reasoning, problem-solving) and adaptive behavior (e.g., social and practical skills), originating before the age of 18. Individuals with ID may experience difficulties in daily activities and require varying levels of support to live independently. This disorder is characterized by significantly subaverage general intellectual functioning, significant deficits in current adaptive functioning, and manifestation of the disorder before age 22. Signs may include, but are not limited to, poor conceptual, social, or practical skills evident in your adaptive functioning. Disorders in this category may be described in the evidence as intellectual disability, intellectual developmental disorder, or historically used terms such as \u201cmental retardation.\u201d",
       "examples": [],
       "pref_label": "Cognitive Impairment",
       "sources": [],
@@ -253160,13 +253160,13 @@
     },
     "http://lmss.sali.org/RoYVROyNCfFy9VjwDP7ObL": {
       "iri": "http://lmss.sali.org/RoYVROyNCfFy9VjwDP7ObL",
-      "label": "JF40 Inspection and review of the other side’s disclosure for work undertaken after exchange of disclosure lists. (UK J-CODE)",
+      "label": "JF40 Inspection and review of the other side\u2019s disclosure for work undertaken after exchange of disclosure lists. (UK J-CODE)",
       "status": "accepted",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RBYu7mrAChLYwfT9Szd5d2x"
       ],
-      "definition": "Inspection and review of the other side’s disclosure for work undertaken after exchange of disclosure lists (applicable to both manual and e-disclosure).",
+      "definition": "Inspection and review of the other side\u2019s disclosure for work undertaken after exchange of disclosure lists (applicable to both manual and e-disclosure).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -255465,7 +255465,7 @@
       "parents": [
         "http://lmss.sali.org/R8V9Ma3IrggNq0pxeXl8Re5"
       ],
-      "definition": "Debit Card Payment is a transaction that transfers funds electronically from the cardholder's bank account to a merchant’s account, facilitated through a debit card network. Unlike credit cards, this form of payment is funded by existing money in the cardholder’s account.",
+      "definition": "Debit Card Payment is a transaction that transfers funds electronically from the cardholder's bank account to a merchant\u2019s account, facilitated through a debit card network. Unlike credit cards, this form of payment is funded by existing money in the cardholder\u2019s account.",
       "examples": [],
       "pref_label": "Bank Card Payment",
       "sources": [],
@@ -255645,7 +255645,7 @@
       "parents": [
         "http://lmss.sali.org/RCLxFZZvTWZmKpUYJa6UMmO"
       ],
-      "definition": "Action filed under the Administrative Procedures Act, 5 U.S.C. § 701, or civil actions to review or appeal a federal agency decision.",
+      "definition": "Action filed under the Administrative Procedures Act, 5 U.S.C. \u00a7 701, or civil actions to review or appeal a federal agency decision.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -257070,13 +257070,13 @@
     },
     "http://lmss.sali.org/RtYoJXrPiwPxepfYK3gpd6": {
       "iri": "http://lmss.sali.org/RtYoJXrPiwPxepfYK3gpd6",
-      "label": "Sjögren’s Syndrome",
+      "label": "Sj\u00f6gren\u2019s Syndrome",
       "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RBJ0dgV4Z2Xk7aGfJt2nSj7"
       ],
-      "definition": "Sjögren's syndrome is an immune-mediated disorder of the exocrine glands. Involvement of the lacrimal and salivary glands is the hallmark feature, resulting in symptoms of dry eyes and dry mouth, and possible complications, such as corneal damage, blepharitis (eyelid inflammation), dysphagia (difficulty in swallowing), dental caries, and the inability to speak for extended periods of time. Involvement of the exocrine glands of the upper airways may result in persistent dry cough.",
+      "definition": "Sj\u00f6gren's syndrome is an immune-mediated disorder of the exocrine glands. Involvement of the lacrimal and salivary glands is the hallmark feature, resulting in symptoms of dry eyes and dry mouth, and possible complications, such as corneal damage, blepharitis (eyelid inflammation), dysphagia (difficulty in swallowing), dental caries, and the inability to speak for extended periods of time. Involvement of the exocrine glands of the upper airways may result in persistent dry cough.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -257623,7 +257623,7 @@
       "parents": [
         "http://lmss.sali.org/RDuTiVtAQgLYmWDV8uln60A"
       ],
-      "definition": "Action alleging violation of the federal Truth in Lending Act arising from consumer loan transactions involving personal property including automobile loans and revolving credit accounts. Actions relating to fraud or misrepresentation in the transfer of real property should be classified under nature of suit 290, “All Other Real Property,” or, if foreclosure is involved, under nature of suit 220, “Foreclosure.”",
+      "definition": "Action alleging violation of the federal Truth in Lending Act arising from consumer loan transactions involving personal property including automobile loans and revolving credit accounts. Actions relating to fraud or misrepresentation in the transfer of real property should be classified under nature of suit 290, \u201cAll Other Real Property,\u201d or, if foreclosure is involved, under nature of suit 220, \u201cForeclosure.\u201d",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -258565,7 +258565,7 @@
       "examples": [],
       "pref_label": null,
       "sources": [
-        "From LIST: Legal Issues Taxonomy — https://taxonomy.legal/"
+        "From LIST: Legal Issues Taxonomy \u2014 https://taxonomy.legal/"
       ],
       "legacy_iri": null,
       "node_type": "class"
@@ -259519,7 +259519,7 @@
       "parents": [
         "http://lmss.sali.org/RDrbY6MeW8iV9jZP5QxI6Vg"
       ],
-      "definition": "Action filed under the Employee Retirement Income Security Act, 29 U.S.C. § 1132 by individuals and labor organizations.",
+      "definition": "Action filed under the Employee Retirement Income Security Act, 29 U.S.C. \u00a7 1132 by individuals and labor organizations.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -260115,7 +260115,7 @@
       "parents": [
         "http://lmss.sali.org/R93hEwIlLdaoQt6jDbdRAIT"
       ],
-      "definition": "The NAFTA Market Region encompasses the countries that were part of the North American Free Trade Agreement—Canada, the United States, and Mexico—characterized by integrated supply chains, significant trade flows, and economic collaboration. This region is known for its extensive cross-border trade and investment, driven by the harmonization of regulations and the reduction of trade barriers.",
+      "definition": "The NAFTA Market Region encompasses the countries that were part of the North American Free Trade Agreement\u2014Canada, the United States, and Mexico\u2014characterized by integrated supply chains, significant trade flows, and economic collaboration. This region is known for its extensive cross-border trade and investment, driven by the harmonization of regulations and the reduction of trade barriers.",
       "examples": [],
       "pref_label": "North American Market",
       "sources": [],
@@ -261410,13 +261410,13 @@
     },
     "http://lmss.sali.org/RyPfcqNtXu4Jvza25X2i7h": {
       "iri": "http://lmss.sali.org/RyPfcqNtXu4Jvza25X2i7h",
-      "label": "Ménière's Disease",
+      "label": "M\u00e9ni\u00e8re's Disease",
       "status": "beta",
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RTSI7ogxo4mf2wErPNxZDK"
       ],
-      "definition": "Ménière's disease is a chronic disorder of the inner ear characterized by recurrent episodes of vertigo (spinning sensation), tinnitus (ringing or buzzing in the ears), and fluctuating hearing loss. It is associated with an abnormal buildup of fluid in the inner ear, and diagnosis often involves confirming vestibular dysfunction through caloric or other vestibular tests and verifying hearing loss via audiometry.",
+      "definition": "M\u00e9ni\u00e8re's disease is a chronic disorder of the inner ear characterized by recurrent episodes of vertigo (spinning sensation), tinnitus (ringing or buzzing in the ears), and fluctuating hearing loss. It is associated with an abnormal buildup of fluid in the inner ear, and diagnosis often involves confirming vestibular dysfunction through caloric or other vestibular tests and verifying hearing loss via audiometry.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -261770,7 +261770,7 @@
       "parents": [
         "http://lmss.sali.org/RBQjEGIpmUNhT9brH9gpy58"
       ],
-      "definition": "\"The fax number of the contact.   \n\"",
+      "definition": "\"The fax number of the contact.\u00a0  \n\"",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -262131,7 +262131,7 @@
       "parents": [
         "http://lmss.sali.org/RxTxaN981tLTsN82qPBcp"
       ],
-      "definition": "The threats and opportunities associated with an organization's reputation and credibility with its partners, stakeholders, and the public — that might damage an organization's public image, credibility, or brand value. These risks can stem from various sources, such as operational failures, unethical behavior, or public controversies, potentially leading to diminished customer loyalty, reduced investor confidence, or decreased market opportunities, ultimately impacting the organization's overall performance and growth prospects.",
+      "definition": "The threats and opportunities associated with an organization's reputation and credibility with its partners, stakeholders, and the public \u2014 that might damage an organization's public image, credibility, or brand value. These risks can stem from various sources, such as operational failures, unethical behavior, or public controversies, potentially leading to diminished customer loyalty, reduced investor confidence, or decreased market opportunities, ultimately impacting the organization's overall performance and growth prospects.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -280707,96 +280707,6 @@
       "legacy_iri": null,
       "node_type": "class"
     },
-    "http://lmss.sali.org/5ip1iOLEB0NBYsohYgxdYg": {
-      "iri": "http://lmss.sali.org/5ip1iOLEB0NBYsohYgxdYg",
-      "label": "Data Analytics & AI Platform",
-      "status": "beta",
-      "deprecated": false,
-      "parents": [
-        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
-      ],
-      "definition": "Software publishers that develop and provide platforms for large-scale data processing, machine learning model training and inference, and artificial intelligence application development and deployment. Includes providers of foundational AI models, AI-as-a-service APIs, and enterprise data analytics and business intelligence solutions, such as OpenAI, Databricks, and Palantir.",
-      "examples": [],
-      "pref_label": null,
-      "sources": [],
-      "legacy_iri": null,
-      "node_type": "class"
-    },
-    "http://lmss.sali.org/6Fge5RBhztxVKarAB8fTxI": {
-      "iri": "http://lmss.sali.org/6Fge5RBhztxVKarAB8fTxI",
-      "label": "Developer Tools & DevOps",
-      "status": "beta",
-      "deprecated": false,
-      "parents": [
-        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
-      ],
-      "definition": "Software publishers specialising in tools that support the software development lifecycle, including integrated development environments (IDEs), version control systems, continuous integration and continuous delivery (CI/CD) platforms, container orchestration, and infrastructure-as-code solutions. Primarily serves software engineering teams and other technology companies.",
-      "examples": [],
-      "pref_label": null,
-      "sources": [],
-      "legacy_iri": null,
-      "node_type": "class"
-    },
-    "http://lmss.sali.org/48C8vk8hmo81xd8igLH7da": {
-      "iri": "http://lmss.sali.org/48C8vk8hmo81xd8igLH7da",
-      "label": "Horizontal SaaS",
-      "status": "beta",
-      "deprecated": false,
-      "parents": [
-        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
-      ],
-      "definition": "Software-as-a-service companies that deliver cloud-based applications designed for general business functions applicable across industries, such as human resources management, finance and accounting, customer relationship management (CRM), and workplace productivity. Distinguished from Vertical SaaS by the broad cross-sector applicability of the software rather than deep specialisation in a single industry vertical.",
-      "examples": [],
-      "pref_label": null,
-      "sources": [],
-      "legacy_iri": null,
-      "node_type": "class"
-    },
-    "http://lmss.sali.org/1NJE3IoSFouuSNjM3mnWwn": {
-      "iri": "http://lmss.sali.org/1NJE3IoSFouuSNjM3mnWwn",
-      "label": "MarTech / AdTech",
-      "status": "beta",
-      "deprecated": false,
-      "parents": [
-        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
-      ],
-      "definition": "Software publishers that develop and operate technology platforms used for digital marketing automation, programmatic advertising, campaign analytics, audience data management, and customer data platforms. Includes demand-side platforms (DSPs), supply-side platforms (SSPs), marketing automation suites, and data management platforms serving brands, agencies, and publishers.",
-      "examples": [],
-      "pref_label": null,
-      "sources": [],
-      "legacy_iri": null,
-      "node_type": "class"
-    },
-    "http://lmss.sali.org/4vxwlJ8JSBh33gbNw4GG3X": {
-      "iri": "http://lmss.sali.org/4vxwlJ8JSBh33gbNw4GG3X",
-      "label": "Vertical SaaS",
-      "status": "beta",
-      "deprecated": false,
-      "parents": [
-        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
-      ],
-      "definition": "Software-as-a-service companies that develop cloud-delivered software tailored to the specific workflows, regulatory requirements, and data structures of a particular industry vertical, such as healthcare, legal, construction, financial services, or real estate. Fintech companies whose primary business is software provision rather than regulated financial intermediation are classified here.",
-      "examples": [],
-      "pref_label": null,
-      "sources": [],
-      "legacy_iri": null,
-      "node_type": "class"
-    },
-    "http://lmss.sali.org/9XpQwKrNvYmTsBfLdEzGjA": {
-      "iri": "http://lmss.sali.org/9XpQwKrNvYmTsBfLdEzGjA",
-      "label": "Cybersecurity",
-      "status": "beta",
-      "deprecated": false,
-      "parents": [
-        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
-      ],
-      "definition": "Software publishers and technology service providers whose primary business is protecting computer systems, networks, and data from unauthorised access, cyberattacks, and digital threats. Includes providers of endpoint security, network security, identity and access management (IAM), threat intelligence, vulnerability management, and security operations centre (SOC) services and platforms.",
-      "examples": [],
-      "pref_label": null,
-      "sources": [],
-      "legacy_iri": null,
-      "node_type": "class"
-    },
     "http://lmss.sali.org/6bN0Lg2OT8yiqpb4vSaBYD": {
       "iri": "http://lmss.sali.org/6bN0Lg2OT8yiqpb4vSaBYD",
       "label": "Cannabis Cultivation",
@@ -280806,6 +280716,111 @@
         "http://lmss.sali.org/m_xYZAywQL6jYjPb7-meCw"
       ],
       "definition": "Cultivation, on-site processing, and extraction of cannabis (Cannabis sativa L.) for commercial purposes, covering medical cannabis, recreational cannabis, and industrial hemp. Encompasses the full point-of-production cycle: growing from seed or clone through harvest (indoor, greenhouse, and outdoor operations); post-harvest processing including drying, curing, and trimming; and primary extraction of cannabinoids and other plant-derived compounds. Also includes nurseries supplying genetics and clones to other cultivators. Excludes wholesale distribution, retail dispensary operations, and the manufacture of finished consumer products incorporating cannabis-derived inputs.",
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/e18b221c-01c6-4a32-a9e9-a3b9c6fcc4cf": {
+      "iri": "http://lmss.sali.org/e18b221c-01c6-4a32-a9e9-a3b9c6fcc4cf",
+      "label": "Business Application Software",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/60472104-b771-4a38-add7-f9773e43b7c2": {
+      "iri": "http://lmss.sali.org/60472104-b771-4a38-add7-f9773e43b7c2",
+      "label": "Industry-Specific Application Software",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/aaa35b92-6f9b-4844-a171-fd43578fc9a0": {
+      "iri": "http://lmss.sali.org/aaa35b92-6f9b-4844-a171-fd43578fc9a0",
+      "label": "Infrastructure & Platform Software",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/11134090-2a7e-4778-9d55-e6b5383cd3ca": {
+      "iri": "http://lmss.sali.org/11134090-2a7e-4778-9d55-e6b5383cd3ca",
+      "label": "Security Software",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/4008e077-83c8-4f12-829a-3d7042698a7a": {
+      "iri": "http://lmss.sali.org/4008e077-83c8-4f12-829a-3d7042698a7a",
+      "label": "Data, Analytics & AI Software",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/a767e24f-77e5-4b41-972b-c62af5900b88": {
+      "iri": "http://lmss.sali.org/a767e24f-77e5-4b41-972b-c62af5900b88",
+      "label": "Engineering & Design Software",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/b1b249b3-b04a-43e0-9e90-c2f48ad065ba": {
+      "iri": "http://lmss.sali.org/b1b249b3-b04a-43e0-9e90-c2f48ad065ba",
+      "label": "Consumer Software",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
+      ],
+      "definition": null,
       "examples": [],
       "pref_label": null,
       "sources": [],

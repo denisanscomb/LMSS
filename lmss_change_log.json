@@ -6,6 +6,55 @@
       "parent_iri": "http://lmss.sali.org/m_xYZAywQL6jYjPb7-meCw",
       "changed_by": "Admin",
       "timestamp": "2026-04-25T21:03:45.161669+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/e18b221c-01c6-4a32-a9e9-a3b9c6fcc4cf",
+      "label": "Business Application Software",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:20:16.621189+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/60472104-b771-4a38-add7-f9773e43b7c2",
+      "label": "Industry-Specific Application Software",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:20:16.621189+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/aaa35b92-6f9b-4844-a171-fd43578fc9a0",
+      "label": "Infrastructure & Platform Software",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:20:16.621189+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/11134090-2a7e-4778-9d55-e6b5383cd3ca",
+      "label": "Security Software",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:20:16.621189+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/4008e077-83c8-4f12-829a-3d7042698a7a",
+      "label": "Data, Analytics & AI Software",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:20:16.621189+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/a767e24f-77e5-4b41-972b-c62af5900b88",
+      "label": "Engineering & Design Software",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:20:16.621189+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/b1b249b3-b04a-43e0-9e90-c2f48ad065ba",
+      "label": "Consumer Software",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
   "label_changed": [
@@ -16385,6 +16434,49 @@
       "timestamp": "2026-04-25T21:11:23.092225+00:00"
     }
   ],
-  "deleted": [],
-  "last_updated": "2026-05-01T12:58:56.253954+00:00"
+  "deleted": [
+    {
+      "iri": "http://lmss.sali.org/5ip1iOLEB0NBYsohYgxdYg",
+      "label": "Data Analytics & AI Platform",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:20:16.621189+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6Fge5RBhztxVKarAB8fTxI",
+      "label": "Developer Tools & DevOps",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:20:16.621189+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/48C8vk8hmo81xd8igLH7da",
+      "label": "Horizontal SaaS",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:20:16.621189+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/1NJE3IoSFouuSNjM3mnWwn",
+      "label": "MarTech / AdTech",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:20:16.621189+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/4vxwlJ8JSBh33gbNw4GG3X",
+      "label": "Vertical SaaS",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:20:16.621189+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/9XpQwKrNvYmTsBfLdEzGjA",
+      "label": "Cybersecurity",
+      "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:20:16.621189+00:00"
+    }
+  ],
+  "last_updated": "2026-05-04T15:20:16.621189+00:00"
 }
