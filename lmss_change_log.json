@@ -16432,6 +16432,97 @@
       ],
       "changed_by": "Admin",
       "timestamp": "2026-04-25T21:11:23.092225+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/e18b221c-01c6-4a32-a9e9-a3b9c6fcc4cf",
+      "label": "Business Application Software",
+      "changes": [
+        {
+          "field": "definition",
+          "old": null,
+          "new": "Software that automates general business functions used across most industries \u2014 including finance and accounting, enterprise resource planning, customer relationship management, human capital management, sales, marketing, advertising, e-commerce, customer service, productivity, and collaboration. Examples include SAP, Oracle, Salesforce, HubSpot, Workday, and ServiceNow."
+        }
+      ],
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:25:27.297916+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/60472104-b771-4a38-add7-f9773e43b7c2",
+      "label": "Industry-Specific Application Software",
+      "changes": [
+        {
+          "field": "definition",
+          "old": null,
+          "new": "Software whose primary product is built for the operations, regulatory profile, or workflows of a specific industry rather than for cross-industry use. Covers verticals such as healthcare, legal, financial services, insurance, real estate, government, education, hospitality, construction, manufacturing, logistics, retail, and energy. Examples include Epic (healthcare), Veeva (life sciences), Toast (restaurants), Clio (legal), and Procore (construction)."
+        }
+      ],
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:25:27.297916+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/aaa35b92-6f9b-4844-a171-fd43578fc9a0",
+      "label": "Infrastructure & Platform Software",
+      "changes": [
+        {
+          "field": "definition",
+          "old": null,
+          "new": "Software that supports the development, deployment, operation, and integration of other software, including operating systems, databases, application development platforms, developer tools, DevOps and site-reliability software, observability and monitoring, and integration middleware. Examples include Linux distributions, PostgreSQL, GitHub, GitLab, Datadog, and MuleSoft. Excludes underlying compute, storage, and network services, which are classified under Computing Infrastructure Providers (NAICS 5182)."
+        }
+      ],
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:25:27.297916+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/11134090-2a7e-4778-9d55-e6b5383cd3ca",
+      "label": "Security Software",
+      "changes": [
+        {
+          "field": "definition",
+          "old": null,
+          "new": "Software whose primary function is to protect computer systems, networks, applications, identities, and data from unauthorized access, misuse, or attack. Includes endpoint and network security, cloud and application security, identity and access management, security operations (SIEM/SOAR), encryption and data protection, and fraud, anti-money-laundering, and compliance software. Examples include CrowdStrike, Palo Alto Networks, Okta, SentinelOne, and Splunk."
+        }
+      ],
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:25:27.297916+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/4008e077-83c8-4f12-829a-3d7042698a7a",
+      "label": "Data, Analytics & AI Software",
+      "changes": [
+        {
+          "field": "definition",
+          "old": null,
+          "new": "Software for storing, processing, analyzing, and modeling data \u2014 including business intelligence and analytics, data warehousing and data lakes, data integration and ETL, machine learning platforms (MLOps), foundation model providers, and applied AI and AI agent platforms. Examples include Snowflake, Databricks, Tableau, Hugging Face, OpenAI, and Anthropic."
+        }
+      ],
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:25:27.297916+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/a767e24f-77e5-4b41-972b-c62af5900b88",
+      "label": "Engineering & Design Software",
+      "changes": [
+        {
+          "field": "definition",
+          "old": null,
+          "new": "Software used to design, simulate, model, and document physical products, structures, systems, and spatial environments \u2014 including computer-aided design (CAD), computer-aided manufacturing and engineering (CAM/CAE), electronic design automation (EDA), simulation, and geographic information systems (GIS). Examples include Autodesk, Cadence Design Systems, Synopsys, Ansys, and Esri."
+        }
+      ],
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:25:27.297916+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/b1b249b3-b04a-43e0-9e90-c2f48ad065ba",
+      "label": "Consumer Software",
+      "changes": [
+        {
+          "field": "definition",
+          "old": null,
+          "new": "Software whose primary buyers are individual consumers rather than businesses or institutions, including mobile applications, social and communication apps, dating and lifestyle apps, and personal productivity tools. Examples include Spotify, Duolingo, WhatsApp, and Strava. Excludes consumer video games, which are classified under NAICS 5132."
+        }
+      ],
+      "changed_by": "denis@index.io",
+      "timestamp": "2026-05-04T15:25:27.297916+00:00"
     }
   ],
   "deleted": [
@@ -16478,5 +16569,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-05-04T15:20:16.621189+00:00"
+  "last_updated": "2026-05-04T15:25:27.297916+00:00"
 }

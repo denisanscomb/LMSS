@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-05-04T15:20:16.621189+00:00",
+    "generated_at": "2026-05-04T15:25:27.297916+00:00",
     "node_count": 18425,
     "language": "en"
   },
@@ -280730,7 +280730,7 @@
       "parents": [
         "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
       ],
-      "definition": null,
+      "definition": "Software that automates general business functions used across most industries \u2014 including finance and accounting, enterprise resource planning, customer relationship management, human capital management, sales, marketing, advertising, e-commerce, customer service, productivity, and collaboration. Examples include SAP, Oracle, Salesforce, HubSpot, Workday, and ServiceNow.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -280745,7 +280745,7 @@
       "parents": [
         "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
       ],
-      "definition": null,
+      "definition": "Software whose primary product is built for the operations, regulatory profile, or workflows of a specific industry rather than for cross-industry use. Covers verticals such as healthcare, legal, financial services, insurance, real estate, government, education, hospitality, construction, manufacturing, logistics, retail, and energy. Examples include Epic (healthcare), Veeva (life sciences), Toast (restaurants), Clio (legal), and Procore (construction).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -280760,7 +280760,7 @@
       "parents": [
         "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
       ],
-      "definition": null,
+      "definition": "Software that supports the development, deployment, operation, and integration of other software, including operating systems, databases, application development platforms, developer tools, DevOps and site-reliability software, observability and monitoring, and integration middleware. Examples include Linux distributions, PostgreSQL, GitHub, GitLab, Datadog, and MuleSoft. Excludes underlying compute, storage, and network services, which are classified under Computing Infrastructure Providers (NAICS 5182).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -280775,7 +280775,7 @@
       "parents": [
         "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
       ],
-      "definition": null,
+      "definition": "Software whose primary function is to protect computer systems, networks, applications, identities, and data from unauthorized access, misuse, or attack. Includes endpoint and network security, cloud and application security, identity and access management, security operations (SIEM/SOAR), encryption and data protection, and fraud, anti-money-laundering, and compliance software. Examples include CrowdStrike, Palo Alto Networks, Okta, SentinelOne, and Splunk.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -280790,7 +280790,7 @@
       "parents": [
         "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
       ],
-      "definition": null,
+      "definition": "Software for storing, processing, analyzing, and modeling data \u2014 including business intelligence and analytics, data warehousing and data lakes, data integration and ETL, machine learning platforms (MLOps), foundation model providers, and applied AI and AI agent platforms. Examples include Snowflake, Databricks, Tableau, Hugging Face, OpenAI, and Anthropic.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -280805,7 +280805,7 @@
       "parents": [
         "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
       ],
-      "definition": null,
+      "definition": "Software used to design, simulate, model, and document physical products, structures, systems, and spatial environments \u2014 including computer-aided design (CAD), computer-aided manufacturing and engineering (CAM/CAE), electronic design automation (EDA), simulation, and geographic information systems (GIS). Examples include Autodesk, Cadence Design Systems, Synopsys, Ansys, and Esri.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -280820,7 +280820,7 @@
       "parents": [
         "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
       ],
-      "definition": null,
+      "definition": "Software whose primary buyers are individual consumers rather than businesses or institutions, including mobile applications, social and communication apps, dating and lifestyle apps, and personal productivity tools. Examples include Spotify, Duolingo, WhatsApp, and Strava. Excludes consumer video games, which are classified under NAICS 5132.",
       "examples": [],
       "pref_label": null,
       "sources": [],
