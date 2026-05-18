@@ -145,6 +145,26 @@
       ],
       "changed_by": "Admin",
       "timestamp": "2026-05-01T12:58:54.953591+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/5K7eOa4PXk56Vad6Pc6Ajj",
+      "label": "Family Office",
+      "old": [
+        "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q"
+      ],
+      "new": [
+        "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q",
+        "http://lmss.sali.org/pYi9zljbSU6w62eKekO9CQ"
+      ],
+      "old_labels": [
+        "Portfolio Management and Investment Advice"
+      ],
+      "new_labels": [
+        "Portfolio Management and Investment Advice",
+        "Other Financial Vehicles"
+      ],
+      "changed_by": "Admin",
+      "timestamp": "2026-05-18T09:05:29.724704+00:00"
     }
   ],
   "withdrawn": [],
@@ -16569,5 +16589,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-05-04T15:25:27.297916+00:00"
+  "last_updated": "2026-05-18T09:05:30.919444+00:00"
 }
