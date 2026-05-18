@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-05-18T09:14:39Z",
+    "generated_at": "2026-05-18T09:35:15Z",
     "node_count": 18425,
     "language": "en"
   },
@@ -280723,7 +280723,7 @@
     },
     "http://lmss.sali.org/e18b221c-01c6-4a32-a9e9-a3b9c6fcc4cf": {
       "iri": "http://lmss.sali.org/e18b221c-01c6-4a32-a9e9-a3b9c6fcc4cf",
-      "label": "Business Application Software",
+      "label": "Business Management Software",
       "status": "beta",
       "deprecated": false,
       "parents": [

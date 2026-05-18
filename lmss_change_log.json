@@ -78,6 +78,13 @@
       "new": "Individual",
       "changed_by": "Admin",
       "timestamp": "2026-04-26T18:38:19.353673+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/e18b221c-01c6-4a32-a9e9-a3b9c6fcc4cf",
+      "old": "Business Application Software",
+      "new": "Business Management Software",
+      "changed_by": "Admin",
+      "timestamp": "2026-05-18T09:35:15.435163+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -16845,5 +16852,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-05-18T09:14:40.777002+00:00"
+  "last_updated": "2026-05-18T09:35:16.558225+00:00"
 }
