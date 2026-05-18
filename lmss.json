@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-05-18T09:05:29Z",
+    "generated_at": "2026-05-18T09:06:50Z",
     "node_count": 18425,
     "language": "en"
   },
@@ -253317,7 +253317,8 @@
         "http://lmss.sali.org/R8hWq9dSn0Su2Y59JE48V3H",
         "http://lmss.sali.org/RCua1MtzwNcjfYov8VFcoV3",
         "http://lmss.sali.org/RCzxVprwB3RwZ8EMewt18Jt",
-        "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q"
+        "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q",
+        "http://lmss.sali.org/pYi9zljbSU6w62eKekO9CQ"
       ],
       "definition": "A hedge fund is a type of investment vehicle that pools capital from accredited individuals or institutional investors and invests in a variety of assets, often using complex strategies with the goal of generating high returns. Unlike mutual funds, hedge funds are subject to fewer regulations and often employ more aggressive strategies, including short selling, leverage, and derivatives.",
       "examples": [],
