@@ -401,6 +401,26 @@
       ],
       "changed_by": "Admin",
       "timestamp": "2026-05-18T09:14:18.028847+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/2GL3wPPyBNPcAdt7zIOJZ1",
+      "label": "Crypto Brokerage / Digital Asset Exchange",
+      "old": [
+        "http://lmss.sali.org/JfimJvhUSLue3Mn4ZEg8qQ",
+        "http://lmss.sali.org/uF5peA3LSQStw_jNvwgv8g"
+      ],
+      "new": [
+        "http://lmss.sali.org/JfimJvhUSLue3Mn4ZEg8qQ"
+      ],
+      "old_labels": [
+        "Securities and Commodity Exchanges",
+        "Investment Banking and Securities Intermediation"
+      ],
+      "new_labels": [
+        "Securities and Commodity Exchanges"
+      ],
+      "changed_by": "Admin",
+      "timestamp": "2026-05-18T09:14:39.569751+00:00"
     }
   ],
   "withdrawn": [],
@@ -16825,5 +16845,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-05-18T09:14:19.281975+00:00"
+  "last_updated": "2026-05-18T09:14:40.777002+00:00"
 }
