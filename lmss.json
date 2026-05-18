@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-05-18T09:13:04Z",
+    "generated_at": "2026-05-18T09:13:19Z",
     "node_count": 18425,
     "language": "en"
   },
@@ -280670,7 +280670,6 @@
       "status": "beta",
       "deprecated": false,
       "parents": [
-        "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q",
         "http://lmss.sali.org/pYi9zljbSU6w62eKekO9CQ"
       ],
       "definition": "A privately held entity established to manage investment, financial, and administrative services for a single ultra-high-net-worth family or a small number of related wealthy families. Services typically include investment portfolio management, estate and succession planning, tax structuring, philanthropy coordination, and intergenerational wealth transfer.",
