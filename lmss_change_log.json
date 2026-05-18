@@ -197,6 +197,30 @@
       ],
       "changed_by": "Admin",
       "timestamp": "2026-05-18T09:06:50.245007+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBVDhZktj9cmIdOPtregDtl",
+      "label": "Private Debt Fund",
+      "old": [
+        "http://lmss.sali.org/RCzxVprwB3RwZ8EMewt18Jt",
+        "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q"
+      ],
+      "new": [
+        "http://lmss.sali.org/RCzxVprwB3RwZ8EMewt18Jt",
+        "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q",
+        "http://lmss.sali.org/pYi9zljbSU6w62eKekO9CQ"
+      ],
+      "old_labels": [
+        "Investment Funds",
+        "Portfolio Management and Investment Advice"
+      ],
+      "new_labels": [
+        "Investment Funds",
+        "Portfolio Management and Investment Advice",
+        "Other Financial Vehicles"
+      ],
+      "changed_by": "Admin",
+      "timestamp": "2026-05-18T09:08:21.105951+00:00"
     }
   ],
   "withdrawn": [],
@@ -16621,5 +16645,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-05-18T09:06:51.122299+00:00"
+  "last_updated": "2026-05-18T09:08:22.241748+00:00"
 }
