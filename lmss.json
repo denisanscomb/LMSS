@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-05-19T11:46:16Z",
+    "generated_at": "2026-05-19T11:46:38Z",
     "node_count": 18425,
     "language": "en"
   },
@@ -150766,7 +150766,8 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RCzxVprwB3RwZ8EMewt18Jt",
-        "http://lmss.sali.org/pYi9zljbSU6w62eKekO9CQ"
+        "http://lmss.sali.org/pYi9zljbSU6w62eKekO9CQ",
+        "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q"
       ],
       "definition": null,
       "examples": [],
