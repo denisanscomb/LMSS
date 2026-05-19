@@ -532,6 +532,30 @@
       ],
       "changed_by": "Admin",
       "timestamp": "2026-05-19T11:46:59.820809+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7J0ktO9D6B9AsNCPBlF3Wg",
+      "label": "Venture Capital Fund",
+      "old": [
+        "http://lmss.sali.org/RCzxVprwB3RwZ8EMewt18Jt",
+        "http://lmss.sali.org/pYi9zljbSU6w62eKekO9CQ"
+      ],
+      "new": [
+        "http://lmss.sali.org/RCzxVprwB3RwZ8EMewt18Jt",
+        "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q",
+        "http://lmss.sali.org/pYi9zljbSU6w62eKekO9CQ"
+      ],
+      "old_labels": [
+        "Investment Funds",
+        "Other Financial Vehicles"
+      ],
+      "new_labels": [
+        "Investment Funds",
+        "Portfolio Management and Investment Advice",
+        "Other Financial Vehicles"
+      ],
+      "changed_by": "Admin",
+      "timestamp": "2026-05-19T11:47:25.877934+00:00"
     }
   ],
   "withdrawn": [],
@@ -16956,5 +16980,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-05-19T11:47:00.828788+00:00"
+  "last_updated": "2026-05-19T11:47:26.891488+00:00"
 }
