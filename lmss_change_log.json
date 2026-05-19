@@ -632,6 +632,34 @@
       ],
       "changed_by": "Admin",
       "timestamp": "2026-05-19T11:53:37.790878+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7JYwHVwutjxr81ctlLcJtl",
+      "label": "Private Equity Fund",
+      "old": [
+        "http://lmss.sali.org/R8hWq9dSn0Su2Y59JE48V3H",
+        "http://lmss.sali.org/RCzxVprwB3RwZ8EMewt18Jt",
+        "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q",
+        "http://lmss.sali.org/pYi9zljbSU6w62eKekO9CQ"
+      ],
+      "new": [
+        "http://lmss.sali.org/R8hWq9dSn0Su2Y59JE48V3H",
+        "http://lmss.sali.org/RCzxVprwB3RwZ8EMewt18Jt",
+        "http://lmss.sali.org/UDUCrCXqR4CCpcNe2xl16Q"
+      ],
+      "old_labels": [
+        "Investor",
+        "Investment Funds",
+        "Portfolio Management and Investment Advice",
+        "Other Financial Vehicles"
+      ],
+      "new_labels": [
+        "Investor",
+        "Investment Funds",
+        "Portfolio Management and Investment Advice"
+      ],
+      "changed_by": "Admin",
+      "timestamp": "2026-05-19T11:53:49.095526+00:00"
     }
   ],
   "withdrawn": [],
@@ -17056,5 +17084,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-05-19T11:53:38.895868+00:00"
+  "last_updated": "2026-05-19T11:53:50.292838+00:00"
 }
