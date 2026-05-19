@@ -576,6 +576,38 @@
       ],
       "changed_by": "Admin",
       "timestamp": "2026-05-19T11:53:04.076097+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RogKaTAzyBlKKbhTJxhXds",
+      "label": "Hedge Funds",
+      "old": [
+        "http://lmss.sali.org/GXJzC7W9Q7KXgyDdjZGvFQ",
+        "http://lmss.sali.org/R8hWq9dSn0Su2Y59JE48V3H",
+        "http://lmss.sali.org/RCua1MtzwNcjfYov8VFcoV3",
+        "http://lmss.sali.org/RCzxVprwB3RwZ8EMewt18Jt",
+        "http://lmss.sali.org/pYi9zljbSU6w62eKekO9CQ"
+      ],
+      "new": [
+        "http://lmss.sali.org/GXJzC7W9Q7KXgyDdjZGvFQ",
+        "http://lmss.sali.org/R8hWq9dSn0Su2Y59JE48V3H",
+        "http://lmss.sali.org/RCua1MtzwNcjfYov8VFcoV3",
+        "http://lmss.sali.org/RCzxVprwB3RwZ8EMewt18Jt"
+      ],
+      "old_labels": [
+        "Portfolio Management and Investment Advice",
+        "Investor",
+        "Business Entity Characteristics",
+        "Investment Funds",
+        "Other Financial Vehicles"
+      ],
+      "new_labels": [
+        "Portfolio Management and Investment Advice",
+        "Investor",
+        "Business Entity Characteristics",
+        "Investment Funds"
+      ],
+      "changed_by": "Admin",
+      "timestamp": "2026-05-19T11:53:15.854029+00:00"
     }
   ],
   "withdrawn": [],
@@ -17000,5 +17032,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-05-19T11:53:05.086218+00:00"
+  "last_updated": "2026-05-19T11:53:17.117978+00:00"
 }
