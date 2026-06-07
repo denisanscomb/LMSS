@@ -31429,7 +31429,7 @@
       "parents": [
         "http://lmss.sali.org/RDdMucRftztKt4Ag7WzUxX"
       ],
-      "definition": "Law is designed to encourage inventors to disclose their new technology to the world by offering the incentive of a limited-time monopoly on the technology.",
+      "definition": "Law that grants inventors exclusive rights to make, use, and commercialize their inventions for a defined period, in exchange for publicly disclosing the invention, aimed at encouraging innovation and technological advancement.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -53625,7 +53625,7 @@
       "parents": [
         "http://lmss.sali.org/RDdMucRftztKt4Ag7WzUxX"
       ],
-      "definition": "Law relating to trade secrets.",
+      "definition": "Law protecting confidential business information, formulas, processes, designs, and strategies that provide a competitive advantage, prohibiting their unauthorized use, disclosure, or misappropriation by competitors or former employees.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -57604,7 +57604,7 @@
       "parents": [
         "http://lmss.sali.org/R7kUD6H5adQ83mCKuHjT5JD"
       ],
-      "definition": "Law and rules related to the protection of information and information systems.",
+      "definition": "Law governing the protection of computer systems, networks, and digital infrastructure from cyber threats, attacks, and unauthorized access, including legal obligations for organizations to implement security measures, report breaches, and protect sensitive data.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -58671,7 +58671,7 @@
       "parents": [
         "http://lmss.sali.org/R8YijwyycPV6XzUJaud9SB1"
       ],
-      "definition": "Legal procedures and regulations specific to indigenous peoples' rights.",
+      "definition": "Law governing the rights, interests, and legal status of indigenous peoples, including land rights, treaty obligations, self-determination, cultural heritage protection, resource rights, and the relationship between indigenous communities and the state.",
       "examples": [],
       "pref_label": "Tribal Law",
       "sources": [],
@@ -62263,7 +62263,7 @@
       "parents": [
         "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
       ],
-      "definition": "Drug Testing & Substance Abuse Law refers to the legal framework governing the testing of individuals for the presence of drugs and the regulation of substance abuse. It includes policies, procedures, and regulations related to the detection, prevention, and treatment of drug use and addiction.",
+      "definition": "Substance Abuse and Drug Testing Law refers to the legal framework governing the testing of individuals for the presence of drugs and the regulation of substance abuse. It includes policies, procedures, and regulations related to the detection, prevention, and treatment of drug use and addiction.",
       "examples": [],
       "pref_label": "Drug Testing Law",
       "sources": [],
@@ -62444,7 +62444,7 @@
       "parents": [
         "http://lmss.sali.org/RRfuF3AuewVT4SR15di375"
       ],
-      "definition": "Laws governing the ownership and use of water resources, including surface water and groundwater, oceans and seas.",
+      "definition": "Law governing the management, use, and protection of water resources (including surface water and groundwater, oceans and seas) and wetland ecosystems. Includes water rights, allocation, flood control, and the conservation of wetlands as critical habitats for wildlife and natural water filtration.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -65801,7 +65801,7 @@
       "parents": [
         "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
       ],
-      "definition": "Law relating to the relationship between trade unions, employers, and the government.",
+      "definition": "Law governing the rights and obligations of workers, employers, and trade unions in the workplace, including employment contracts, wages, working hours, collective bargaining, workplace safety, discrimination, and the resolution of employment disputes, aimed at ensuring fair and equitable treatment of workers.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -69642,7 +69642,7 @@
       "parents": [
         "http://lmss.sali.org/R84OEP4CfOdocUXySLymitN"
       ],
-      "definition": "Laws pertaining to solar power.",
+      "definition": "Law governing the development, regulation, and use of solar energy, including licensing, land use, grid connection, net metering, environmental compliance, and incentives promoting the adoption of solar power technologies.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -71532,7 +71532,7 @@
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
-      "definition": "Law regulating the protection of information and information systems from unauthorized access",
+      "definition": "Laws regulating information and information systems.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -80075,7 +80075,7 @@
       "parents": [
         "http://lmss.sali.org/R9pmjLDKAMzm147xIPPq5ul"
       ],
-      "definition": "Laws pertaining to renewable energy.",
+      "definition": "Law governing the development, regulation, and use of renewable energy sources such as solar, wind, hydro, and geothermal energy, including licensing, grid access, environmental compliance, and incentive schemes promoting the transition to clean energy.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -82028,7 +82028,7 @@
       "parents": [
         "http://lmss.sali.org/R8YijwyycPV6XzUJaud9SB1"
       ],
-      "definition": "Legal procedures and regulations specific to the military and veterans rights.",
+      "definition": "Law governing the legal rights, obligations, and benefits of military personnel and veterans, including military discipline and justice, service conditions, disability compensation, pension entitlements, healthcare benefits, employment protections, and the legal processes applicable to members of the armed forces during and after their service.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -87688,7 +87688,7 @@
       "parents": [
         "http://lmss.sali.org/RqNYDJtQ1pAsGPKZNEUlET"
       ],
-      "definition": "Law, rules, and customs governing trade between countries including imports and exports.",
+      "definition": "Law, rules, and customs governing trade between countries, including the regulation of imports and exports.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -92091,7 +92091,7 @@
         "http://lmss.sali.org/RDGdgxwCGXpkY1zfT2WwGl9",
         "http://lmss.sali.org/RDR762ETZykxzu0RfYBxNu9"
       ],
-      "definition": "Employee Stock Ownership Plans Law refers to the legal framework governing the establishment, management, and regulation of Employee Stock Ownership Plans (ESOPs), which allow employees to acquire ownership interests in their employer. This body of law includes statutes, regulations, and case law that ensure ESOPs are operated in the best interest of the employees and comply with tax and labor laws.",
+      "definition": "Employee Stock Ownership Plans (ESOPs) Law refers to the legal framework governing the establishment, management, and regulation of ESOPs, which allow employees to acquire ownership interests in their employer.",
       "examples": [],
       "pref_label": "Employee Equity Participation Law",
       "sources": [],
@@ -93835,7 +93835,7 @@
       "parents": [
         "http://lmss.sali.org/RB7pLfw7zqXtd20kKg7EcOA"
       ],
-      "definition": "Financial Reporting Law encompasses the regulations and standards governing the disclosure of financial information by entities. It ensures transparency, accuracy, and consistency in financial statements, facilitating informed decision-making by stakeholders.",
+      "definition": "Financial Reporting Law encompasses the regulations and standards governing the disclosure of financial information by entities.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -95125,7 +95125,7 @@
       "parents": [
         "http://lmss.sali.org/RMZ6lNihK8TG4Flhco1yTy"
       ],
-      "definition": "Law addressing bribery of public officials.",
+      "definition": "Law that prohibits and penalizes corrupt practices such as bribery, fraud, embezzlement, and abuse of power by public officials and private entities, with the aim of promoting transparency, accountability, and integrity in both the public and private sectors.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -96616,7 +96616,7 @@
       "parents": [
         "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
       ],
-      "definition": "Law relating to protected class employment discrimination including retaliation and harassment",
+      "definition": "Law prohibiting unfair treatment of employees or job applicants based on protected characteristics such as race, gender, age, religion, disability, or national origin.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -97102,7 +97102,7 @@
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
-      "definition": "Laws relating to insolvent individuals and companies.",
+      "definition": "Law relating to insolvent individuals and companies.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -98309,7 +98309,7 @@
       "parents": [
         "http://lmss.sali.org/R07tQM5sYugYGBPQS571s5"
       ],
-      "definition": "Individual rights such as privacy and the freedom of thought, speech, religion, press, assembly, and movement.",
+      "definition": "Law that protects the fundamental rights and freedoms of individuals -  such as privacy, and the freedom of thought, speech, religion, press, assembly, and movement - against infringement by governments, institutions, or other individuals, ensuring equal treatment and dignity under the law.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -99501,7 +99501,7 @@
       "parents": [
         "http://lmss.sali.org/R7MK1XmyjtYxZKg8Iw4ZN4K"
       ],
-      "definition": "Matters relating to personal property — not real property — such as damage to vehicles, ownership of valuables (e.g., jewelry), trespass to chattels, etc.",
+      "definition": "Law relating to personal property — not real property — such as damage to vehicles, ownership of valuables (e.g., jewelry), trespass to chattels, etc.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -100163,7 +100163,7 @@
       "parents": [
         "http://lmss.sali.org/RRfuF3AuewVT4SR15di375"
       ],
-      "definition": "Law governing the emission of air pollutants into the atmosphere.",
+      "definition": "Law governing the regulation and control of air pollution, including emission standards, monitoring requirements, and enforcement measures aimed at protecting public health and the environment from harmful airborne pollutants.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -101194,7 +101194,7 @@
       "parents": [
         "http://lmss.sali.org/RDdMucRftztKt4Ag7WzUxX"
       ],
-      "definition": "Law protecting a business' commercial identity or brand by or product design discouraging other businesses from adopting a name, logo or design that is \"confusingly similar\" to an existing trademark or design.",
+      "definition": "Law protecting a business' commercial identity, brand or product design by discouraging other businesses from adopting a name, logo or design that is \"confusingly similar\" to an existing trademark or design.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -101903,7 +101903,7 @@
       "parents": [
         "http://lmss.sali.org/RCF0BMeSwppddfM6cp6AUBK"
       ],
-      "definition": "Law governing derivatives.",
+      "definition": "Law governing the regulation, trading, and enforcement of derivative financial instruments and futures contracts, including options, swaps, and forward contracts, aimed at ensuring market integrity, transparency, and the management of financial risk in derivatives markets.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -109493,7 +109493,7 @@
       "parents": [
         "http://lmss.sali.org/R7kUD6H5adQ83mCKuHjT5JD"
       ],
-      "definition": "Law relating to the access and disclosure of information by a government.",
+      "definition": "Law relating to the access and disclosure of information by a government to the public.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -112954,7 +112954,7 @@
       "parents": [
         "http://lmss.sali.org/RMZ6lNihK8TG4Flhco1yTy"
       ],
-      "definition": "Asset forfeiture or asset seizure is a form of confiscation of assets by the state.",
+      "definition": "Asset Forfeiture Law, also known as asset seizure, refers to the legal process by which the state confiscates assets from individuals or entities connected to criminal activity or illegal conduct.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -118725,7 +118725,7 @@
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
-      "definition": "Laws regulating food, drugs, and cosmetics.",
+      "definition": "Law governing the safety, quality, labelling, and regulation of food, drugs, medical devices, and cosmetics, aimed at protecting public health by ensuring that products are safe, effective, and accurately represented to consumers.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -121110,7 +121110,7 @@
       "parents": [
         "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
       ],
-      "definition": "Law governing the health and safety of employees.",
+      "definition": "Law governing the obligations of employers to provide a safe and healthy working environment, including risk assessment, workplace safety standards, accident prevention, and the rights of employees to work free from harm or hazard.",
       "examples": [],
       "pref_label": "Disability, Leave, and Health Management Law",
       "sources": [],
@@ -127519,7 +127519,7 @@
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
-      "definition": "Law concerned with creating, enforcing and challenging laws that regulate energy use.",
+      "definition": "Law governing the production, distribution, consumption, and regulation of energy resources — including oil, gas, electricity, and renewable energy — as well as the rights and obligations of energy producers, consumers, and regulators.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -128413,7 +128413,7 @@
       "parents": [
         "http://lmss.sali.org/RDhhApr0eDVle3F076WAVct"
       ],
-      "definition": "Law which holds lender liable for a borrower's financial losses that are directly or indirectly related to the lender's actions.",
+      "definition": "Law governing the legal responsibilities and potential liability of lenders toward borrowers, including claims arising from predatory lending, breach of contract, fraud, negligent misrepresentation, and failure to act in good faith in lending transactions.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -139142,7 +139142,7 @@
       "parents": [
         "http://lmss.sali.org/RMZ6lNihK8TG4Flhco1yTy"
       ],
-      "definition": "Law related to curtailing organized crime.",
+      "definition": "The body of law that targets criminal activities carried out by structured groups or networks operating systematically for financial or other material gain, including racketeering, drug trafficking, human trafficking, money laundering, and extortion.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -148761,7 +148761,7 @@
         "http://lmss.sali.org/R7meQhKYGkcA57UZ7v4JOdA",
         "http://lmss.sali.org/RCF0BMeSwppddfM6cp6AUBK"
       ],
-      "definition": "Cryptocurrency law encompasses the legal rules and regulations governing the use, creation, and exchange of digital currencies, such as Bitcoin and Ethereum. It addresses issues related to security, taxation, and compliance with financial regulations.",
+      "definition": "Cryptocurrency law encompasses the legal rules and regulations governing the use, creation, and exchange of digital currencies. It addresses issues related to security, taxation, and compliance with financial regulations.",
       "examples": [],
       "pref_label": "Digital Currency Law",
       "sources": [],
@@ -153681,7 +153681,7 @@
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
-      "definition": "AI law encompasses legal issues arising from the development, deployment, and use of artificial intelligence such as ethical uses of AI, transparency, and data protection.",
+      "definition": "Artifical Intelligence (AI) Law encompasses legal issues arising from the development, deployment, and use of AI such as ethical use, transparency, and data protection.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -155165,7 +155165,7 @@
       "parents": [
         "http://lmss.sali.org/R9qjABGONgw3rbekxhtcxZh"
       ],
-      "definition": "Law covering all the aspects of registering and titling motor vehicles, and licensing drivers.",
+      "definition": "Law governing the ownership, registration, operation, and regulation of motor vehicles, including licensing requirements, traffic rules and safety standards, vehicle insurance obligations, liability for accidents, and the rights and responsibilities of drivers, passengers, and pedestrians on public roads.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -156450,7 +156450,7 @@
         "http://lmss.sali.org/R78xJfSMpJ2ZUUUlYdzfUvC",
         "http://lmss.sali.org/RDFhkhLQDtnN9dqbZSYSlpC"
       ],
-      "definition": "Accident Benefits Law refers to the legal area of study and practice that deals with the compensation and benefits provided to individuals who have been injured in an accident, typically related to automobile insurance.",
+      "definition": "Law that deals with the compensation and benefits provided to individuals who have been injured in an accident.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -157351,7 +157351,7 @@
       "parents": [
         "http://lmss.sali.org/RRfuF3AuewVT4SR15di375"
       ],
-      "definition": "Laws covering the ownership of the mineral resource and who can work them.",
+      "definition": "Law governing the exploration, extraction, ownership, and regulation of mineral resources such as coal, metals, and precious stones, including mining rights, licensing, environmental obligations, and the equitable distribution of mineral wealth.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -157595,7 +157595,7 @@
       "parents": [
         "http://lmss.sali.org/RDb8aZxNJsmCvQGbfiFyfI7"
       ],
-      "definition": "Law that details the rights and duties of landlords and tenants",
+      "definition": "Law that details the rights and duties of landlords and tenants including the rights and obligations of both parties, lease agreements, rent obligations, security deposits, property maintenance standards, eviction procedures, and the resolution of disputes arising from residential and commercial tenancy arrangements.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -160278,7 +160278,7 @@
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
-      "definition": "Cannabis Law refers to the legal rules and regulations governing the use, possession, sale, cultivation, and distribution of cannabis, both for medical and recreational purposes. These laws vary significantly between jurisdictions, ranging from total prohibition to decriminalization or full legalization, and they may involve aspects of criminal, business, and health law among others",
+      "definition": "Cannabis Law refers to the legal rules and regulations governing the use, possession, sale, cultivation, and distribution of cannabis, both for medical and recreational purposes. These laws vary significantly between jurisdictions, ranging from total prohibition to decriminalization or full legalization, and they may involve aspects of criminal, business, and health law among others.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -160370,7 +160370,7 @@
       "parents": [
         "http://lmss.sali.org/RMZ6lNihK8TG4Flhco1yTy"
       ],
-      "definition": "Fraud, embezzlement, ponzi, etc. False Claims Act.",
+      "definition": "Law that addresses criminal conduct committed in a commercial or financial context, targeting individuals and organizations that engage in illegal activities for financial gain, including fraud, money laundering, embezzlement, bribery, insider trading, and tax evasion.",
       "examples": [],
       "pref_label": "White Collar Criminal Law",
       "sources": [],
@@ -160674,7 +160674,7 @@
       "parents": [
         "http://lmss.sali.org/RCIPwpgRpMs1eVz4vPid0pV"
       ],
-      "definition": "Civil Contract Law refers to a subset of Civil Caw (e.g., civil law countries) that deals with agreements between private entities, as opposed to public or governmental entities. This body of law encompasses the creation, interpretation, and enforcement of these agreements, as well as resolution of disputes related to contract performance, breach, or termination.",
+      "definition": "Law that deals with agreements between private entities in countries operating under civil law.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -163163,7 +163163,7 @@
         "http://lmss.sali.org/R78xJfSMpJ2ZUUUlYdzfUvC",
         "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
       ],
-      "definition": "A legal concept that deals with ensuring equal pay for equal work regardless of gender, race, or other protected characteristics in the workplace.",
+      "definition": "Law that deals with ensuring equal pay for equal work regardless of gender, race, or other protected characteristics in the workplace",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -168505,7 +168505,7 @@
       "parents": [
         "http://lmss.sali.org/RcVabDAyOfCmuIYjaqoxHf"
       ],
-      "definition": "Laws that govern non-profit and charitable organizations operations and management.",
+      "definition": "Law governing the establishment, operation, and regulation of non-profit and tax-exempt organizations, including eligibility requirements for tax-exempt status, governance obligations, fundraising regulations, restrictions on political activity, and the fiduciary duties of directors and officers",
       "examples": [],
       "pref_label": "Charities Law",
       "sources": [],
@@ -170648,7 +170648,7 @@
       "parents": [
         "http://lmss.sali.org/RB7pLfw7zqXtd20kKg7EcOA"
       ],
-      "definition": "Environmental, Social, and Governance Law (ESG Law) encompasses a set of legal standards and regulations that guide organizations in integrating environmental, social, and governance considerations into their operations and decision-making processes. ESG laws aim to promote sustainable practices, ethical governance, and social responsibility to achieve long-term positive impacts on society and the environment.",
+      "definition": "Environmental, Social, and Governance Law (ESG Law) encompasses a set of legal standards and regulations that guide organizations in integrating environmental, social, and governance considerations into their operations and decision-making processes. ESG Law aims to promote sustainable practices, ethical governance, and social responsibility to achieve long-term positive impacts on society and the environment.",
       "examples": [],
       "pref_label": "ESG Law",
       "sources": [],
@@ -170693,7 +170693,7 @@
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
-      "definition": "Law, rules, and regulations that apply to the gaming or gambling industry.",
+      "definition": "Law, rules, and regulations that apply to the gaming or gambling industry, aimed at ensuring fair play, preventing fraud, and protecting consumers from exploitation.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -174258,7 +174258,7 @@
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
-      "definition": "The General Theory of Contracts is an umbrella term used in civil law jurisdictions, like Spain and Latin America, that refers to the body of law that governs contracts. In the U.S. and other common law jurisdictions, the equivalent would simply be Contract Law or Law of Contracts. They both concern principles and rules that regulate agreements made between parties, detailing how contracts are formed, executed, and potentially breached, and what remedies are available.",
+      "definition": "Refers to the body of law that governs contracts in civil law jurisdictions.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -175322,7 +175322,7 @@
       "parents": [
         "http://lmss.sali.org/R7MK1XmyjtYxZKg8Iw4ZN4K"
       ],
-      "definition": "The action of damaging the good reputation of someone; slander or libel.",
+      "definition": "Law protecting individuals and entities from false statements of fact that damage their reputation, covering both libel (written defamation) and slander (spoken defamation), and providing legal remedies such as damages and injunctions to those whose reputations have been unjustly harmed.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -177225,7 +177225,7 @@
       "parents": [
         "http://lmss.sali.org/R7meQhKYGkcA57UZ7v4JOdA"
       ],
-      "definition": "Law regulating financial institutions relating to money laundering.",
+      "definition": "Law regulating financial institutions in relation to money laundering.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -181103,7 +181103,7 @@
       "parents": [
         "http://lmss.sali.org/RRfuF3AuewVT4SR15di375"
       ],
-      "definition": "Law governing the use of chemicals in human activities, particularly man-made chemicals in modern industrial applications.",
+      "definition": "Law governing the safe production, handling, storage, transportation, use, and disposal of chemicals, aimed at protecting human health, workplace safety, and the environment from the hazardous effects of toxic and dangerous substances.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -182256,7 +182256,7 @@
       "parents": [
         "http://lmss.sali.org/RMZ6lNihK8TG4Flhco1yTy"
       ],
-      "definition": "Crimes committed using a computer or directed at computers, data, or other information technology - piracy, hacking, etc.",
+      "definition": "Law that addresses criminal activities conducted through or targeting computer systems, networks, and digital technologies, including hacking, identity theft, online fraud, data breaches, and cyberstalking.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -182695,7 +182695,7 @@
       "parents": [
         "http://lmss.sali.org/R84OEP4CfOdocUXySLymitN"
       ],
-      "definition": "Laws pertaining to hydroelectric power.",
+      "definition": "Law governing the development, regulation, and operation of hydroelectric power facilities, including water rights, dam construction, environmental impact, licensing, and the generation and distribution of electricity from water resources.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -186299,7 +186299,7 @@
       "parents": [
         "http://lmss.sali.org/RqNYDJtQ1pAsGPKZNEUlET"
       ],
-      "definition": "Law that creates a more equitable balance for buyers in the marketplace and prevents sellers from using dishonest tactics.",
+      "definition": "Law that safeguards consumers from unfair, deceptive, or fraudulent business practices, ensuring that goods and services meet required standards and that consumers are treated fairly in the marketplace.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -186949,7 +186949,7 @@
       "parents": [
         "http://lmss.sali.org/Rq7yrbwVSqS8fuRtnzDx6g"
       ],
-      "definition": "Laws regulating telecommunications and broadcasting.",
+      "definition": "Law governing the regulation, licensing, and operation of telecommunications networks and services, including telephone, internet, broadcasting, and wireless communications.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -187752,7 +187752,7 @@
       "parents": [
         "http://lmss.sali.org/RDdMucRftztKt4Ag7WzUxX"
       ],
-      "definition": "Laws intended to encourage the creation of art and culture by rewarding authors and artists with a set of exclusive rights.",
+      "definition": "Law that protects the original creative works of persons by granting exclusive rights to reproduce, distribute, and commercialize their work for a defined period of time.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -189508,7 +189508,7 @@
       "parents": [
         "http://lmss.sali.org/RBFgL4Dth9VONjmIdH0bEOs"
       ],
-      "definition": "Juvenile law and child protective proceedings.",
+      "definition": "Law governing the legal treatment of minors who commit criminal offences or are subject to care and protection proceedings.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -190037,7 +190037,7 @@
         "http://lmss.sali.org/R78xJfSMpJ2ZUUUlYdzfUvC",
         "http://lmss.sali.org/RqNYDJtQ1pAsGPKZNEUlET"
       ],
-      "definition": "Franchise Law refers to the legal rules and regulations that govern the relationship between a franchisor and a franchisee in a business arrangement.",
+      "definition": "Franchise Law refers to the legal rules and regulations that govern the relationship between a franchisor (a business that licenses their brand and model) and a franchisee (an individual or entity that operates under that brand in a business arrangement).",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -195242,7 +195242,7 @@
       "parents": [
         "http://lmss.sali.org/RRfuF3AuewVT4SR15di375"
       ],
-      "definition": "Laws regulating the right to pursue and take or kill certain kinds of fish and wild animal (game).",
+      "definition": "Law governing the conservation, management, and regulation of wildlife, fish, and game resources, including hunting and fishing licenses, seasonal restrictions, bag limits, and the protection of endangered species and their habitats.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -198310,7 +198310,7 @@
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
-      "definition": "Law surrounding insurance, including insurance policies and claims.",
+      "definition": "Law governing the regulation of insurance products, providers, and contracts.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -198433,7 +198433,7 @@
       "parents": [
         "http://lmss.sali.org/RqNYDJtQ1pAsGPKZNEUlET"
       ],
-      "definition": "Law surrounding business competition.",
+      "definition": "Law that promotes fair competition between businesses by prohibiting anti-competitive practices.",
       "examples": [],
       "pref_label": "Competition Law",
       "sources": [],
@@ -198689,7 +198689,7 @@
       "parents": [
         "http://lmss.sali.org/RcVabDAyOfCmuIYjaqoxHf"
       ],
-      "definition": "Federal, State, and Local tax laws.",
+      "definition": "Federal, State, and Local tax law governing the imposition, collection, and administration of taxes by government authorities on individuals, businesses, and other entities, including income tax, corporate tax, sales tax, capital gains tax, estate tax, and international taxation.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -199520,7 +199520,7 @@
       "parents": [
         "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
       ],
-      "definition": "Unemployment benefits refer to those benefits given by the government to unemployed persons.",
+      "definition": "Law governing the entitlement to and payment of financial assistance to individuals who have lost their jobs, including eligibility requirements, benefit calculations, duration of support, employer contributions, and the administrative processes for claiming and managing unemployment benefits.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -202859,7 +202859,7 @@
       "parents": [
         "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
       ],
-      "definition": "Law relating to retirement and welfare benefit plans, with particular emphasis on benefits arrangements.",
+      "definition": "Law governing the establishment, management, and regulation of employee pension plans and workplace benefits, including retirement savings, health insurance, and other entitlements, aimed at protecting employees' rights and ensuring the proper administration of benefit programs.",
       "examples": [],
       "pref_label": "Pension and Benefits Law",
       "sources": [],
@@ -210834,7 +210834,7 @@
       "parents": [
         "http://lmss.sali.org/R9pmjLDKAMzm147xIPPq5ul"
       ],
-      "definition": "Law pertaining to the acquisition and ownership rights in oil and gas both under the soil before discovery and after its capture, and adjudication regarding those rights.",
+      "definition": "Law pertaining to the acquisition and ownership rights in oil and gas beneath the soil prior to discovery and following its extraction, and the adjudication of disputes regarding those rights.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -211333,7 +211333,7 @@
       "parents": [
         "http://lmss.sali.org/R84OEP4CfOdocUXySLymitN"
       ],
-      "definition": "Law pertaining to wind power.",
+      "definition": "Law governing the development, regulation, and operation of wind energy projects, including licensing, land use, environmental impact, grid connection, and incentives promoting the generation of electricity from wind resources.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -228384,7 +228384,7 @@
         "http://lmss.sali.org/R78xJfSMpJ2ZUUUlYdzfUvC",
         "http://lmss.sali.org/RCzvtNXIrDJF8xkmOoc6JKH"
       ],
-      "definition": "A legal concept that pertains to the classification and treatment of individuals who provide services to a company or organization as non-employees, typically in the context of labor and employment law.",
+      "definition": "Law that pertains to the classification and treatment of individuals who provide services to a company or organization as non-employees, typically in the context of labor and employment law.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -228626,7 +228626,7 @@
       "parents": [
         "http://lmss.sali.org/RCF0BMeSwppddfM6cp6AUBK"
       ],
-      "definition": "Corporate debt and equity issuance (public and private) and markets.",
+      "definition": "Law governing the issuance, trading, and regulation of securities such as stocks, bonds, and other financial instruments in capital markets.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -231915,7 +231915,7 @@
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
-      "definition": "Law concerned with the punishment of individuals who commit crimes.",
+      "definition": "Law that defines conduct prohibited by the state as criminal offenses, governs the prosecution of individuals or entities accused of such conduct, and establishes punishments accordingly.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -235528,7 +235528,7 @@
       "parents": [
         "http://lmss.sali.org/R7MK1XmyjtYxZKg8Iw4ZN4K"
       ],
-      "definition": "Failure to exercise the care that a reasonably prudent person or professional, in the case of professional negligence, would exercise in like circumstances and the harm caused by those actions.",
+      "definition": "Law governing civil claims arising from the failure of individuals or professionals to meet the standard of care owed to others, resulting in harm or loss, including medical malpractice, legal malpractice, professional negligence, and general negligence claims, providing remedies such as compensation for physical, emotional, and financial damages suffered.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -235994,7 +235994,7 @@
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
-      "definition": "Law addressing environmental pollution and natural resource management.",
+      "definition": "Law governing the protection of the natural environment and the sustainable use and management of natural resources such as land, water, air, forests, and minerals, including pollution control, conservation, and environmental impact assessment.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -241793,7 +241793,7 @@
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
-      "definition": "Agriculture Law refers to the collection of laws and regulations that govern activities related to farming and agribusiness. It covers a broad range of matters such as land use, environmental protection, labor laws, food production and safety, animal welfare, and international trade of agricultural products.",
+      "definition": "Agriculture Law refers to the collection of laws and regulations that govern activities related to farming and agribusiness.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -245520,7 +245520,7 @@
       "parents": [
         "http://lmss.sali.org/RSYBzf149Mi5KE0YtmpUmr"
       ],
-      "definition": "Law, rules, regulations and other jurisprudence among providers, payers and vendors to the health care industry and its patients; and (2) delivery of health care services; all with an emphasis on operations, regulatory and transactional legal issues.",
+      "definition": "Law governing the regulation of healthcare systems, medical practices, health insurance, patient rights, and the obligations of healthcare providers.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -246005,7 +246005,7 @@
       "parents": [
         "http://lmss.sali.org/R07tQM5sYugYGBPQS571s5"
       ],
-      "definition": "Political rights include natural justice (procedural fairness) in law, such as the rights of the accused, including the right to a fair trial; due process; the right to seek redress or a legal remedy; and rights of participation in civil society and politics such as freedom of association, the right to assemble, the right to petition, the right of self-defense, and the right to vote.",
+      "definition": "Law that protects the rights of citizens to participate in the political process, such as voting rights, election administration, and campaign finance regulation.",
       "examples": [],
       "pref_label": null,
       "sources": [],
@@ -263530,7 +263530,7 @@
       "parents": [
         "http://lmss.sali.org/R7MK1XmyjtYxZKg8Iw4ZN4K"
       ],
-      "definition": "The wrong done by another person or business that occurs in, or affects, commerce.",
+      "definition": "Law governing civil wrongs committed through deceptive, dishonest, or manipulative conduct that causes financial harm to individuals or businesses, including fraudulent misrepresentation, deceit, conspiracy, unlawful interference with business relations, and passing off, providing remedies such as damages and injunctions to affected parties.",
       "examples": [],
       "pref_label": null,
       "sources": [],
