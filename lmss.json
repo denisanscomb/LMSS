@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-06-23T16:08:20Z",
-    "node_count": 18426,
+    "generated_at": "2026-06-23T16:11:14Z",
+    "node_count": 18427,
     "language": "en"
   },
   "nodes": {
@@ -283245,6 +283245,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RaWObOphVqdpQ8MspdRMci"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/15pVCNW57JJJfBWmihgEVl": {
+      "iri": "http://lmss.sali.org/15pVCNW57JJJfBWmihgEVl",
+      "label": "Pricing Law",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/RCovPJMo8mH3uZhlySLgWIa"
       ],
       "definition": null,
       "examples": [],
