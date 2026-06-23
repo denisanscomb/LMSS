@@ -69,6 +69,13 @@
       "parent_iri": "http://lmss.sali.org/RCovPJMo8mH3uZhlySLgWIa",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-23T16:11:14.724667+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/4YwHMFIkcbI1rXFiJ5QoyJ",
+      "label": "Promotions and Sweepstakes Law",
+      "parent_iri": "http://lmss.sali.org/RaWObOphVqdpQ8MspdRMci",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-23T16:11:51.847087+00:00"
     }
   ],
   "label_changed": [
@@ -17186,5 +17193,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-23T16:11:16.237420+00:00"
+  "last_updated": "2026-06-23T16:11:52.553132+00:00"
 }
