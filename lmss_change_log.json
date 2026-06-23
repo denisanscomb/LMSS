@@ -104,6 +104,13 @@
       "parent_iri": "http://lmss.sali.org/0Fxf0YFE86MQsRt5qZxUwc",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-23T16:22:05.277479+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/1eBnOl7E5JvXM95Kp0BPsX",
+      "label": "Telecommunications, Media and Entertainment Regulatory Practice",
+      "parent_iri": "http://lmss.sali.org/RBWo88jsbY4qHzhlTFr5Np7",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-23T16:23:43.587846+00:00"
     }
   ],
   "label_changed": [
@@ -17221,5 +17228,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-23T16:22:06.514179+00:00"
+  "last_updated": "2026-06-23T16:23:44.789171+00:00"
 }
