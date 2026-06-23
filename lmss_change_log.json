@@ -55,6 +55,13 @@
       "parent_iri": "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg",
       "changed_by": "denis@index.io",
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/5JLrQjLfgAFptSUjsCIIND",
+      "label": "Telemarketing and Promotional Email Law",
+      "parent_iri": "http://lmss.sali.org/RaWObOphVqdpQ8MspdRMci",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-23T16:08:20.044332+00:00"
     }
   ],
   "label_changed": [
@@ -17172,5 +17179,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-08T16:32:18.736635+00:00"
+  "last_updated": "2026-06-23T16:08:21.030723+00:00"
 }

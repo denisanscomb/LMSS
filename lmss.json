@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-06-08T16:32:17Z",
-    "node_count": 18425,
+    "generated_at": "2026-06-23T16:08:20Z",
+    "node_count": 18426,
     "language": "en"
   },
   "nodes": {
@@ -283232,6 +283232,21 @@
         "http://lmss.sali.org/ZWZV9srqTtqr40remEKghg"
       ],
       "definition": "Software whose primary buyers are individual consumers rather than businesses or institutions, including mobile applications, social and communication apps, dating and lifestyle apps, and personal productivity tools. Examples include Spotify, Duolingo, WhatsApp, and Strava. Excludes consumer video games, which are classified under NAICS 5132.",
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/5JLrQjLfgAFptSUjsCIIND": {
+      "iri": "http://lmss.sali.org/5JLrQjLfgAFptSUjsCIIND",
+      "label": "Telemarketing and Promotional Email Law",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/RaWObOphVqdpQ8MspdRMci"
+      ],
+      "definition": null,
       "examples": [],
       "pref_label": null,
       "sources": [],
