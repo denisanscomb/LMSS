@@ -125,6 +125,13 @@
       "parent_iri": "http://lmss.sali.org/RpNOHS1FAVVJkNXIN6L6y7",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-24T21:36:59.792887+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6huYSMJItT9yhbAawXdVNW",
+      "label": "Self-Regulatory Body",
+      "parent_iri": "http://lmss.sali.org/RBQGborh1CfXanGZipDL0Qo",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-24T21:39:34.129140+00:00"
     }
   ],
   "label_changed": [
@@ -17242,5 +17249,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-24T21:37:00.762446+00:00"
+  "last_updated": "2026-06-24T21:39:35.537157+00:00"
 }
