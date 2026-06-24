@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-06-24T21:41:01Z",
-    "node_count": 18437,
+    "generated_at": "2026-06-24T21:41:20Z",
+    "node_count": 18438,
     "language": "en"
   },
   "nodes": {
@@ -283406,6 +283406,21 @@
     "http://lmss.sali.org/2B452d46Io4dxKvhkfiMgR": {
       "iri": "http://lmss.sali.org/2B452d46Io4dxKvhkfiMgR",
       "label": "Natoinal Advertising Division",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/6huYSMJItT9yhbAawXdVNW"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/2oba3EGKiHg3wLtEG22Mox": {
+      "iri": "http://lmss.sali.org/2oba3EGKiHg3wLtEG22Mox",
+      "label": "National Advertising Review Board",
       "status": "beta",
       "deprecated": false,
       "parents": [
