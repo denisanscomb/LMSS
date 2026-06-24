@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-06-23T16:24:20Z",
-    "node_count": 18434,
+    "generated_at": "2026-06-24T21:36:59Z",
+    "node_count": 18435,
     "language": "en"
   },
   "nodes": {
@@ -283365,6 +283365,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/1eBnOl7E5JvXM95Kp0BPsX"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/0J2uDs1XnFxEQeHL82CdCZ": {
+      "iri": "http://lmss.sali.org/0J2uDs1XnFxEQeHL82CdCZ",
+      "label": "Self-Regulatory Body Proceeding Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/RpNOHS1FAVVJkNXIN6L6y7"
       ],
       "definition": null,
       "examples": [],

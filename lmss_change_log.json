@@ -118,6 +118,13 @@
       "parent_iri": "http://lmss.sali.org/1eBnOl7E5JvXM95Kp0BPsX",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-23T16:24:20.113942+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0J2uDs1XnFxEQeHL82CdCZ",
+      "label": "Self-Regulatory Body Proceeding Practice",
+      "parent_iri": "http://lmss.sali.org/RpNOHS1FAVVJkNXIN6L6y7",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-24T21:36:59.792887+00:00"
     }
   ],
   "label_changed": [
@@ -17235,5 +17242,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-23T16:24:20.855569+00:00"
+  "last_updated": "2026-06-24T21:37:00.762446+00:00"
 }
