@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-06-24T21:42:05Z",
-    "node_count": 18439,
+    "generated_at": "2026-06-24T21:45:58Z",
+    "node_count": 18440,
     "language": "en"
   },
   "nodes": {
@@ -283440,6 +283440,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R74JKdRCwyfORbIOZtpg8BI"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/6WrI6iHttDkcTnQdyYCrcs": {
+      "iri": "http://lmss.sali.org/6WrI6iHttDkcTnQdyYCrcs",
+      "label": "Post-confirmation trust",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R9KvzcwdZ3asqh9BPZRGWR7"
       ],
       "definition": null,
       "examples": [],

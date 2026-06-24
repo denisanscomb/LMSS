@@ -153,6 +153,13 @@
       "parent_iri": "http://lmss.sali.org/R74JKdRCwyfORbIOZtpg8BI",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-24T21:42:05.962391+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6WrI6iHttDkcTnQdyYCrcs",
+      "label": "Post-confirmation trust",
+      "parent_iri": "http://lmss.sali.org/R9KvzcwdZ3asqh9BPZRGWR7",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-24T21:45:58.405248+00:00"
     }
   ],
   "label_changed": [
@@ -17270,5 +17277,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-24T21:42:07.419941+00:00"
+  "last_updated": "2026-06-24T21:45:59.904436+00:00"
 }
