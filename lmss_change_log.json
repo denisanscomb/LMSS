@@ -160,6 +160,13 @@
       "parent_iri": "http://lmss.sali.org/R9KvzcwdZ3asqh9BPZRGWR7",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-24T21:45:58.405248+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6y2k9qZUYfimPjSon475sY",
+      "label": "Environmental Regulatory Practice",
+      "parent_iri": "http://lmss.sali.org/RBWo88jsbY4qHzhlTFr5Np7",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-25T22:23:49.602029+00:00"
     }
   ],
   "label_changed": [
@@ -17277,5 +17284,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-24T21:45:59.904436+00:00"
+  "last_updated": "2026-06-25T22:23:51.014581+00:00"
 }
