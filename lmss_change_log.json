@@ -181,6 +181,13 @@
       "parent_iri": "http://lmss.sali.org/RCatItuDoWQ2x7K8rGMPu7P",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-25T22:28:49.817066+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/5ITpArovkdudXLmX5fPcnc",
+      "label": "Campaign Finance Law",
+      "parent_iri": "http://lmss.sali.org/RGVrDmO3wOb1JN6PDlLBFK",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-25T22:34:24.614212+00:00"
     }
   ],
   "label_changed": [
@@ -17298,5 +17305,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-25T22:28:51.076705+00:00"
+  "last_updated": "2026-06-25T22:34:26.106406+00:00"
 }
