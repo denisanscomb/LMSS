@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-06-25T22:37:53Z",
-    "node_count": 18446,
+    "generated_at": "2026-06-25T22:39:53Z",
+    "node_count": 18447,
     "language": "en"
   },
   "nodes": {
@@ -283545,6 +283545,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RBpfS0CtCgihBKnNguxJ9W0"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/48e4QuYrv3cf886CddEGZX": {
+      "iri": "http://lmss.sali.org/48e4QuYrv3cf886CddEGZX",
+      "label": "Employee Non-Disclosure Agreement (NDA) Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R8ELRGhhhBTGpLeP16rBF4e"
       ],
       "definition": null,
       "examples": [],
