@@ -195,6 +195,13 @@
       "parent_iri": "http://lmss.sali.org/RDWDmPGg8Rb7SXNFVvWBSY",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-25T22:35:29.729165+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/4F1LVd4pEDMDRSlpN63Taa",
+      "label": "International Trade Policy Objective",
+      "parent_iri": "http://lmss.sali.org/RBpfS0CtCgihBKnNguxJ9W0",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-25T22:37:53.321408+00:00"
     }
   ],
   "label_changed": [
@@ -17312,5 +17319,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-25T22:35:31.251846+00:00"
+  "last_updated": "2026-06-25T22:37:54.570467+00:00"
 }
