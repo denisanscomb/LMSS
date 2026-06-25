@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-06-25T22:24:31Z",
-    "node_count": 18442,
+    "generated_at": "2026-06-25T22:28:49Z",
+    "node_count": 18443,
     "language": "en"
   },
   "nodes": {
@@ -283485,6 +283485,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/6y2k9qZUYfimPjSon475sY"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/737zRy5fzhCUgc7KXS6HwA": {
+      "iri": "http://lmss.sali.org/737zRy5fzhCUgc7KXS6HwA",
+      "label": "Per- and Polyfluoroalkyl Substances (PFAS) Law",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/RCatItuDoWQ2x7K8rGMPu7P"
       ],
       "definition": null,
       "examples": [],

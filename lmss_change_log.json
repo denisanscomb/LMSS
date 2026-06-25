@@ -174,6 +174,13 @@
       "parent_iri": "http://lmss.sali.org/6y2k9qZUYfimPjSon475sY",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-25T22:24:31.372240+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/737zRy5fzhCUgc7KXS6HwA",
+      "label": "Per- and Polyfluoroalkyl Substances (PFAS) Law",
+      "parent_iri": "http://lmss.sali.org/RCatItuDoWQ2x7K8rGMPu7P",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-25T22:28:49.817066+00:00"
     }
   ],
   "label_changed": [
@@ -17291,5 +17298,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-25T22:24:32.775673+00:00"
+  "last_updated": "2026-06-25T22:28:51.076705+00:00"
 }
