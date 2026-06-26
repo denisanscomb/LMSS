@@ -258,6 +258,13 @@
       "parent_iri": "http://lmss.sali.org/R9p98NogvwJk1MnJgYzuiZd",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-26T15:25:25.914686+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/5SD9UeFNvuF5qdEJmkKmyG",
+      "label": "Health Care Privacy Law",
+      "parent_iri": "http://lmss.sali.org/R8hJCf4Ih6iuFXsxeK7e6zU",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-26T15:38:21.191327+00:00"
     }
   ],
   "label_changed": [
@@ -17382,5 +17389,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-26T15:26:06.289344+00:00"
+  "last_updated": "2026-06-26T15:38:22.754066+00:00"
 }
