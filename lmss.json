@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-06-26T15:25:25Z",
+    "generated_at": "2026-06-26T15:26:05Z",
     "node_count": 18454,
     "language": "en"
   },
@@ -283660,7 +283660,7 @@
     },
     "http://lmss.sali.org/1PEKh30J57sJwBfAs3Akd6": {
       "iri": "http://lmss.sali.org/1PEKh30J57sJwBfAs3Akd6",
-      "label": "Information Security Counseling",
+      "label": "Information Security Compliance and Counseling",
       "status": "beta",
       "deprecated": false,
       "parents": [
