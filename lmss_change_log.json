@@ -209,6 +209,13 @@
       "parent_iri": "http://lmss.sali.org/R8ELRGhhhBTGpLeP16rBF4e",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-25T22:39:53.785805+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/7MJ9EjG2VfdcRBJM6RdceR",
+      "label": "Insurance Recovery Practice",
+      "parent_iri": "http://lmss.sali.org/RDa0Qu7gpJEIhpO0REOfc1p",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-26T14:52:36.824434+00:00"
     }
   ],
   "label_changed": [
@@ -17326,5 +17333,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-25T22:39:55.200202+00:00"
+  "last_updated": "2026-06-26T14:52:38.151473+00:00"
 }
