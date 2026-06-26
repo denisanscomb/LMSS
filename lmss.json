@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-06-26T15:15:28Z",
-    "node_count": 18450,
+    "generated_at": "2026-06-26T15:17:26Z",
+    "node_count": 18451,
     "language": "en"
   },
   "nodes": {
@@ -283605,6 +283605,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R8hJCf4Ih6iuFXsxeK7e6zU"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/5mRMYwA4Q89TQvV55KrCQm": {
+      "iri": "http://lmss.sali.org/5mRMYwA4Q89TQvV55KrCQm",
+      "label": "Privacy Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/RBWo88jsbY4qHzhlTFr5Np7"
       ],
       "definition": null,
       "examples": [],
