@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-06-26T15:17:56Z",
-    "node_count": 18452,
+    "generated_at": "2026-06-26T15:23:23Z",
+    "node_count": 18453,
     "language": "en"
   },
   "nodes": {
@@ -283631,6 +283631,21 @@
     "http://lmss.sali.org/1o4YVuxlJmnTBPlXPDJkKO": {
       "iri": "http://lmss.sali.org/1o4YVuxlJmnTBPlXPDJkKO",
       "label": "Data Subject Access Request Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/5mRMYwA4Q89TQvV55KrCQm"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/3KzuruaUumt4gx9FsjpYbP": {
+      "iri": "http://lmss.sali.org/3KzuruaUumt4gx9FsjpYbP",
+      "label": "Data Breach Response Practice",
       "status": "beta",
       "deprecated": false,
       "parents": [
