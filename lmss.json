@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-06-29T18:15:13Z",
-    "node_count": 18457,
+    "generated_at": "2026-06-29T18:15:44Z",
+    "node_count": 18458,
     "language": "en"
   },
   "nodes": {
@@ -283706,6 +283706,21 @@
     "http://lmss.sali.org/4pa1fKQbWtXHBOaxyGfQBX": {
       "iri": "http://lmss.sali.org/4pa1fKQbWtXHBOaxyGfQBX",
       "label": "Technology Transaction Service",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/0IVTryiHDaoc8QtK0DbK51"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/4F7voSai3tX82rE4Rgc3XY": {
+      "iri": "http://lmss.sali.org/4F7voSai3tX82rE4Rgc3XY",
+      "label": "Outsourcing Practice",
       "status": "beta",
       "deprecated": false,
       "parents": [
