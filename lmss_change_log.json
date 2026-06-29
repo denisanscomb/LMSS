@@ -265,6 +265,13 @@
       "parent_iri": "http://lmss.sali.org/R8hJCf4Ih6iuFXsxeK7e6zU",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-26T15:38:21.191327+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0IVTryiHDaoc8QtK0DbK51",
+      "label": "Contract or Agreement Scope and Subject Matter",
+      "parent_iri": "http://lmss.sali.org/R70jMZb6xYrVCXW6f3EbO1e",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-29T18:13:31.178703+00:00"
     }
   ],
   "label_changed": [
@@ -17389,5 +17396,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-26T15:38:22.754066+00:00"
+  "last_updated": "2026-06-29T18:13:32.389200+00:00"
 }
