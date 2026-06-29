@@ -316,6 +316,13 @@
       "new": "Information Security Compliance and Counseling",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-26T15:26:05.188742+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/4pa1fKQbWtXHBOaxyGfQBX",
+      "old": "Technology Transaction",
+      "new": "Technology Transaction Service",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-29T18:15:13.780091+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -17403,5 +17410,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-29T18:14:04.807715+00:00"
+  "last_updated": "2026-06-29T18:15:14.935862+00:00"
 }

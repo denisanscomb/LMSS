@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-06-29T18:14:04Z",
+    "generated_at": "2026-06-29T18:15:13Z",
     "node_count": 18457,
     "language": "en"
   },
@@ -283705,7 +283705,7 @@
     },
     "http://lmss.sali.org/4pa1fKQbWtXHBOaxyGfQBX": {
       "iri": "http://lmss.sali.org/4pa1fKQbWtXHBOaxyGfQBX",
-      "label": "Technology Transaction",
+      "label": "Technology Transaction Service",
       "status": "beta",
       "deprecated": false,
       "parents": [
