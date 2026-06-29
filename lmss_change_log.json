@@ -337,6 +337,13 @@
       "new": "Technology Transaction Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-29T18:16:07.681309+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/4F7voSai3tX82rE4Rgc3XY",
+      "old": "Outsourcing Practice",
+      "new": "Outsourcing Objective",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-29T18:17:26.876442+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -17424,5 +17431,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-29T18:16:08.722620+00:00"
+  "last_updated": "2026-06-29T18:17:27.893043+00:00"
 }
