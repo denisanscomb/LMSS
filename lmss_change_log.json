@@ -330,6 +330,13 @@
       "new": "Technology Transaction Service",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-29T18:15:13.780091+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/4pa1fKQbWtXHBOaxyGfQBX",
+      "old": "Technology Transaction Service",
+      "new": "Technology Transaction Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-06-29T18:16:07.681309+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -17417,5 +17424,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-29T18:15:45.516289+00:00"
+  "last_updated": "2026-06-29T18:16:08.722620+00:00"
 }
