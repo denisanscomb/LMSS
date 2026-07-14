@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-07-14T23:40:42Z",
+    "generated_at": "2026-07-14T23:40:57Z",
     "node_count": 18459,
     "language": "en"
   },
@@ -226993,7 +226993,7 @@
     },
     "http://lmss.sali.org/RGsUOggnA0rNAVA0uxyh2F": {
       "iri": "http://lmss.sali.org/RGsUOggnA0rNAVA0uxyh2F",
-      "label": "M&A B Purchase / Merger Agreement Practice",
+      "label": "Purchase / Merger Agreement Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [
