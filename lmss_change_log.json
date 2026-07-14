@@ -379,6 +379,13 @@
       "new": "Due Diligence and Disclosure Schedules Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-07-14T23:41:10.926063+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8B946ewYpMD86GqDEqxNS",
+      "old": "M&A F Regulatory and Specialty Matters Practice",
+      "new": "Regulatory and Specialty Matters Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-07-14T23:43:15.203520+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -17479,5 +17486,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-07-14T23:41:12.163366+00:00"
+  "last_updated": "2026-07-14T23:43:16.474045+00:00"
 }

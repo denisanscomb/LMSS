@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-07-14T23:41:10Z",
+    "generated_at": "2026-07-14T23:43:15Z",
     "node_count": 18459,
     "language": "en"
   },
@@ -84232,7 +84232,7 @@
     },
     "http://lmss.sali.org/R8B946ewYpMD86GqDEqxNS": {
       "iri": "http://lmss.sali.org/R8B946ewYpMD86GqDEqxNS",
-      "label": "M&A F Regulatory and Specialty Matters Practice",
+      "label": "Regulatory and Specialty Matters Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [
