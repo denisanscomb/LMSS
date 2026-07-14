@@ -17406,6 +17406,19 @@
       ],
       "changed_by": "denis@index.io",
       "timestamp": "2026-05-04T15:25:27.297916+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7vfM0J4fZ9NCcg884uxgv8",
+      "label": "Initial Deal Strategy and Structuring Practice",
+      "changes": [
+        {
+          "field": "definition",
+          "old": "M&A A Preliminary Matters Practice refers to the legal work involved in the initial stages of a merger or acquisition, such as conducting due diligence and negotiating preliminary agreements.",
+          "new": "Initial Deal Strategy and Structuring Practice refers to the legal work involved in the initial stages of a merger or acquisition, such as negotiating preliminary agreements."
+        }
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-07-14T23:40:42.965918+00:00"
     }
   ],
   "deleted": [
@@ -17452,5 +17465,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-07-14T23:40:29.565494+00:00"
+  "last_updated": "2026-07-14T23:40:44.110816+00:00"
 }
