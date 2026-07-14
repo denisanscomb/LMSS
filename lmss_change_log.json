@@ -358,6 +358,13 @@
       "new": "Technology Transaction Objective",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-29T18:17:42.367652+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7vfM0J4fZ9NCcg884uxgv8",
+      "old": "M&A A Preliminary Matters Practice",
+      "new": "Initial Deal Strategy and Structuring Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-07-14T23:40:28.517091+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -17445,5 +17452,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-06-30T17:08:04.530635+00:00"
+  "last_updated": "2026-07-14T23:40:29.565494+00:00"
 }

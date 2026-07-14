@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-06-30T17:08:03Z",
+    "generated_at": "2026-07-14T23:40:28Z",
     "node_count": 18459,
     "language": "en"
   },
@@ -75636,7 +75636,7 @@
     },
     "http://lmss.sali.org/R7vfM0J4fZ9NCcg884uxgv8": {
       "iri": "http://lmss.sali.org/R7vfM0J4fZ9NCcg884uxgv8",
-      "label": "M&A A Preliminary Matters Practice",
+      "label": "Initial Deal Strategy and Structuring Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [
