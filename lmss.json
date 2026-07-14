@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-07-14T23:40:57Z",
+    "generated_at": "2026-07-14T23:41:10Z",
     "node_count": 18459,
     "language": "en"
   },
@@ -186263,7 +186263,7 @@
     },
     "http://lmss.sali.org/RCokTdgnyEpV8OkUmNvXuYk": {
       "iri": "http://lmss.sali.org/RCokTdgnyEpV8OkUmNvXuYk",
-      "label": "M&A C Due Diligence and Disclosure Schedules Practice",
+      "label": "Due Diligence and Disclosure Schedules Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [

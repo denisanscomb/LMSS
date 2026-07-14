@@ -372,6 +372,13 @@
       "new": "Purchase / Merger Agreement Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-07-14T23:40:57.213118+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCokTdgnyEpV8OkUmNvXuYk",
+      "old": "M&A C Due Diligence and Disclosure Schedules Practice",
+      "new": "Due Diligence and Disclosure Schedules Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-07-14T23:41:10.926063+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -17472,5 +17479,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-07-14T23:40:58.142104+00:00"
+  "last_updated": "2026-07-14T23:41:12.163366+00:00"
 }
