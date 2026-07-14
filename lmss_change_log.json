@@ -393,6 +393,13 @@
       "new": "Merger/Purchase Agreement Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-07-14T23:44:39.814386+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8B946ewYpMD86GqDEqxNS",
+      "old": "Regulatory and Specialty Matters Practice",
+      "new": "M&A Regulatory and Specialists Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-07-14T23:45:31.617255+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -17506,5 +17513,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-07-14T23:44:40.850075+00:00"
+  "last_updated": "2026-07-14T23:45:32.909339+00:00"
 }
