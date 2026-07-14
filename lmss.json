@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-07-14T23:43:15Z",
+    "generated_at": "2026-07-14T23:44:00Z",
     "node_count": 18459,
     "language": "en"
   },
@@ -84238,7 +84238,7 @@
       "parents": [
         "http://lmss.sali.org/RVLgJukt9MTZNfTewtxNIK"
       ],
-      "definition": "The M&A F Regulatory and Specialty Matters Practice is a legal practice area that specializes in providing legal services related to regulatory compliance and other specialized matters in the context of mergers and acquisitions.",
+      "definition": "M&A Regulatory and Specialty Matters Practice is a legal practice area that specializes in providing legal services related to regulatory compliance and other specialized matters in the context of mergers and acquisitions.",
       "examples": [],
       "pref_label": null,
       "sources": [],

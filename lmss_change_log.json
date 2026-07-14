@@ -17440,6 +17440,19 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-07-14T23:40:42.965918+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8B946ewYpMD86GqDEqxNS",
+      "label": "Regulatory and Specialty Matters Practice",
+      "changes": [
+        {
+          "field": "definition",
+          "old": "The M&A F Regulatory and Specialty Matters Practice is a legal practice area that specializes in providing legal services related to regulatory compliance and other specialized matters in the context of mergers and acquisitions.",
+          "new": "M&A Regulatory and Specialty Matters Practice is a legal practice area that specializes in providing legal services related to regulatory compliance and other specialized matters in the context of mergers and acquisitions."
+        }
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-07-14T23:44:00.436729+00:00"
     }
   ],
   "deleted": [
@@ -17486,5 +17499,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-07-14T23:43:16.474045+00:00"
+  "last_updated": "2026-07-14T23:44:01.508655+00:00"
 }
