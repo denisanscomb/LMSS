@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-07-15T16:18:19Z",
+    "generated_at": "2026-07-15T16:18:35Z",
     "node_count": 18459,
     "language": "en"
   },
@@ -192124,7 +192124,7 @@
     },
     "http://lmss.sali.org/RD2szzekBDsGW1qLZ1nx8Ej": {
       "iri": "http://lmss.sali.org/RD2szzekBDsGW1qLZ1nx8Ej",
-      "label": "Closing Matters Practice",
+      "label": "M&A Closing Matters Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [

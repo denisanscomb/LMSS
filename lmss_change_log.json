@@ -414,6 +414,13 @@
       "new": "Closing Matters Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-07-15T16:18:19.753187+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RD2szzekBDsGW1qLZ1nx8Ej",
+      "old": "Closing Matters Practice",
+      "new": "M&A Closing Matters Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-07-15T16:18:35.111619+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -17527,5 +17534,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-07-15T16:18:21.111334+00:00"
+  "last_updated": "2026-07-15T16:18:35.907172+00:00"
 }
