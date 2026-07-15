@@ -407,6 +407,13 @@
       "new": "M&A Due Diligence and Disclosure Schedules Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-07-14T23:45:55.994449+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RD2szzekBDsGW1qLZ1nx8Ej",
+      "old": "M&A H Closing Matters Practice",
+      "new": "Closing Matters Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-07-15T16:18:19.753187+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -17520,5 +17527,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-07-14T23:45:56.790085+00:00"
+  "last_updated": "2026-07-15T16:18:21.111334+00:00"
 }
