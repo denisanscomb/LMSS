@@ -428,6 +428,13 @@
       "new": "M&A Ancillary Documents Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-07-17T21:55:07.873315+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDthEl0nJJi9RkvBWQqXsQz",
+      "old": "M&A J Post-Closing Requirements, Disputes & Adjustments Practice",
+      "new": "M&A Post-Closing Activities Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-07-17T21:56:21.214331+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -17541,5 +17548,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-07-17T21:55:09.230363+00:00"
+  "last_updated": "2026-07-17T21:56:22.330951+00:00"
 }

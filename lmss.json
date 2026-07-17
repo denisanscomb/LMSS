@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-07-17T21:55:07Z",
+    "generated_at": "2026-07-17T21:56:21Z",
     "node_count": 18459,
     "language": "en"
   },
@@ -212987,7 +212987,7 @@
     },
     "http://lmss.sali.org/RDthEl0nJJi9RkvBWQqXsQz": {
       "iri": "http://lmss.sali.org/RDthEl0nJJi9RkvBWQqXsQz",
-      "label": "M&A J Post-Closing Requirements, Disputes & Adjustments Practice",
+      "label": "M&A Post-Closing Activities Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [
