@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-07-15T16:18:35Z",
+    "generated_at": "2026-07-17T21:55:07Z",
     "node_count": 18459,
     "language": "en"
   },
@@ -77447,7 +77447,7 @@
     },
     "http://lmss.sali.org/R80LWzrvt9gX6eHJynn543V": {
       "iri": "http://lmss.sali.org/R80LWzrvt9gX6eHJynn543V",
-      "label": "M&A D Ancillary Documents Practice",
+      "label": "M&A Ancillary Documents Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [

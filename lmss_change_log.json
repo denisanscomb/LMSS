@@ -421,6 +421,13 @@
       "new": "M&A Closing Matters Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-07-15T16:18:35.111619+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R80LWzrvt9gX6eHJynn543V",
+      "old": "M&A D Ancillary Documents Practice",
+      "new": "M&A Ancillary Documents Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-07-17T21:55:07.873315+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -17534,5 +17541,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-07-15T16:18:35.907172+00:00"
+  "last_updated": "2026-07-17T21:55:09.230363+00:00"
 }
