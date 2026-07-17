@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-07-17T22:20:58Z",
+    "generated_at": "2026-07-17T22:21:12Z",
     "node_count": 18460,
     "language": "en"
   },
@@ -69546,7 +69546,7 @@
     },
     "http://lmss.sali.org/R7epmKzXnQGUjQ78UEKxoTG": {
       "iri": "http://lmss.sali.org/R7epmKzXnQGUjQ78UEKxoTG",
-      "label": "Investigation Practice",
+      "label": "Investigations Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [

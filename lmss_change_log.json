@@ -442,6 +442,13 @@
       "new": "M&A Post-Closing Activities Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-07-17T21:56:21.214331+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7epmKzXnQGUjQ78UEKxoTG",
+      "old": "Investigation Practice",
+      "new": "Investigations Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-07-17T22:21:12.887802+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -17555,5 +17562,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-07-17T22:20:59.138210+00:00"
+  "last_updated": "2026-07-17T22:21:14.028459+00:00"
 }
