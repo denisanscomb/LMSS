@@ -293,6 +293,13 @@
       "parent_iri": "http://lmss.sali.org/R8HQFWxgtCe3eNwvBbsVg7v",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-06-30T17:08:03.349907+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/2fJK38kA3fty0zAkTnwIB2",
+      "label": "Internal Investigations Practice",
+      "parent_iri": "http://lmss.sali.org/R7epmKzXnQGUjQ78UEKxoTG",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-07-17T22:20:58.027745+00:00"
     }
   ],
   "label_changed": [
@@ -17548,5 +17555,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-07-17T21:56:22.330951+00:00"
+  "last_updated": "2026-07-17T22:20:59.138210+00:00"
 }

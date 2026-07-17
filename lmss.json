@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-07-17T21:56:21Z",
-    "node_count": 18459,
+    "generated_at": "2026-07-17T22:20:58Z",
+    "node_count": 18460,
     "language": "en"
   },
   "nodes": {
@@ -283740,6 +283740,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R8HQFWxgtCe3eNwvBbsVg7v"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/2fJK38kA3fty0zAkTnwIB2": {
+      "iri": "http://lmss.sali.org/2fJK38kA3fty0zAkTnwIB2",
+      "label": "Internal Investigations Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R7epmKzXnQGUjQ78UEKxoTG"
       ],
       "definition": null,
       "examples": [],
