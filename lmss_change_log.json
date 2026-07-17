@@ -300,6 +300,13 @@
       "parent_iri": "http://lmss.sali.org/R7epmKzXnQGUjQ78UEKxoTG",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-07-17T22:20:58.027745+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/7WgQAe61RKj4LKc0hBEHA3",
+      "label": "Government Investigations Practice",
+      "parent_iri": "http://lmss.sali.org/R7epmKzXnQGUjQ78UEKxoTG",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-07-17T22:22:19.969525+00:00"
     }
   ],
   "label_changed": [
@@ -17562,5 +17569,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-07-17T22:21:14.028459+00:00"
+  "last_updated": "2026-07-17T22:22:20.902789+00:00"
 }
