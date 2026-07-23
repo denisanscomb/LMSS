@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-07-23T21:12:41Z",
+    "generated_at": "2026-07-23T22:43:38Z",
     "node_count": 18462,
     "language": "en"
   },
@@ -159203,7 +159203,7 @@
     },
     "http://lmss.sali.org/RBncmUQIMHWeCVranbsbFWT": {
       "iri": "http://lmss.sali.org/RBncmUQIMHWeCVranbsbFWT",
-      "label": "Analysis and Strategy",
+      "label": "Dispute Analysis and Strategy",
       "status": "accepted",
       "deprecated": false,
       "parents": [

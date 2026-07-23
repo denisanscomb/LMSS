@@ -463,6 +463,13 @@
       "new": "Investigations Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-07-17T22:21:12.887802+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBncmUQIMHWeCVranbsbFWT",
+      "old": "Analysis and Strategy",
+      "new": "Dispute Analysis and Strategy",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-07-23T22:43:38.323497+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -17576,5 +17583,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-07-23T21:12:43.276338+00:00"
+  "last_updated": "2026-07-23T22:43:39.801891+00:00"
 }
