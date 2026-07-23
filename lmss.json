@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-07-17T22:22:19Z",
-    "node_count": 18461,
+    "generated_at": "2026-07-23T21:12:41Z",
+    "node_count": 18462,
     "language": "en"
   },
   "nodes": {
@@ -283770,6 +283770,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R7epmKzXnQGUjQ78UEKxoTG"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/0xSUc9rEf4AcyPNfqAqg9F": {
+      "iri": "http://lmss.sali.org/0xSUc9rEf4AcyPNfqAqg9F",
+      "label": "Settlement Event",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/RDFhtJuTWcY7UZGV9F5yOoA"
       ],
       "definition": null,
       "examples": [],
