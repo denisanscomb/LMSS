@@ -314,6 +314,13 @@
       "parent_iri": "http://lmss.sali.org/RDFhtJuTWcY7UZGV9F5yOoA",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-07-23T21:12:41.826906+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/5naXOQOu3awtCAlvIPOCfq",
+      "label": "Hyper-local",
+      "parent_iri": "http://lmss.sali.org/RBhOGxYh9EijLWWwCV5Exce",
+      "changed_by": "Admin",
+      "timestamp": "2026-08-23T23:52:07.734464+00:00"
     }
   ],
   "label_changed": [
@@ -17583,5 +17590,5 @@
       "timestamp": "2026-05-04T15:20:16.621189+00:00"
     }
   ],
-  "last_updated": "2026-07-23T22:43:39.801891+00:00"
+  "last_updated": "2026-08-23T23:52:09.284233+00:00"
 }
