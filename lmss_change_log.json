@@ -328,6 +328,13 @@
       "parent_iri": "http://lmss.sali.org/R9amI1PJs7oW7XvMDtXomF9",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-08-25T23:12:41.770123+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6Qju20xLpzXzY5UlDZfnnN",
+      "label": "Authority Representation",
+      "parent_iri": "http://lmss.sali.org/RCV40j08zvRl2faFV72w9aQ",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-08-25T23:16:18.784898+00:00"
     }
   ],
   "label_changed": [
@@ -17603,5 +17610,5 @@
       "timestamp": "2026-08-23T23:52:55.828731+00:00"
     }
   ],
-  "last_updated": "2026-08-25T23:12:43.106424+00:00"
+  "last_updated": "2026-08-25T23:16:19.874615+00:00"
 }
