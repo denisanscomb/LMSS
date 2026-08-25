@@ -17608,7 +17608,13 @@
       "label": "Hyper-local",
       "changed_by": "Admin",
       "timestamp": "2026-08-23T23:52:55.828731+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6Qju20xLpzXzY5UlDZfnnN",
+      "label": "Authority Representation",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-08-25T23:16:19.874615+00:00"
+  "last_updated": "2026-08-25T23:20:17.355419+00:00"
 }
