@@ -335,6 +335,13 @@
       "parent_iri": "http://lmss.sali.org/RCV40j08zvRl2faFV72w9aQ",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-08-25T23:16:18.784898+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/19iwS7Ju9OrnBsqoTpySfV",
+      "label": "Security Clearance Practice",
+      "parent_iri": "http://lmss.sali.org/RBWo88jsbY4qHzhlTFr5Np7",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-08-25T23:26:26.011503+00:00"
     }
   ],
   "label_changed": [
@@ -17616,5 +17623,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-08-25T23:20:17.355419+00:00"
+  "last_updated": "2026-08-25T23:26:26.977162+00:00"
 }
