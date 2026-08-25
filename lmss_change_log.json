@@ -321,6 +321,13 @@
       "parent_iri": "http://lmss.sali.org/RBhOGxYh9EijLWWwCV5Exce",
       "changed_by": "Admin",
       "timestamp": "2026-08-23T23:52:07.734464+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/68vbiup6hUcxhHjqtEm1HM",
+      "label": "Signing Event",
+      "parent_iri": "http://lmss.sali.org/R9amI1PJs7oW7XvMDtXomF9",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-08-25T23:12:41.770123+00:00"
     }
   ],
   "label_changed": [
@@ -17596,5 +17603,5 @@
       "timestamp": "2026-08-23T23:52:55.828731+00:00"
     }
   ],
-  "last_updated": "2026-08-23T23:52:57.337569+00:00"
+  "last_updated": "2026-08-25T23:12:43.106424+00:00"
 }
