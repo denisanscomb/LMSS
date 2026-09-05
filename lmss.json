@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-08-28T18:45:37Z",
+    "generated_at": "2026-09-05T22:03:59Z",
     "node_count": 18465,
     "language": "en"
   },
@@ -283540,7 +283540,7 @@
     },
     "http://lmss.sali.org/4F1LVd4pEDMDRSlpN63Taa": {
       "iri": "http://lmss.sali.org/4F1LVd4pEDMDRSlpN63Taa",
-      "label": "International Trade Policy Objective",
+      "label": "International Objective",
       "status": "beta",
       "deprecated": false,
       "parents": [
