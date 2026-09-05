@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-05T22:27:09Z",
-    "node_count": 18470,
+    "generated_at": "2026-09-05T22:30:18Z",
+    "node_count": 18471,
     "language": "en"
   },
   "nodes": {
@@ -283905,6 +283905,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R8nycgMSnQGSzh9LvnqnhQ7"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/2uXaX6916NrGPk3mnkne07": {
+      "iri": "http://lmss.sali.org/2uXaX6916NrGPk3mnkne07",
+      "label": "Project Finance Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/RZGfmXsIBYoRaOo5gXdeTP"
       ],
       "definition": null,
       "examples": [],
