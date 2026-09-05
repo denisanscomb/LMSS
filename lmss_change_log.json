@@ -398,6 +398,13 @@
       "parent_iri": "http://lmss.sali.org/R70jMZb6xYrVCXW6f3EbO1e",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-05T22:50:01.087556+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/4BdVky5D03vRhqVdKQIwjm",
+      "label": "Trade Finance Objective",
+      "parent_iri": "http://lmss.sali.org/48FzuzaHY454Um9z9UerZx",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-05T22:50:54.094591+00:00"
     }
   ],
   "label_changed": [
@@ -17706,5 +17713,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-05T22:50:02.572085+00:00"
+  "last_updated": "2026-09-05T22:50:55.500146+00:00"
 }

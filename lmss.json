@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-05T22:50:01Z",
-    "node_count": 18472,
+    "generated_at": "2026-09-05T22:50:54Z",
+    "node_count": 18473,
     "language": "en"
   },
   "nodes": {
@@ -283935,6 +283935,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R70jMZb6xYrVCXW6f3EbO1e"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/4BdVky5D03vRhqVdKQIwjm": {
+      "iri": "http://lmss.sali.org/4BdVky5D03vRhqVdKQIwjm",
+      "label": "Trade Finance Objective",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/48FzuzaHY454Um9z9UerZx"
       ],
       "definition": null,
       "examples": [],
