@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-05T22:23:40Z",
-    "node_count": 18469,
+    "generated_at": "2026-09-05T22:27:09Z",
+    "node_count": 18470,
     "language": "en"
   },
   "nodes": {
@@ -283890,6 +283890,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RmiM5JwX7zJYQs8QRneJYR"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/3QvogFTpRNtddJHZTnNbzy": {
+      "iri": "http://lmss.sali.org/3QvogFTpRNtddJHZTnNbzy",
+      "label": "Structured Finance Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R8nycgMSnQGSzh9LvnqnhQ7"
       ],
       "definition": null,
       "examples": [],

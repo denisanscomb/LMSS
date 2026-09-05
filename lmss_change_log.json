@@ -377,6 +377,13 @@
       "parent_iri": "http://lmss.sali.org/RmiM5JwX7zJYQs8QRneJYR",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-05T22:23:40.485299+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/3QvogFTpRNtddJHZTnNbzy",
+      "label": "Structured Finance Practice",
+      "parent_iri": "http://lmss.sali.org/R8nycgMSnQGSzh9LvnqnhQ7",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-05T22:27:09.796302+00:00"
     }
   ],
   "label_changed": [
@@ -17685,5 +17692,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-05T22:23:41.644272+00:00"
+  "last_updated": "2026-09-05T22:27:11.294343+00:00"
 }
