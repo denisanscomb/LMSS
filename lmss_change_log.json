@@ -512,6 +512,13 @@
       "new": "International Objective",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-05T22:03:59.600551+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBpfS0CtCgihBKnNguxJ9W0",
+      "old": "Multi-Jurisdictional Objective",
+      "new": "Jurisdictional Objectives",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-05T22:04:20.445068+00:00"
     }
   ],
   "deprecated_changed": [],
@@ -17637,5 +17644,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-05T22:04:00.979989+00:00"
+  "last_updated": "2026-09-05T22:04:21.280045+00:00"
 }

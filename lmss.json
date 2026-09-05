@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-05T22:03:59Z",
+    "generated_at": "2026-09-05T22:04:20Z",
     "node_count": 18465,
     "language": "en"
   },
@@ -160038,7 +160038,7 @@
     },
     "http://lmss.sali.org/RBpfS0CtCgihBKnNguxJ9W0": {
       "iri": "http://lmss.sali.org/RBpfS0CtCgihBKnNguxJ9W0",
-      "label": "Multi-Jurisdictional Objective",
+      "label": "Jurisdictional Objectives",
       "status": "beta",
       "deprecated": false,
       "parents": [
