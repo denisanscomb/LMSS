@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-05T22:04:37Z",
+    "generated_at": "2026-09-05T22:06:32Z",
     "node_count": 18466,
     "language": "en"
   },
@@ -160044,7 +160044,7 @@
       "parents": [
         "http://lmss.sali.org/RlNFgB3TQfMzV26V4V7u4E"
       ],
-      "definition": "Multi-Jurisdictional Objective pertains to legal principles and strategies that involve multiple jurisdictions, including international, regional, and inter-state/provincial laws. It encompasses the application, coordination, and conflict of laws across different legal systems to address multi-jurisdictional issues.",
+      "definition": "Jurisdictional Objectives pertains to principles and strategies that involve intra-national or cross-national laws and regulations.",
       "examples": [],
       "pref_label": "International Law Objective",
       "sources": [],
