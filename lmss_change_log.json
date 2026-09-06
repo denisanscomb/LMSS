@@ -412,6 +412,13 @@
       "parent_iri": "http://lmss.sali.org/R70jMZb6xYrVCXW6f3EbO1e",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-05T22:53:25.366775+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6RA1DuZtAw30RsRz3Q7WCH",
+      "label": "Partnership Sales Practice",
+      "parent_iri": "http://lmss.sali.org/Rq4ELdFEL5ItwNtbrp8qfQ",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-06T17:57:40.307003+00:00"
     }
   ],
   "label_changed": [
@@ -17730,5 +17737,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-06T17:54:03.698243+00:00"
+  "last_updated": "2026-09-06T17:57:41.162421+00:00"
 }

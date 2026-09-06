@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-06T17:54:02Z",
-    "node_count": 18474,
+    "generated_at": "2026-09-06T17:57:40Z",
+    "node_count": 18475,
     "language": "en"
   },
   "nodes": {
@@ -283965,6 +283965,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R70jMZb6xYrVCXW6f3EbO1e"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/6RA1DuZtAw30RsRz3Q7WCH": {
+      "iri": "http://lmss.sali.org/6RA1DuZtAw30RsRz3Q7WCH",
+      "label": "Partnership Sales Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/Rq4ELdFEL5ItwNtbrp8qfQ"
       ],
       "definition": null,
       "examples": [],
