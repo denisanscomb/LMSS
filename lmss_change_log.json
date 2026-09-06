@@ -419,6 +419,13 @@
       "parent_iri": "http://lmss.sali.org/Rq4ELdFEL5ItwNtbrp8qfQ",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-06T17:57:40.307003+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0UpPbBII2FeRkQgHIERjbH",
+      "label": "Fund Investment Practice",
+      "parent_iri": "http://lmss.sali.org/R7K2qUhID6JtseZQoE6bEEf",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-06T18:08:10.822014+00:00"
     }
   ],
   "label_changed": [
@@ -17737,5 +17744,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-06T17:57:41.162421+00:00"
+  "last_updated": "2026-09-06T18:08:12.312748+00:00"
 }
