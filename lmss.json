@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-06T18:27:27Z",
+    "generated_at": "2026-09-06T18:27:51Z",
     "node_count": 18478,
     "language": "en"
   },
@@ -284027,7 +284027,9 @@
         "http://lmss.sali.org/RlOHXQDunuaC2onsYyruMi"
       ],
       "definition": null,
-      "examples": [],
+      "examples": [
+        "363 Sale in the US"
+      ],
       "pref_label": null,
       "sources": [],
       "legacy_iri": null,
