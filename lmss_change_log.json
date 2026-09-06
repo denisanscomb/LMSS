@@ -426,6 +426,13 @@
       "parent_iri": "http://lmss.sali.org/R7K2qUhID6JtseZQoE6bEEf",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-06T18:08:10.822014+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6gM1MkhleQGZt90KUxCOHT",
+      "label": "Exchange Offer",
+      "parent_iri": "http://lmss.sali.org/R7wsLtBraH6Dx1GyHgB0h0x",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-06T18:15:03.858336+00:00"
     }
   ],
   "label_changed": [
@@ -17744,5 +17751,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-06T18:08:12.312748+00:00"
+  "last_updated": "2026-09-06T18:15:05.411399+00:00"
 }
