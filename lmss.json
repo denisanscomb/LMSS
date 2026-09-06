@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-05T22:53:25Z",
+    "generated_at": "2026-09-06T17:54:02Z",
     "node_count": 18474,
     "language": "en"
   },
@@ -61373,7 +61373,7 @@
       "iri": "http://lmss.sali.org/R7HpHL4HNvWhmv9GMhimDmR",
       "label": "Services Agreement Practice",
       "status": "accepted",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RKzL5nW7IGg4mvAPFX2MUL"
       ],
