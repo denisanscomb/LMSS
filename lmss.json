@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-07T23:25:12Z",
+    "generated_at": "2026-09-07T23:37:03Z",
     "node_count": 18481,
     "language": "en"
   },
@@ -118916,7 +118916,7 @@
     },
     "http://lmss.sali.org/R9QUQK65GB15xLVfXkpiW5r": {
       "iri": "http://lmss.sali.org/R9QUQK65GB15xLVfXkpiW5r",
-      "label": "Asset Exchange Attributes",
+      "label": "Securities Exchange Offers",
       "status": "beta",
       "deprecated": false,
       "parents": [
