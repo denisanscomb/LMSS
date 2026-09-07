@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-07T23:37:03Z",
+    "generated_at": "2026-09-07T23:59:39Z",
     "node_count": 18481,
     "language": "en"
   },
@@ -284067,7 +284067,7 @@
     },
     "http://lmss.sali.org/1Whsl7m0tzIgzyn5NZodZh": {
       "iri": "http://lmss.sali.org/1Whsl7m0tzIgzyn5NZodZh",
-      "label": "Unregistered Securities",
+      "label": "Unregistered (Exempt) Securities",
       "status": "beta",
       "deprecated": false,
       "parents": [

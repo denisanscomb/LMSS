@@ -638,6 +638,13 @@
       "new": "Securities Exchange Offers",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-07T23:37:03.930110+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/1Whsl7m0tzIgzyn5NZodZh",
+      "old": "Unregistered Securities",
+      "new": "Unregistered (Exempt) Securities",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-07T23:59:39.270514+00:00"
     }
   ],
   "deprecated_changed": [
@@ -17801,5 +17808,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-07T23:37:05.277060+00:00"
+  "last_updated": "2026-09-07T23:59:40.636469+00:00"
 }
