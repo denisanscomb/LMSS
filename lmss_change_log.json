@@ -461,6 +461,13 @@
       "parent_iri": "http://lmss.sali.org/5co5aVizb9OkG7M05JqNTk",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-07T23:25:12.867167+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/2zGlfnFMF0CghtJRxggEwg",
+      "label": "Securities Exempt from Registration under Bankruptcy Proceeding",
+      "parent_iri": "http://lmss.sali.org/1Whsl7m0tzIgzyn5NZodZh",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-08T00:01:09.863211+00:00"
     }
   ],
   "label_changed": [
@@ -17808,5 +17815,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-07T23:59:40.636469+00:00"
+  "last_updated": "2026-09-08T00:01:10.997642+00:00"
 }

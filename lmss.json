@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-07T23:59:39Z",
-    "node_count": 18481,
+    "generated_at": "2026-09-08T00:01:09Z",
+    "node_count": 18482,
     "language": "en"
   },
   "nodes": {
@@ -284072,6 +284072,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/5co5aVizb9OkG7M05JqNTk"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/2zGlfnFMF0CghtJRxggEwg": {
+      "iri": "http://lmss.sali.org/2zGlfnFMF0CghtJRxggEwg",
+      "label": "Securities Exempt from Registration under Bankruptcy Proceeding",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/1Whsl7m0tzIgzyn5NZodZh"
       ],
       "definition": null,
       "examples": [],
