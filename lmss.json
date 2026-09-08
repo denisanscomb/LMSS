@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-08T00:01:09Z",
-    "node_count": 18482,
+    "generated_at": "2026-09-08T20:05:54Z",
+    "node_count": 18483,
     "language": "en"
   },
   "nodes": {
@@ -284087,6 +284087,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/1Whsl7m0tzIgzyn5NZodZh"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/11JdhbzgXMVxJOFRxl7ihD": {
+      "iri": "http://lmss.sali.org/11JdhbzgXMVxJOFRxl7ihD",
+      "label": "Economic Policy Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/RDRbe1ie5RKn3gtVv471nhZ"
       ],
       "definition": null,
       "examples": [],
