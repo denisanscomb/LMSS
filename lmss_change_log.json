@@ -482,6 +482,13 @@
       "parent_iri": "http://lmss.sali.org/RDEuNPJBSNIARaYTXJwi86w",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-08T20:20:49.368829+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/2Wwe9Vl6W80vidEbKZ8JLf",
+      "label": "Patent Allowance",
+      "parent_iri": "http://lmss.sali.org/RCvV18Mbbb9FYFXbHt1inuL",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-08T21:24:18.703156+00:00"
     }
   ],
   "label_changed": [
@@ -17829,5 +17836,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-08T20:20:50.844495+00:00"
+  "last_updated": "2026-09-08T21:24:20.148833+00:00"
 }
