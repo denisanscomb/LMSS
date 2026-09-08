@@ -475,6 +475,13 @@
       "parent_iri": "http://lmss.sali.org/RDRbe1ie5RKn3gtVv471nhZ",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-08T20:05:54.465542+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/7dMzQNmpGvoY3Z9oXUhkAM",
+      "label": "Election Law Compliance Practice",
+      "parent_iri": "http://lmss.sali.org/RDEuNPJBSNIARaYTXJwi86w",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-08T20:20:49.368829+00:00"
     }
   ],
   "label_changed": [
@@ -17822,5 +17829,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-08T20:05:55.553810+00:00"
+  "last_updated": "2026-09-08T20:20:50.844495+00:00"
 }

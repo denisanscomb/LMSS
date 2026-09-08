@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-08T20:05:54Z",
-    "node_count": 18483,
+    "generated_at": "2026-09-08T20:20:49Z",
+    "node_count": 18484,
     "language": "en"
   },
   "nodes": {
@@ -284102,6 +284102,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RDRbe1ie5RKn3gtVv471nhZ"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/7dMzQNmpGvoY3Z9oXUhkAM": {
+      "iri": "http://lmss.sali.org/7dMzQNmpGvoY3Z9oXUhkAM",
+      "label": "Election Law Compliance Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/RDEuNPJBSNIARaYTXJwi86w"
       ],
       "definition": null,
       "examples": [],
