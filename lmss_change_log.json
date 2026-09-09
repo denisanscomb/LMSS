@@ -1367,6 +1367,26 @@
       ],
       "changed_by": "Admin",
       "timestamp": "2026-05-19T11:57:56.368517+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RIID6TwX1zfh0pWeJjeDrF",
+      "label": "Real Estate Design Review",
+      "old": [
+        "http://lmss.sali.org/Rxq2qQYpdo9stHOBIQhub7"
+      ],
+      "new": [
+        "http://lmss.sali.org/5P5q1BbEcGUo30DABY0eTv",
+        "http://lmss.sali.org/Rxq2qQYpdo9stHOBIQhub7"
+      ],
+      "old_labels": [
+        "Real Estate Regulatory Services"
+      ],
+      "new_labels": [
+        "Land Use Entitlements Practice",
+        "Real Estate Regulatory Services"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-09T21:04:03.602628+00:00"
     }
   ],
   "withdrawn": [],
@@ -17857,5 +17877,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-09T21:03:04.433453+00:00"
+  "last_updated": "2026-09-09T21:04:05.050155+00:00"
 }
