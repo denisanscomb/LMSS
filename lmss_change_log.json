@@ -1563,6 +1563,26 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-09T21:22:25.049372+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6RA1DuZtAw30RsRz3Q7WCH",
+      "label": "Partnership Sales Practice",
+      "old": [
+        "http://lmss.sali.org/Rq4ELdFEL5ItwNtbrp8qfQ"
+      ],
+      "new": [
+        "http://lmss.sali.org/RKzL5nW7IGg4mvAPFX2MUL",
+        "http://lmss.sali.org/Rq4ELdFEL5ItwNtbrp8qfQ"
+      ],
+      "old_labels": [
+        "Development of Property Practice"
+      ],
+      "new_labels": [
+        "Transactional Practice",
+        "Development of Property Practice"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-09T21:32:22.955475+00:00"
     }
   ],
   "withdrawn": [],
@@ -18053,5 +18073,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-09T21:23:16.492564+00:00"
+  "last_updated": "2026-09-09T21:32:23.841851+00:00"
 }
