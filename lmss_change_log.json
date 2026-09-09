@@ -1516,6 +1516,26 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-09T21:06:13.618195+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0zM7UvMEcKsjbVv1inQAn3",
+      "label": "Water Supply - Real Estate Asset",
+      "old": [
+        "http://lmss.sali.org/R86pKuHVzS0q8UJtsuvOGVK"
+      ],
+      "new": [
+        "http://lmss.sali.org/R86pKuHVzS0q8UJtsuvOGVK",
+        "http://lmss.sali.org/RBW7QMNsjTXbouCQpRF7NM7"
+      ],
+      "old_labels": [
+        "Energy Infrastructure - Real Estate Asset"
+      ],
+      "new_labels": [
+        "Energy Infrastructure - Real Estate Asset",
+        "Industrial, Infrastructure, and Logistics - Real Estate Asset"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-09T21:22:17.311396+00:00"
     }
   ],
   "withdrawn": [],
@@ -18006,5 +18026,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-09T21:21:49.156838+00:00"
+  "last_updated": "2026-09-09T21:22:18.198040+00:00"
 }
