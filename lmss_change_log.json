@@ -496,6 +496,13 @@
       "parent_iri": "http://lmss.sali.org/6y2k9qZUYfimPjSon475sY",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-09T19:17:31.323274+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/1GfdHFRiulHFG9qfE2Tgl6",
+      "label": "Cross-Complaint",
+      "parent_iri": "http://lmss.sali.org/RXx1zuWf6YAl8qcKgzeMai",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-09T20:13:58.719790+00:00"
     }
   ],
   "label_changed": [
@@ -17843,5 +17850,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-09T19:17:33.354165+00:00"
+  "last_updated": "2026-09-09T20:14:00.453300+00:00"
 }
