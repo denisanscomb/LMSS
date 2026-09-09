@@ -701,6 +701,13 @@
       "new": "Unregistered (Exempt) Securities",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-07T23:59:39.270514+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBW7QMNsjTXbouCQpRF7NM7",
+      "old": "Industrial and Logistics - Real Estate Asset",
+      "new": "Industrial, Infrastructure, and Logistics - Real Estate Asset",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-09T21:19:56.183520+00:00"
     }
   ],
   "deprecated_changed": [
@@ -17992,5 +17999,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-09T21:13:48.287480+00:00"
+  "last_updated": "2026-09-09T21:19:57.671864+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-09T21:13:46Z",
+    "generated_at": "2026-09-09T21:19:56Z",
     "node_count": 18489,
     "language": "en"
   },
@@ -152168,7 +152168,7 @@
     },
     "http://lmss.sali.org/RBW7QMNsjTXbouCQpRF7NM7": {
       "iri": "http://lmss.sali.org/RBW7QMNsjTXbouCQpRF7NM7",
-      "label": "Industrial and Logistics - Real Estate Asset",
+      "label": "Industrial, Infrastructure, and Logistics - Real Estate Asset",
       "status": "accepted",
       "deprecated": false,
       "parents": [
