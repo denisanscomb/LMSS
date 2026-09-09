@@ -1451,6 +1451,30 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-09T21:05:59.047035+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDIG3RqMsXhfzulZ3cVzK94",
+      "label": "Real Estate Permit Review",
+      "old": [
+        "http://lmss.sali.org/5P5q1BbEcGUo30DABY0eTv",
+        "http://lmss.sali.org/RCKA83wC3pxWrNvsyMlmrDp",
+        "http://lmss.sali.org/Rxq2qQYpdo9stHOBIQhub7"
+      ],
+      "new": [
+        "http://lmss.sali.org/5P5q1BbEcGUo30DABY0eTv",
+        "http://lmss.sali.org/RCKA83wC3pxWrNvsyMlmrDp"
+      ],
+      "old_labels": [
+        "Land Use Entitlements Practice",
+        "Oregon Land Use Board of Appeals",
+        "Real Estate Regulatory Services"
+      ],
+      "new_labels": [
+        "Land Use Entitlements Practice",
+        "Oregon Land Use Board of Appeals"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-09T21:06:05.581056+00:00"
     }
   ],
   "withdrawn": [],
@@ -17941,5 +17965,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-09T21:05:59.883518+00:00"
+  "last_updated": "2026-09-09T21:06:06.457521+00:00"
 }
