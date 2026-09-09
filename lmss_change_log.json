@@ -510,6 +510,13 @@
       "parent_iri": "http://lmss.sali.org/Rxq2qQYpdo9stHOBIQhub7",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-09T21:03:03.272441+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/2fKe8bo4bXK37pRxtp57aN",
+      "label": "Energy Law Compliance Practice",
+      "parent_iri": "http://lmss.sali.org/RDEuNPJBSNIARaYTXJwi86w",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-09T21:13:46.825631+00:00"
     }
   ],
   "label_changed": [
@@ -17985,5 +17992,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-09T21:06:14.450278+00:00"
+  "last_updated": "2026-09-09T21:13:48.287480+00:00"
 }

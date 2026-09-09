@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-09T21:06:13Z",
-    "node_count": 18488,
+    "generated_at": "2026-09-09T21:13:46Z",
+    "node_count": 18489,
     "language": "en"
   },
   "nodes": {
@@ -284177,6 +284177,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/Rxq2qQYpdo9stHOBIQhub7"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/2fKe8bo4bXK37pRxtp57aN": {
+      "iri": "http://lmss.sali.org/2fKe8bo4bXK37pRxtp57aN",
+      "label": "Energy Law Compliance Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/RDEuNPJBSNIARaYTXJwi86w"
       ],
       "definition": null,
       "examples": [],
