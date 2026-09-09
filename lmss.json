@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-09T21:32:22Z",
+    "generated_at": "2026-09-09T21:32:30Z",
     "node_count": 18491,
     "language": "en"
   },
@@ -283979,7 +283979,6 @@
       "status": "beta",
       "deprecated": false,
       "parents": [
-        "http://lmss.sali.org/Rq4ELdFEL5ItwNtbrp8qfQ",
         "http://lmss.sali.org/RKzL5nW7IGg4mvAPFX2MUL"
       ],
       "definition": null,
