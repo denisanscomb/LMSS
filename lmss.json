@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-09T21:04:03Z",
+    "generated_at": "2026-09-09T21:04:14Z",
     "node_count": 18488,
     "language": "en"
   },
@@ -228030,7 +228030,6 @@
       "status": "beta",
       "deprecated": false,
       "parents": [
-        "http://lmss.sali.org/Rxq2qQYpdo9stHOBIQhub7",
         "http://lmss.sali.org/5P5q1BbEcGUo30DABY0eTv"
       ],
       "definition": "Real Estate Design Review is the process by which proposed architectural and site designs for a development project are evaluated for their adherence to local design standards, aesthetics, and land use compatibility. This review is usually conducted by a designated committee or governing body and may involve public hearings, expert consultations, and revisions to the initial plans.",
