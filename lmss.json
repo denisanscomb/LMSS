@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-09T21:46:00Z",
+    "generated_at": "2026-09-09T21:47:12Z",
     "node_count": 18492,
     "language": "en"
   },
@@ -284232,7 +284232,7 @@
     },
     "http://lmss.sali.org/6NJ3j6w2jCdyAMIoKBtzUA": {
       "iri": "http://lmss.sali.org/6NJ3j6w2jCdyAMIoKBtzUA",
-      "label": "Environmental Costs",
+      "label": "Environmental Cost Shifting and Recovery",
       "status": "beta",
       "deprecated": false,
       "parents": [
