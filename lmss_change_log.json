@@ -531,6 +531,13 @@
       "parent_iri": "http://lmss.sali.org/RBW7QMNsjTXbouCQpRF7NM7",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-09T21:23:15.094989+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6NJ3j6w2jCdyAMIoKBtzUA",
+      "label": "Environmental Costs",
+      "parent_iri": "http://lmss.sali.org/R9rEOlPrMiUpUlQrMe18m1X",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-09T21:46:00.941826+00:00"
     }
   ],
   "label_changed": [
@@ -18106,5 +18113,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-09T21:36:05.709480+00:00"
+  "last_updated": "2026-09-09T21:46:02.431290+00:00"
 }
