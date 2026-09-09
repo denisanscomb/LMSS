@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-08T21:24:18Z",
-    "node_count": 18485,
+    "generated_at": "2026-09-09T19:17:31Z",
+    "node_count": 18486,
     "language": "en"
   },
   "nodes": {
@@ -284132,6 +284132,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RCvV18Mbbb9FYFXbHt1inuL"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/5XNA3W1PeDvt0aSn2Boip0": {
+      "iri": "http://lmss.sali.org/5XNA3W1PeDvt0aSn2Boip0",
+      "label": "Environmental Permitting Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/6y2k9qZUYfimPjSon475sY"
       ],
       "definition": null,
       "examples": [],
