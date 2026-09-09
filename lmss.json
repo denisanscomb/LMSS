@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-09T21:32:30Z",
+    "generated_at": "2026-09-09T21:36:03Z",
     "node_count": 18491,
     "language": "en"
   },
@@ -255394,7 +255394,7 @@
       "parents": [
         "http://lmss.sali.org/RKzL5nW7IGg4mvAPFX2MUL"
       ],
-      "definition": "A transaction for the modification or building of something on real property.",
+      "definition": "A transaction for the modification or building of something on real property. See also Land Use Entitlements Practice.",
       "examples": [],
       "pref_label": "Real Property Development Practice",
       "sources": [],

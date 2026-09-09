@@ -18035,6 +18035,19 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-06T18:27:51.632288+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/Rq4ELdFEL5ItwNtbrp8qfQ",
+      "label": "Development of Property Practice",
+      "changes": [
+        {
+          "field": "definition",
+          "old": "A transaction for the modification or building of something on real property.",
+          "new": "A transaction for the modification or building of something on real property. See also Land Use Entitlements Practice."
+        }
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-09T21:36:03.977464+00:00"
     }
   ],
   "deleted": [
@@ -18093,5 +18106,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-09T21:32:31.814205+00:00"
+  "last_updated": "2026-09-09T21:36:05.709480+00:00"
 }
