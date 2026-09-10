@@ -545,6 +545,13 @@
       "parent_iri": "http://lmss.sali.org/R7EC4d1CB16619157007511a",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-10T22:49:38.616624+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/1E37BUVt6iB2QT8dF1piPd",
+      "label": "Informal Creditors' Committee",
+      "parent_iri": "http://lmss.sali.org/R7EC4d1CB16619157007511a",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-10T22:50:07.310212+00:00"
     }
   ],
   "label_changed": [
@@ -18134,5 +18141,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-10T22:49:39.995779+00:00"
+  "last_updated": "2026-09-10T22:50:08.232264+00:00"
 }
