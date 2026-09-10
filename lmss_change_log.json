@@ -736,6 +736,13 @@
       "new": "Environmental Cost Shifting and Recovery",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-09T21:47:12.990717+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8VZLSV59auMMRDIWkdOoV1",
+      "old": "Liquidation of Assets",
+      "new": "Liquidation of Distressed Assets",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-10T22:27:49.431149+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18120,5 +18127,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-09T21:47:14.418743+00:00"
+  "last_updated": "2026-09-10T22:27:50.288329+00:00"
 }
