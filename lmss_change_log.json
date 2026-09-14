@@ -552,6 +552,13 @@
       "parent_iri": "http://lmss.sali.org/R7EC4d1CB16619157007511a",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-10T22:50:07.310212+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/5vqfSilHYN6xdNUltejnLW",
+      "label": "Financing Size",
+      "parent_iri": "http://lmss.sali.org/48FzuzaHY454Um9z9UerZx",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-14T19:59:43.269088+00:00"
     }
   ],
   "label_changed": [
@@ -18154,5 +18161,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-14T19:57:34.590067+00:00"
+  "last_updated": "2026-09-14T19:59:44.297188+00:00"
 }

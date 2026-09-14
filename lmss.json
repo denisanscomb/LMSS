@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-14T19:57:33Z",
-    "node_count": 18494,
+    "generated_at": "2026-09-14T19:59:43Z",
+    "node_count": 18495,
     "language": "en"
   },
   "nodes": {
@@ -284267,6 +284267,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R7EC4d1CB16619157007511a"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/5vqfSilHYN6xdNUltejnLW": {
+      "iri": "http://lmss.sali.org/5vqfSilHYN6xdNUltejnLW",
+      "label": "Financing Size",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/48FzuzaHY454Um9z9UerZx"
       ],
       "definition": null,
       "examples": [],
