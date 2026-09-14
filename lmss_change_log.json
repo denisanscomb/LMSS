@@ -18083,6 +18083,19 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-09T21:36:03.977464+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/4BdVky5D03vRhqVdKQIwjm",
+      "label": "Trade Finance Objective",
+      "changes": [
+        {
+          "field": "definition",
+          "old": null,
+          "new": "Trade Finance includes transactions meant to facilitate international trade."
+        }
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-14T19:57:33.070321+00:00"
     }
   ],
   "deleted": [
@@ -18141,5 +18154,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-10T22:50:08.232264+00:00"
+  "last_updated": "2026-09-14T19:57:34.590067+00:00"
 }

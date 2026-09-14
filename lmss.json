@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-10T22:50:07Z",
+    "generated_at": "2026-09-14T19:57:33Z",
     "node_count": 18494,
     "language": "en"
   },
@@ -283951,7 +283951,7 @@
       "parents": [
         "http://lmss.sali.org/48FzuzaHY454Um9z9UerZx"
       ],
-      "definition": null,
+      "definition": "Trade Finance includes transactions meant to facilitate international trade.",
       "examples": [],
       "pref_label": null,
       "sources": [],
