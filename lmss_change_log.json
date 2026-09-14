@@ -566,6 +566,13 @@
       "parent_iri": "http://lmss.sali.org/5vqfSilHYN6xdNUltejnLW",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-14T20:00:38.724525+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/3Rk1egTHmT9yh9zj0O8deR",
+      "label": "Private Funding Round Size",
+      "parent_iri": "http://lmss.sali.org/5vqfSilHYN6xdNUltejnLW",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-14T20:02:18.560575+00:00"
     }
   ],
   "label_changed": [
@@ -18168,5 +18175,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-14T20:00:40.355225+00:00"
+  "last_updated": "2026-09-14T20:02:19.597270+00:00"
 }
