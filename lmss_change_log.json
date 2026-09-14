@@ -573,6 +573,13 @@
       "parent_iri": "http://lmss.sali.org/5vqfSilHYN6xdNUltejnLW",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-14T20:02:18.560575+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6RdDY0TLbudMPFQdG9ChAf",
+      "label": "Debt Financing Size",
+      "parent_iri": "http://lmss.sali.org/5vqfSilHYN6xdNUltejnLW",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-14T20:03:25.820275+00:00"
     }
   ],
   "label_changed": [
@@ -18175,5 +18182,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-14T20:02:19.597270+00:00"
+  "last_updated": "2026-09-14T20:03:27.323744+00:00"
 }
