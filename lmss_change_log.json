@@ -587,6 +587,13 @@
       "parent_iri": "http://lmss.sali.org/RCEDL3kMYgjFUEOhOyGp3IE",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-15T15:44:51.586062+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0YgHfn1KyIqJoqW6o0lzEK",
+      "label": "Secondary Transactions Practice",
+      "parent_iri": "http://lmss.sali.org/R7K2qUhID6JtseZQoE6bEEf",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-15T15:47:16.824062+00:00"
     }
   ],
   "label_changed": [
@@ -18189,5 +18196,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-15T15:44:53.338640+00:00"
+  "last_updated": "2026-09-15T15:47:17.744637+00:00"
 }

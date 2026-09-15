@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-15T15:44:51Z",
-    "node_count": 18499,
+    "generated_at": "2026-09-15T15:47:16Z",
+    "node_count": 18500,
     "language": "en"
   },
   "nodes": {
@@ -284342,6 +284342,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RCEDL3kMYgjFUEOhOyGp3IE"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/0YgHfn1KyIqJoqW6o0lzEK": {
+      "iri": "http://lmss.sali.org/0YgHfn1KyIqJoqW6o0lzEK",
+      "label": "Secondary Transactions Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R7K2qUhID6JtseZQoE6bEEf"
       ],
       "definition": null,
       "examples": [],
