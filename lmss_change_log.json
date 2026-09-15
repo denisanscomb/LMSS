@@ -799,6 +799,13 @@
       "new": "Liquidation of Distressed Assets",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-10T22:27:49.431149+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0YgHfn1KyIqJoqW6o0lzEK",
+      "old": "Secondary Transactions Practice",
+      "new": "Funds Secondary Transactions Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-15T15:47:48.368831+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18196,5 +18203,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-15T15:47:17.744637+00:00"
+  "last_updated": "2026-09-15T15:47:49.223864+00:00"
 }
