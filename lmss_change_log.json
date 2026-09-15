@@ -594,6 +594,13 @@
       "parent_iri": "http://lmss.sali.org/R7K2qUhID6JtseZQoE6bEEf",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-15T15:47:16.824062+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6gPzbml0QJSg8GHbW835n4",
+      "label": "Seed Investment",
+      "parent_iri": "http://lmss.sali.org/48FzuzaHY454Um9z9UerZx",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-15T17:45:17.806873+00:00"
     }
   ],
   "label_changed": [
@@ -18203,5 +18210,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-15T15:47:49.223864+00:00"
+  "last_updated": "2026-09-15T17:45:19.437571+00:00"
 }

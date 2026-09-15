@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-15T15:47:48Z",
-    "node_count": 18500,
+    "generated_at": "2026-09-15T17:45:17Z",
+    "node_count": 18501,
     "language": "en"
   },
   "nodes": {
@@ -284357,6 +284357,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R7K2qUhID6JtseZQoE6bEEf"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/6gPzbml0QJSg8GHbW835n4": {
+      "iri": "http://lmss.sali.org/6gPzbml0QJSg8GHbW835n4",
+      "label": "Seed Investment",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/48FzuzaHY454Um9z9UerZx"
       ],
       "definition": null,
       "examples": [],
