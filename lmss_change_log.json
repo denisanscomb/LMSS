@@ -580,6 +580,13 @@
       "parent_iri": "http://lmss.sali.org/5vqfSilHYN6xdNUltejnLW",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-14T20:03:25.820275+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6d97Fq2k4KC7eZdPuaM3zZ",
+      "label": "Fund Manager",
+      "parent_iri": "http://lmss.sali.org/RCEDL3kMYgjFUEOhOyGp3IE",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-15T15:44:51.586062+00:00"
     }
   ],
   "label_changed": [
@@ -18182,5 +18189,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-14T20:03:27.323744+00:00"
+  "last_updated": "2026-09-15T15:44:53.338640+00:00"
 }

@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-14T20:03:25Z",
-    "node_count": 18498,
+    "generated_at": "2026-09-15T15:44:51Z",
+    "node_count": 18499,
     "language": "en"
   },
   "nodes": {
@@ -284327,6 +284327,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/5vqfSilHYN6xdNUltejnLW"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/6d97Fq2k4KC7eZdPuaM3zZ": {
+      "iri": "http://lmss.sali.org/6d97Fq2k4KC7eZdPuaM3zZ",
+      "label": "Fund Manager",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/RCEDL3kMYgjFUEOhOyGp3IE"
       ],
       "definition": null,
       "examples": [],
