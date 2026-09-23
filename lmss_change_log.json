@@ -18165,6 +18165,19 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-23T19:40:09.474828+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/11JdhbzgXMVxJOFRxl7ihD",
+      "label": "Economic Policy Practice",
+      "changes": [
+        {
+          "field": "definition",
+          "old": null,
+          "new": "Advising governments on economic policies including debt restructuring."
+        }
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-23T19:40:54.444371+00:00"
     }
   ],
   "deleted": [
@@ -18223,5 +18236,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-23T19:40:10.413244+00:00"
+  "last_updated": "2026-09-23T19:40:55.701659+00:00"
 }

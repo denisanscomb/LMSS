@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-23T19:40:09Z",
+    "generated_at": "2026-09-23T19:40:54Z",
     "node_count": 18501,
     "language": "en"
   },
@@ -284103,7 +284103,7 @@
       "parents": [
         "http://lmss.sali.org/RDRbe1ie5RKn3gtVv471nhZ"
       ],
-      "definition": null,
+      "definition": "Advising governments on economic policies including debt restructuring.",
       "examples": [],
       "pref_label": null,
       "sources": [],
