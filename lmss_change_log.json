@@ -18152,6 +18152,19 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-14T19:57:33.070321+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDRbe1ie5RKn3gtVv471nhZ",
+      "label": "Policies Practice",
+      "changes": [
+        {
+          "field": "definition",
+          "old": "Development of legal policies.",
+          "new": "Development of legal and other governmental policies."
+        }
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-23T19:40:09.474828+00:00"
     }
   ],
   "deleted": [
@@ -18210,5 +18223,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-15T17:45:19.437571+00:00"
+  "last_updated": "2026-09-23T19:40:10.413244+00:00"
 }
