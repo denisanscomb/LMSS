@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-24T16:44:18Z",
-    "node_count": 18503,
+    "generated_at": "2026-09-24T17:15:10Z",
+    "node_count": 18504,
     "language": "en"
   },
   "nodes": {
@@ -284402,6 +284402,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R9LVBKjvGRuzwgtlhuLST36"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/7BcpWFIFNlYLjDluiVDXwh": {
+      "iri": "http://lmss.sali.org/7BcpWFIFNlYLjDluiVDXwh",
+      "label": "Economic Sanctions Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R8x520MB0xME0o4Wrg2o1so"
       ],
       "definition": null,
       "examples": [],

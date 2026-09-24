@@ -615,6 +615,13 @@
       "parent_iri": "http://lmss.sali.org/R9LVBKjvGRuzwgtlhuLST36",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-24T16:44:18.073952+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/7BcpWFIFNlYLjDluiVDXwh",
+      "label": "Economic Sanctions Practice",
+      "parent_iri": "http://lmss.sali.org/R8x520MB0xME0o4Wrg2o1so",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-24T17:15:10.557275+00:00"
     }
   ],
   "label_changed": [
@@ -18263,5 +18270,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-24T16:44:19.692199+00:00"
+  "last_updated": "2026-09-24T17:15:11.587456+00:00"
 }
