@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-24T16:43:04Z",
-    "node_count": 18502,
+    "generated_at": "2026-09-24T16:44:18Z",
+    "node_count": 18503,
     "language": "en"
   },
   "nodes": {
@@ -284383,6 +284383,21 @@
     "http://lmss.sali.org/1SHt4ZWZ3WTTvHgz6xeQAv": {
       "iri": "http://lmss.sali.org/1SHt4ZWZ3WTTvHgz6xeQAv",
       "label": "Anti-Dumping Claim",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R9LVBKjvGRuzwgtlhuLST36"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/2WbSjz0E0rFMs8xaXOaK4V": {
+      "iri": "http://lmss.sali.org/2WbSjz0E0rFMs8xaXOaK4V",
+      "label": "Countervailing Duty Claim",
       "status": "beta",
       "deprecated": false,
       "parents": [
