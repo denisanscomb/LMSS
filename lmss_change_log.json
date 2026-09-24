@@ -18178,6 +18178,19 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-23T19:40:54.444371+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9A5MrBIsjK4fGFwdsUSQO0",
+      "label": "Trade Agreements Act Claim",
+      "changes": [
+        {
+          "field": "definition",
+          "old": "A Trade Agreements Act Claim is a legal claim made under the Trade Agreements Act statute, which requires that certain products purchased by the government be manufactured in the United States or in designated countries with which the US has trade agreements.",
+          "new": "A Trade Agreements Act Claim is a legal claim made that certain products purchased by a government be manufactured in the home country or in designated countries."
+        }
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-24T16:42:43.228841+00:00"
     }
   ],
   "deleted": [
@@ -18236,5 +18249,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-23T19:40:55.701659+00:00"
+  "last_updated": "2026-09-24T16:42:44.497831+00:00"
 }

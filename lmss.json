@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-23T19:40:54Z",
+    "generated_at": "2026-09-24T16:42:43Z",
     "node_count": 18501,
     "language": "en"
   },
@@ -110896,7 +110896,7 @@
       "parents": [
         "http://lmss.sali.org/R9LVBKjvGRuzwgtlhuLST36"
       ],
-      "definition": "A Trade Agreements Act Claim is a legal claim made under the Trade Agreements Act statute, which requires that certain products purchased by the government be manufactured in the United States or in designated countries with which the US has trade agreements.",
+      "definition": "A Trade Agreements Act Claim is a legal claim made that certain products purchased by a government be manufactured in the home country or in designated countries.",
       "examples": [],
       "pref_label": null,
       "sources": [],
