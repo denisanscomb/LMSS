@@ -622,6 +622,13 @@
       "parent_iri": "http://lmss.sali.org/R8x520MB0xME0o4Wrg2o1so",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-24T17:15:10.557275+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/3Pi80SouoIJorKCp1Utx8u",
+      "label": "Defensive Patent Aggregation",
+      "parent_iri": "http://lmss.sali.org/R70jMZb6xYrVCXW6f3EbO1e",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-09-25T21:47:54.001903+00:00"
     }
   ],
   "label_changed": [
@@ -18270,5 +18277,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-24T17:15:11.587456+00:00"
+  "last_updated": "2026-09-25T21:47:55.531953+00:00"
 }
