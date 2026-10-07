@@ -841,6 +841,13 @@
       "new": "Funds Secondary Transactions Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-15T15:47:48.368831+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RELyb2yqbDd1xwYwilGj64",
+      "old": "M&A E Financing Practice",
+      "new": "M&A Financing Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-07T16:17:55.563389+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18277,5 +18284,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-09-25T21:47:55.531953+00:00"
+  "last_updated": "2026-10-07T16:17:56.941384+00:00"
 }

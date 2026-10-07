@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-09-25T21:47:54Z",
+    "generated_at": "2026-10-07T16:17:55Z",
     "node_count": 18505,
     "language": "en"
   },
@@ -220266,7 +220266,7 @@
     },
     "http://lmss.sali.org/RELyb2yqbDd1xwYwilGj64": {
       "iri": "http://lmss.sali.org/RELyb2yqbDd1xwYwilGj64",
-      "label": "M&A E Financing Practice",
+      "label": "M&A Financing Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [
