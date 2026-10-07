@@ -869,6 +869,13 @@
       "new": "M&A Integration Matters Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-07T16:21:56.832674+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCoa9g6Iu30ihV7OX1DAQTU",
+      "old": "M&A F1 Antitrust / Competition Practice",
+      "new": "M&A Antitrust / Competition Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-07T16:22:29.714640+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18305,5 +18312,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-07T16:21:57.868788+00:00"
+  "last_updated": "2026-10-07T16:22:31.154146+00:00"
 }

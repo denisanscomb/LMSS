@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-07T16:21:56Z",
+    "generated_at": "2026-10-07T16:22:29Z",
     "node_count": 18505,
     "language": "en"
   },
@@ -186173,7 +186173,7 @@
     },
     "http://lmss.sali.org/RCoa9g6Iu30ihV7OX1DAQTU": {
       "iri": "http://lmss.sali.org/RCoa9g6Iu30ihV7OX1DAQTU",
-      "label": "M&A F1 Antitrust / Competition Practice",
+      "label": "M&A Antitrust / Competition Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [
