@@ -862,6 +862,13 @@
       "new": "M&A Deal Management Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-07T16:18:33.387490+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RB3Tf0tsno9NYq527hwWCBn",
+      "old": "M&A I Integration Matters Practice",
+      "new": "M&A Integration Matters Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-07T16:21:56.832674+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18298,5 +18305,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-07T16:18:34.229120+00:00"
+  "last_updated": "2026-10-07T16:21:57.868788+00:00"
 }

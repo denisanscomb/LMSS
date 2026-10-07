@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-07T16:18:33Z",
+    "generated_at": "2026-10-07T16:21:56Z",
     "node_count": 18505,
     "language": "en"
   },
@@ -138150,7 +138150,7 @@
     },
     "http://lmss.sali.org/RB3Tf0tsno9NYq527hwWCBn": {
       "iri": "http://lmss.sali.org/RB3Tf0tsno9NYq527hwWCBn",
-      "label": "M&A I Integration Matters Practice",
+      "label": "M&A Integration Matters Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [
