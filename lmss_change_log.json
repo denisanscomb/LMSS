@@ -848,6 +848,13 @@
       "new": "M&A Financing Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-07T16:17:55.563389+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RX1CNAXsKKxbwc9dtMoleA",
+      "old": "M&A G Shareholder / Board Matters Practice",
+      "new": "M&A Shareholder / Board Matters Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-07T16:18:18.021076+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18284,5 +18291,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-07T16:17:56.941384+00:00"
+  "last_updated": "2026-10-07T16:18:19.015490+00:00"
 }

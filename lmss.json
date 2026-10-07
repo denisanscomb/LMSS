@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-07T16:17:55Z",
+    "generated_at": "2026-10-07T16:18:18Z",
     "node_count": 18505,
     "language": "en"
   },
@@ -240483,7 +240483,7 @@
     },
     "http://lmss.sali.org/RX1CNAXsKKxbwc9dtMoleA": {
       "iri": "http://lmss.sali.org/RX1CNAXsKKxbwc9dtMoleA",
-      "label": "M&A G Shareholder / Board Matters Practice",
+      "label": "M&A Shareholder / Board Matters Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [
