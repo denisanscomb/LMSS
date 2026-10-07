@@ -883,6 +883,13 @@
       "new": "M&A Data Security / Privacy / Data Protection / Cybersecurity Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-07T16:24:49.349212+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCZvSFSO3aZFgcVzeJphimW",
+      "old": "M&A F3 Employment, Labor and Employee Benefits Practice",
+      "new": "M&A Employment, Labor and Employee Benefits Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-07T16:25:05.646108+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18319,5 +18326,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-07T16:24:50.175553+00:00"
+  "last_updated": "2026-10-07T16:25:06.471126+00:00"
 }

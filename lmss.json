@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-07T16:24:49Z",
+    "generated_at": "2026-10-07T16:25:05Z",
     "node_count": 18505,
     "language": "en"
   },
@@ -180735,7 +180735,7 @@
     },
     "http://lmss.sali.org/RCZvSFSO3aZFgcVzeJphimW": {
       "iri": "http://lmss.sali.org/RCZvSFSO3aZFgcVzeJphimW",
-      "label": "M&A F3 Employment, Labor and Employee Benefits Practice",
+      "label": "M&A Employment, Labor and Employee Benefits Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [
