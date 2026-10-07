@@ -918,6 +918,13 @@
       "new": "M&A Securities Regulatory Matters Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-07T16:26:39.033373+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R77nYoFJGfjXohVPgurxVD0",
+      "old": "M&A F8 Tax Practice",
+      "new": "M&A Tax Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-07T16:26:55.462785+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18354,5 +18361,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-07T16:26:39.900085+00:00"
+  "last_updated": "2026-10-07T16:26:56.202258+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-07T16:26:39Z",
+    "generated_at": "2026-10-07T16:26:55Z",
     "node_count": 18505,
     "language": "en"
   },
@@ -57373,7 +57373,7 @@
     },
     "http://lmss.sali.org/R77nYoFJGfjXohVPgurxVD0": {
       "iri": "http://lmss.sali.org/R77nYoFJGfjXohVPgurxVD0",
-      "label": "M&A F8 Tax Practice",
+      "label": "M&A Tax Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [
