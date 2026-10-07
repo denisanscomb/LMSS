@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-07T16:18:18Z",
+    "generated_at": "2026-10-07T16:18:33Z",
     "node_count": 18505,
     "language": "en"
   },
@@ -118410,7 +118410,7 @@
     },
     "http://lmss.sali.org/R9PFGT7QJlJ0ok1aBbxJMah": {
       "iri": "http://lmss.sali.org/R9PFGT7QJlJ0ok1aBbxJMah",
-      "label": "M&A K Deal Management Practice",
+      "label": "M&A Deal Management Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [

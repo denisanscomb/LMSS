@@ -855,6 +855,13 @@
       "new": "M&A Shareholder / Board Matters Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-07T16:18:18.021076+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9PFGT7QJlJ0ok1aBbxJMah",
+      "old": "M&A K Deal Management Practice",
+      "new": "M&A Deal Management Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-07T16:18:33.387490+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18291,5 +18298,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-07T16:18:19.015490+00:00"
+  "last_updated": "2026-10-07T16:18:34.229120+00:00"
 }
