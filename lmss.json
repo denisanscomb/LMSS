@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-07T16:25:29Z",
+    "generated_at": "2026-10-07T16:26:04Z",
     "node_count": 18505,
     "language": "en"
   },
@@ -195551,7 +195551,7 @@
     },
     "http://lmss.sali.org/RDBBHEWmVzQjbcaOfQMTjP4": {
       "iri": "http://lmss.sali.org/RDBBHEWmVzQjbcaOfQMTjP4",
-      "label": "M&A F5 Intellectual Property and Technology Practice",
+      "label": "M&A Intellectual Property and Technology Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [
