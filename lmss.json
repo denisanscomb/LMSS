@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-07T16:26:22Z",
+    "generated_at": "2026-10-07T16:26:39Z",
     "node_count": 18505,
     "language": "en"
   },
@@ -177294,7 +177294,7 @@
     },
     "http://lmss.sali.org/RCQFWgwAUZZMPRvRaacXtNE": {
       "iri": "http://lmss.sali.org/RCQFWgwAUZZMPRvRaacXtNE",
-      "label": "M&A F7 Securities Regulatory Matters Practice",
+      "label": "M&A Securities Regulatory Matters Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [

@@ -911,6 +911,13 @@
       "new": "M&A Real Property Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-07T16:26:22.388015+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCQFWgwAUZZMPRvRaacXtNE",
+      "old": "M&A F7 Securities Regulatory Matters Practice",
+      "new": "M&A Securities Regulatory Matters Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-07T16:26:39.033373+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18347,5 +18354,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-07T16:26:23.416739+00:00"
+  "last_updated": "2026-10-07T16:26:39.900085+00:00"
 }
