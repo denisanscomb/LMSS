@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-07T16:26:55Z",
-    "node_count": 18505,
+    "generated_at": "2026-10-07T19:58:28Z",
+    "node_count": 18506,
     "language": "en"
   },
   "nodes": {
@@ -284432,6 +284432,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R70jMZb6xYrVCXW6f3EbO1e"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/79qKDbdkdapf8GuaP5CZxk": {
+      "iri": "http://lmss.sali.org/79qKDbdkdapf8GuaP5CZxk",
+      "label": "Reinsurance Arbitration Practice",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/RXO2u2WBkUUcEG1jczLIcA"
       ],
       "definition": null,
       "examples": [],

@@ -629,6 +629,13 @@
       "parent_iri": "http://lmss.sali.org/R70jMZb6xYrVCXW6f3EbO1e",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-25T21:47:54.001903+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/79qKDbdkdapf8GuaP5CZxk",
+      "label": "Reinsurance Arbitration Practice",
+      "parent_iri": "http://lmss.sali.org/RXO2u2WBkUUcEG1jczLIcA",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-07T19:58:28.872313+00:00"
     }
   ],
   "label_changed": [
@@ -18361,5 +18368,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-07T16:26:56.202258+00:00"
+  "last_updated": "2026-10-07T19:58:30.438198+00:00"
 }
