@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-07T16:25:05Z",
+    "generated_at": "2026-10-07T16:25:29Z",
     "node_count": 18505,
     "language": "en"
   },
@@ -260314,7 +260314,7 @@
     },
     "http://lmss.sali.org/Rvqabl3zKCe9914xjp4ipz": {
       "iri": "http://lmss.sali.org/Rvqabl3zKCe9914xjp4ipz",
-      "label": "M&A F4 Environmental Practice",
+      "label": "M&A Environmental Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [

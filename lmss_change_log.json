@@ -890,6 +890,13 @@
       "new": "M&A Employment, Labor and Employee Benefits Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-07T16:25:05.646108+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/Rvqabl3zKCe9914xjp4ipz",
+      "old": "M&A F4 Environmental Practice",
+      "new": "M&A Environmental Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-07T16:25:29.316547+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18326,5 +18333,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-07T16:25:06.471126+00:00"
+  "last_updated": "2026-10-07T16:25:30.161043+00:00"
 }
