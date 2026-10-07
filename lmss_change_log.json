@@ -904,6 +904,13 @@
       "new": "M&A Intellectual Property and Technology Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-07T16:26:04.339170+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDqfiEi1fdryT1nfQCMammS",
+      "old": "M&A F6 Real Property Practice",
+      "new": "M&A Real Property Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-07T16:26:22.388015+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18340,5 +18347,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-07T16:26:05.126318+00:00"
+  "last_updated": "2026-10-07T16:26:23.416739+00:00"
 }
