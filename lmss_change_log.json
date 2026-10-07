@@ -876,6 +876,13 @@
       "new": "M&A Antitrust / Competition Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-07T16:22:29.714640+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RyBjWTOgp5a7MIuqM3KaAe",
+      "old": "M&A F2 Data Security / Privacy / Data Protection / Cybersecurity Practice",
+      "new": "M&A Data Security / Privacy / Data Protection / Cybersecurity Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-07T16:24:49.349212+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18312,5 +18319,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-07T16:22:31.154146+00:00"
+  "last_updated": "2026-10-07T16:24:50.175553+00:00"
 }

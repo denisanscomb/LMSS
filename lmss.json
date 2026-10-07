@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-07T16:22:29Z",
+    "generated_at": "2026-10-07T16:24:49Z",
     "node_count": 18505,
     "language": "en"
   },
@@ -262549,7 +262549,7 @@
     },
     "http://lmss.sali.org/RyBjWTOgp5a7MIuqM3KaAe": {
       "iri": "http://lmss.sali.org/RyBjWTOgp5a7MIuqM3KaAe",
-      "label": "M&A F2 Data Security / Privacy / Data Protection / Cybersecurity Practice",
+      "label": "M&A Data Security / Privacy / Data Protection / Cybersecurity Practice",
       "status": "accepted",
       "deprecated": false,
       "parents": [
