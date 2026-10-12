@@ -939,6 +939,13 @@
       "new": "M&A Tax Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-07T16:26:55.462785+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDpjRd4voHUosNqZM5fkbfF",
+      "old": "Governmental Monitoring Practice",
+      "new": "Monitoring Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-12T21:34:11.345647+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18375,5 +18382,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-12T21:33:54.829659+00:00"
+  "last_updated": "2026-10-12T21:34:12.292816+00:00"
 }
