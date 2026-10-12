@@ -636,6 +636,13 @@
       "parent_iri": "http://lmss.sali.org/RXO2u2WBkUUcEG1jczLIcA",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-07T19:58:28.872313+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/4jP324xAdWTmOfuWpsIY38",
+      "label": "Corporate Monitoring Practice",
+      "parent_iri": "http://lmss.sali.org/RDpjRd4voHUosNqZM5fkbfF",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-12T21:33:53.700724+00:00"
     }
   ],
   "label_changed": [
@@ -18368,5 +18375,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-07T19:58:30.438198+00:00"
+  "last_updated": "2026-10-12T21:33:54.829659+00:00"
 }
