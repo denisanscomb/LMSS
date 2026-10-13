@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-13T23:07:31Z",
-    "node_count": 18510,
+    "generated_at": "2026-10-13T23:07:52Z",
+    "node_count": 18511,
     "language": "en"
   },
   "nodes": {
@@ -284507,6 +284507,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/1M1r3jfBX6O3DehFGX0lgd"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/6pElNJtCDBO2rausVi8g85": {
+      "iri": "http://lmss.sali.org/6pElNJtCDBO2rausVi8g85",
+      "label": "Business Broker",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R9Q9CszYRTjTgwQ8JRqVZ0x"
       ],
       "definition": null,
       "examples": [],

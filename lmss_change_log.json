@@ -664,6 +664,13 @@
       "parent_iri": "http://lmss.sali.org/1M1r3jfBX6O3DehFGX0lgd",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-13T23:07:31.603696+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6pElNJtCDBO2rausVi8g85",
+      "label": "Business Broker",
+      "parent_iri": "http://lmss.sali.org/R9Q9CszYRTjTgwQ8JRqVZ0x",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-13T23:07:52.052861+00:00"
     }
   ],
   "label_changed": [
@@ -18403,5 +18410,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-13T23:07:32.652250+00:00"
+  "last_updated": "2026-10-13T23:07:53.072891+00:00"
 }
