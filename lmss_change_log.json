@@ -985,6 +985,33 @@
       "reason": "Redundant with Service Sales Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-09-06T17:54:02.033906+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RrCF5zcrzh4jFvAQn6emEB",
+      "label": "Sex Worker",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-13T23:14:18.264161+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9OJlM7qnQBsP6xcryJ9B5M",
+      "label": "Adult Entertainer",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-13T23:14:18.264187+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCKj4ajfEkZMQQ3GTYArsmE",
+      "label": "Escort",
+      "old": false,
+      "new": true,
+      "reason": null,
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-13T23:14:18.264192+00:00"
     }
   ],
   "parent_changed": [
@@ -18476,5 +18503,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-13T23:11:48.014328+00:00"
+  "last_updated": "2026-10-13T23:14:19.717240+00:00"
 }

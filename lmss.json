@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-13T23:11:47Z",
+    "generated_at": "2026-10-13T23:14:18Z",
     "node_count": 18511,
     "language": "en"
   },
@@ -118097,7 +118097,7 @@
       "iri": "http://lmss.sali.org/R9OJlM7qnQBsP6xcryJ9B5M",
       "label": "Adult Entertainer",
       "status": "beta",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RrCF5zcrzh4jFvAQn6emEB"
       ],
@@ -175164,7 +175164,7 @@
       "iri": "http://lmss.sali.org/RCKj4ajfEkZMQQ3GTYArsmE",
       "label": "Escort",
       "status": "beta",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/RrCF5zcrzh4jFvAQn6emEB"
       ],
@@ -256315,7 +256315,7 @@
       "iri": "http://lmss.sali.org/RrCF5zcrzh4jFvAQn6emEB",
       "label": "Sex Worker",
       "status": "beta",
-      "deprecated": false,
+      "deprecated": true,
       "parents": [
         "http://lmss.sali.org/R8dLmng1TNW6uYIBHtkJuab"
       ],
