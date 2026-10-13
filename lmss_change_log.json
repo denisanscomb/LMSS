@@ -671,6 +671,13 @@
       "parent_iri": "http://lmss.sali.org/R9Q9CszYRTjTgwQ8JRqVZ0x",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-13T23:07:52.052861+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0AyBTF4bdZuXZmGlQFKYiU",
+      "label": "Real Estate Agent",
+      "parent_iri": "http://lmss.sali.org/RBDvvMcl4VbqDv1BGaZqaSL",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-13T23:15:05.694318+00:00"
     }
   ],
   "label_changed": [
@@ -18503,5 +18510,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-13T23:14:19.717240+00:00"
+  "last_updated": "2026-10-13T23:15:07.231863+00:00"
 }
