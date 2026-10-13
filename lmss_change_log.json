@@ -18365,6 +18365,19 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-13T23:10:27.032472+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBEfQXg8uUIsk2iZbk8Z2gR",
+      "label": "Financial Advisor",
+      "changes": [
+        {
+          "field": "definition",
+          "old": "Financial advisers provide investment, business management, and transaction execution expertise",
+          "new": "Financial advisors provide investment, business management, and transaction execution expertise"
+        }
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-13T23:10:56.287481+00:00"
     }
   ],
   "deleted": [
@@ -18423,5 +18436,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-13T23:10:28.233336+00:00"
+  "last_updated": "2026-10-13T23:10:57.391230+00:00"
 }
