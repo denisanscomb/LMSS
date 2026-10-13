@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-13T23:07:52Z",
+    "generated_at": "2026-10-13T23:10:27Z",
     "node_count": 18511,
     "language": "en"
   },
@@ -145215,7 +145215,7 @@
       "parents": [
         "http://lmss.sali.org/RCEDL3kMYgjFUEOhOyGp3IE"
       ],
-      "definition": "A professional adviser offering financial counsel, sometimes charging fees and/or earning commissions. Rockhill  v.  William  M.  Jeude  &  Univest,  Inc. (W.D. Wash. 2012)",
+      "definition": "Financial advisers provide investment, business management, and transaction execution expertise",
       "examples": [],
       "pref_label": "Investment Advisor",
       "sources": [],
