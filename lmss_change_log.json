@@ -657,6 +657,13 @@
       "parent_iri": "http://lmss.sali.org/RBEfQXg8uUIsk2iZbk8Z2gR",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-13T23:07:17.562761+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/2Tp4Ssv3zSItEJuRzWJF9j",
+      "label": "M&A Advisor",
+      "parent_iri": "http://lmss.sali.org/1M1r3jfBX6O3DehFGX0lgd",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-13T23:07:31.603696+00:00"
     }
   ],
   "label_changed": [
@@ -18396,5 +18403,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-13T23:07:18.558903+00:00"
+  "last_updated": "2026-10-13T23:07:32.652250+00:00"
 }
