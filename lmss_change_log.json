@@ -1875,6 +1875,26 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-13T23:11:35.408031+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/2Tp4Ssv3zSItEJuRzWJF9j",
+      "label": "M&A Advisor",
+      "old": [
+        "http://lmss.sali.org/1M1r3jfBX6O3DehFGX0lgd",
+        "http://lmss.sali.org/RBEfQXg8uUIsk2iZbk8Z2gR"
+      ],
+      "new": [
+        "http://lmss.sali.org/RBEfQXg8uUIsk2iZbk8Z2gR"
+      ],
+      "old_labels": [
+        "Investment Banker",
+        "Financial Advisor"
+      ],
+      "new_labels": [
+        "Financial Advisor"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-13T23:11:47.208134+00:00"
     }
   ],
   "withdrawn": [],
@@ -18456,5 +18476,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-13T23:11:36.368431+00:00"
+  "last_updated": "2026-10-13T23:11:48.014328+00:00"
 }
