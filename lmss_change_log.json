@@ -678,6 +678,13 @@
       "parent_iri": "http://lmss.sali.org/RBDvvMcl4VbqDv1BGaZqaSL",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-13T23:15:05.694318+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0U701Rm7uokDewXHR5TnCY",
+      "label": "Tax-Free Corporate Reorganization",
+      "parent_iri": "http://lmss.sali.org/R70jMZb6xYrVCXW6f3EbO1e",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-15T22:52:45.308884+00:00"
     }
   ],
   "label_changed": [
@@ -18510,5 +18517,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-13T23:15:07.231863+00:00"
+  "last_updated": "2026-10-15T22:52:46.896763+00:00"
 }
