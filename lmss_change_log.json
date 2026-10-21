@@ -685,6 +685,13 @@
       "parent_iri": "http://lmss.sali.org/R70jMZb6xYrVCXW6f3EbO1e",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-15T22:52:45.308884+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/3BxU8ZCUnv6S7Ge21D8gxX",
+      "label": "Fiduciary Termination Right - M&A Limitations",
+      "parent_iri": "http://lmss.sali.org/RCLGQsilSLhiEYMG8njnuvc",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-21T19:08:48.946876+00:00"
     }
   ],
   "label_changed": [
@@ -18524,5 +18531,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-21T18:41:40.485871+00:00"
+  "last_updated": "2026-10-21T19:08:50.006112+00:00"
 }
