@@ -18543,7 +18543,13 @@
       "label": "Authority Representation",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/48VCuaYwdw1AQOj0iWqXts",
+      "label": "Material Breach of No-Shop",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-21T19:17:47.313238+00:00"
     }
   ],
-  "last_updated": "2026-10-21T19:10:32.721368+00:00"
+  "last_updated": "2026-10-21T19:17:49.053624+00:00"
 }
