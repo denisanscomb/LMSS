@@ -1964,6 +1964,26 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-13T23:11:47.208134+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8lJBYa0F2dwqHWpGpLVmu",
+      "label": "Breach of No-Shop Covenant",
+      "old": [
+        "http://lmss.sali.org/RCDa7IsUxl4AA7e5KylzJYK"
+      ],
+      "new": [
+        "http://lmss.sali.org/3BxU8ZCUnv6S7Ge21D8gxX",
+        "http://lmss.sali.org/RCDa7IsUxl4AA7e5KylzJYK"
+      ],
+      "old_labels": [
+        "Breakup Fee Triggers"
+      ],
+      "new_labels": [
+        "Fiduciary Termination Right - M&A Limitations",
+        "Breakup Fee Triggers"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-21T19:19:44.558398+00:00"
     }
   ],
   "withdrawn": [],
@@ -18557,5 +18577,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-21T19:18:23.357321+00:00"
+  "last_updated": "2026-10-21T19:19:46.021410+00:00"
 }
