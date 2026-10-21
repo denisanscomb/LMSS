@@ -988,6 +988,13 @@
       "new": "Monitoring Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-12T21:34:11.345647+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8rgsxWmEx8qQqXMEtuobJx",
+      "old": "Fiduciary Exemption to Change of Recommendation Covenant",
+      "new": "Fiduciary Exception to Change of Recommendation Covenant",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-21T18:41:39.527093+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18517,5 +18524,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-15T22:52:46.896763+00:00"
+  "last_updated": "2026-10-21T18:41:40.485871+00:00"
 }
