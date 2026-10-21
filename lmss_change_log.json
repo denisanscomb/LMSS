@@ -699,6 +699,13 @@
       "parent_iri": "http://lmss.sali.org/3BxU8ZCUnv6S7Ge21D8gxX",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-21T19:09:51.125233+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/48VCuaYwdw1AQOj0iWqXts",
+      "label": "Material Breach of No-Shop",
+      "parent_iri": "http://lmss.sali.org/4XnYRIjC9DDzCENs1Vn4Ns",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-21T19:10:31.002553+00:00"
     }
   ],
   "label_changed": [
@@ -18538,5 +18545,5 @@
       "timestamp": "2026-08-25T23:20:15.958666+00:00"
     }
   ],
-  "last_updated": "2026-10-21T19:09:52.141693+00:00"
+  "last_updated": "2026-10-21T19:10:32.721368+00:00"
 }
