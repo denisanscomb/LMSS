@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-21T19:19:44Z",
-    "node_count": 18514,
+    "generated_at": "2026-10-23T17:27:59Z",
+    "node_count": 18515,
     "language": "en"
   },
   "nodes": {
@@ -284568,6 +284568,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RCLGQsilSLhiEYMG8njnuvc"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/3RV0qcteqTJzl1tJm2AuKw": {
+      "iri": "http://lmss.sali.org/3RV0qcteqTJzl1tJm2AuKw",
+      "label": "Option Cancellation Agreement",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R88D8i8AcSTUig2X3yPbFHg"
       ],
       "definition": null,
       "examples": [],
