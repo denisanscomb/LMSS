@@ -720,6 +720,13 @@
       "parent_iri": "http://lmss.sali.org/RBKXEdlGEMzeuinxEdRGBF5",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-23T21:53:09.909496+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/2n3WuYcYVZqXYauoii57bQ",
+      "label": "Seller's Note",
+      "parent_iri": "http://lmss.sali.org/RBKXEdlGEMzeuinxEdRGBF5",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-23T21:54:56.204893+00:00"
     }
   ],
   "label_changed": [
@@ -18604,5 +18611,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-23T21:53:11.362933+00:00"
+  "last_updated": "2026-10-23T21:54:57.901323+00:00"
 }
