@@ -18514,6 +18514,19 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-13T23:10:56.287481+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCLGQsilSLhiEYMG8njnuvc",
+      "label": "Fiduciary Termination Right",
+      "changes": [
+        {
+          "field": "definition",
+          "old": "The Fiduciary Termination Right is a provision in a legal agreement that allows a fiduciary to terminate the agreement if they believe it is in the best interest of their client, and is typically included in deal protection provisions.",
+          "new": "The Fiduciary Termination Right (\"Fiduciary Out\") is a provision in a legal agreement that allows a fiduciary to terminate the agreement if they believe it is in the best interest of their client, and is typically included in deal protection provisions."
+        }
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-23T21:32:53.474047+00:00"
     }
   ],
   "deleted": [
@@ -18584,5 +18597,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-23T17:28:00.278066+00:00"
+  "last_updated": "2026-10-23T21:32:54.631734+00:00"
 }
