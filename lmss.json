@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-23T21:32:53Z",
-    "node_count": 18515,
+    "generated_at": "2026-10-23T21:53:09Z",
+    "node_count": 18516,
     "language": "en"
   },
   "nodes": {
@@ -284583,6 +284583,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R88D8i8AcSTUig2X3yPbFHg"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/14S9FGNMRgOMJXkZ7R6qBb": {
+      "iri": "http://lmss.sali.org/14S9FGNMRgOMJXkZ7R6qBb",
+      "label": "Equity Hold",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/RBKXEdlGEMzeuinxEdRGBF5"
       ],
       "definition": null,
       "examples": [],

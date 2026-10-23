@@ -713,6 +713,13 @@
       "parent_iri": "http://lmss.sali.org/R88D8i8AcSTUig2X3yPbFHg",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-23T17:27:59.212792+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/14S9FGNMRgOMJXkZ7R6qBb",
+      "label": "Equity Hold",
+      "parent_iri": "http://lmss.sali.org/RBKXEdlGEMzeuinxEdRGBF5",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-23T21:53:09.909496+00:00"
     }
   ],
   "label_changed": [
@@ -18597,5 +18604,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-23T21:32:54.631734+00:00"
+  "last_updated": "2026-10-23T21:53:11.362933+00:00"
 }
