@@ -1065,6 +1065,13 @@
       "new": "Reorganization Bankruptcy Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-26T17:47:42.534855+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8hxEt7Bu7TpXSSOoTCTI7c",
+      "old": "Employment Application Process",
+      "new": "Bankrupty Employment Application Process",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-26T20:25:57.383528+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18679,5 +18686,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-26T19:20:18.872768+00:00"
+  "last_updated": "2026-10-26T20:25:58.924137+00:00"
 }
