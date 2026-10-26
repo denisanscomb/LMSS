@@ -2025,6 +2025,26 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-26T17:37:36.135348+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCzNI1QoW4KZCDSoIqjFHFj",
+      "label": "Bankruptcy Initiation Type",
+      "old": [
+        "http://lmss.sali.org/R7LI3BONqNkXbKHKa0t3jyI",
+        "http://lmss.sali.org/RXSQ7cfAYqk20qAg9n2wxi"
+      ],
+      "new": [
+        "http://lmss.sali.org/RXSQ7cfAYqk20qAg9n2wxi"
+      ],
+      "old_labels": [
+        "Bankruptcy and Financial Restructuring Practice",
+        "Bankruptcy and Restructuring Objectives"
+      ],
+      "new_labels": [
+        "Bankruptcy and Restructuring Objectives"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-26T17:38:42.131257+00:00"
     }
   ],
   "withdrawn": [],
@@ -18631,5 +18651,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-26T17:37:37.923263+00:00"
+  "last_updated": "2026-10-26T17:38:42.865813+00:00"
 }
