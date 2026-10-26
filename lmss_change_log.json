@@ -1086,6 +1086,13 @@
       "new": "Bankruptcy Fee Application Process",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-26T20:26:30.334374+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7eWp4gvrWZZjePHVYH46BQ",
+      "old": "Fee Objection Practice",
+      "new": "Bankruptcy Fee Objection Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-26T20:26:43.444353+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18700,5 +18707,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-26T20:26:31.184674+00:00"
+  "last_updated": "2026-10-26T20:26:44.367670+00:00"
 }
