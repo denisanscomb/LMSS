@@ -727,6 +727,13 @@
       "parent_iri": "http://lmss.sali.org/RBKXEdlGEMzeuinxEdRGBF5",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-23T21:54:56.204893+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6KpQdkgpLTRNLilxtRlWAd",
+      "label": "Freedom to Operate",
+      "parent_iri": "http://lmss.sali.org/Rzy5rvrKtuL8AwKrBTFfBQ",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-26T19:20:17.101799+00:00"
     }
   ],
   "label_changed": [
@@ -18672,5 +18679,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-26T17:47:43.212844+00:00"
+  "last_updated": "2026-10-26T19:20:18.872768+00:00"
 }
