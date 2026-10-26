@@ -1051,6 +1051,13 @@
       "new": "Liquidation Bankruptcy Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-26T17:47:29.412300+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7Jo3gp8LjhpdJNXYE9ow95",
+      "old": "Reorganization Bankruptcy",
+      "new": "Reorganization Bankruptcy Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-26T17:47:42.534855+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18665,5 +18672,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-26T17:47:30.526800+00:00"
+  "last_updated": "2026-10-26T17:47:43.212844+00:00"
 }
