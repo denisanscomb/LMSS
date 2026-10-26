@@ -1093,6 +1093,13 @@
       "new": "Bankruptcy Fee Objection Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-26T20:26:43.444353+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBHzq2yqYL8JEktmzbPwYOP",
+      "old": "Trade Safeguards Dispute",
+      "new": "Trade Remedies Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-26T20:35:11.957360+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18747,5 +18754,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-26T20:31:56.601317+00:00"
+  "last_updated": "2026-10-26T20:35:13.009594+00:00"
 }
