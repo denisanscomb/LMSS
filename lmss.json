@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-26T17:39:51Z",
+    "generated_at": "2026-10-26T17:47:29Z",
     "node_count": 18517,
     "language": "en"
   },
@@ -116387,7 +116387,7 @@
     },
     "http://lmss.sali.org/R9JkqKed1jktjgwaeiLc7ru": {
       "iri": "http://lmss.sali.org/R9JkqKed1jktjgwaeiLc7ru",
-      "label": "Liquidation Bankruptcy",
+      "label": "Liquidation Bankruptcy Practice",
       "status": "beta",
       "deprecated": false,
       "parents": [

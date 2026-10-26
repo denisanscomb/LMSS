@@ -1044,6 +1044,13 @@
       "new": "Bankruptcy Fee and Employment Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-26T17:39:51.079852+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9JkqKed1jktjgwaeiLc7ru",
+      "old": "Liquidation Bankruptcy",
+      "new": "Liquidation Bankruptcy Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-26T17:47:29.412300+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18658,5 +18665,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-26T17:39:52.229876+00:00"
+  "last_updated": "2026-10-26T17:47:30.526800+00:00"
 }
