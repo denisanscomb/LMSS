@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-26T20:25:57Z",
+    "generated_at": "2026-10-26T20:26:14Z",
     "node_count": 18518,
     "language": "en"
   },
@@ -144698,7 +144698,7 @@
     },
     "http://lmss.sali.org/RBDxJqKjmdMUW79M90WV1Rk": {
       "iri": "http://lmss.sali.org/RBDxJqKjmdMUW79M90WV1Rk",
-      "label": "Employment Objection Process",
+      "label": "Bankruptcy Employment Objection Process",
       "status": "beta",
       "deprecated": false,
       "parents": [
