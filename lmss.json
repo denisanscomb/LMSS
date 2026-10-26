@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-26T20:26:14Z",
+    "generated_at": "2026-10-26T20:26:30Z",
     "node_count": 18518,
     "language": "en"
   },
@@ -82337,7 +82337,7 @@
     },
     "http://lmss.sali.org/R885RBLazCjpVS9ZaiISRN1": {
       "iri": "http://lmss.sali.org/R885RBLazCjpVS9ZaiISRN1",
-      "label": "Fee Application Process",
+      "label": "Bankruptcy Fee Application Process",
       "status": "beta",
       "deprecated": false,
       "parents": [
