@@ -2121,6 +2121,26 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-26T20:31:28.246784+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCgV7EJVSCJGEILuJzCYEpz",
+      "label": "Negotiation Sequence",
+      "old": [
+        "http://lmss.sali.org/RDa0Qu7gpJEIhpO0REOfc1p",
+        "http://lmss.sali.org/RdfKnWpXsG2eBmnS3oJNTF"
+      ],
+      "new": [
+        "http://lmss.sali.org/RdfKnWpXsG2eBmnS3oJNTF"
+      ],
+      "old_labels": [
+        "Settlement, Demand, and Collection Practice",
+        "Transaction Events"
+      ],
+      "new_labels": [
+        "Transaction Events"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-26T20:31:55.739277+00:00"
     }
   ],
   "withdrawn": [],
@@ -18727,5 +18747,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-26T20:31:29.590126+00:00"
+  "last_updated": "2026-10-26T20:31:56.601317+00:00"
 }

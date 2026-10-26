@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-26T20:31:28Z",
+    "generated_at": "2026-10-26T20:31:55Z",
     "node_count": 18518,
     "language": "en"
   },
@@ -182969,7 +182969,6 @@
       "status": "beta",
       "deprecated": false,
       "parents": [
-        "http://lmss.sali.org/RDa0Qu7gpJEIhpO0REOfc1p",
         "http://lmss.sali.org/RdfKnWpXsG2eBmnS3oJNTF"
       ],
       "definition": "In the context of contract negotiations, a Contractual Turn refers to each sequential exchange or iteration in the negotiation process, typically involving the drafting, reviewing, and revising of the contract. For example, Turn 1 may involve Party A sending the initial draft of the agreement to Party B, and Turn 2 may involve Party B sending a marked-up draft back to Party A.",
