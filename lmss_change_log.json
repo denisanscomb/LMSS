@@ -2101,6 +2101,26 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-26T17:38:42.131257+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDa0Qu7gpJEIhpO0REOfc1p",
+      "label": "Settlement, Demand, and Collection Practice",
+      "old": [
+        "http://lmss.sali.org/R7LI3BONqNkXbKHKa0t3jyI",
+        "http://lmss.sali.org/RDigDgTiLFmt7iX3436yCOT"
+      ],
+      "new": [
+        "http://lmss.sali.org/RDigDgTiLFmt7iX3436yCOT"
+      ],
+      "old_labels": [
+        "Bankruptcy and Financial Restructuring Practice",
+        "Dispute Service"
+      ],
+      "new_labels": [
+        "Dispute Service"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-26T20:31:28.246784+00:00"
     }
   ],
   "withdrawn": [],
@@ -18707,5 +18727,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-26T20:26:44.367670+00:00"
+  "last_updated": "2026-10-26T20:31:29.590126+00:00"
 }

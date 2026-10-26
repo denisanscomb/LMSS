@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-26T20:26:43Z",
+    "generated_at": "2026-10-26T20:31:28Z",
     "node_count": 18518,
     "language": "en"
   },
@@ -205589,7 +205589,6 @@
       "status": "accepted",
       "deprecated": false,
       "parents": [
-        "http://lmss.sali.org/R7LI3BONqNkXbKHKa0t3jyI",
         "http://lmss.sali.org/RDigDgTiLFmt7iX3436yCOT"
       ],
       "definition": "Settlement and Demand Practice refers to the legal work performed in the course of a legal matter related to resolving disputes and negotiating settlements, including the drafting and sending of demand letters and the negotiation of settlement agreements, as well as collection of debts and judgments.",
