@@ -1037,6 +1037,13 @@
       "new": "Fiduciary Exception to Change of Recommendation Covenant",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-21T18:41:39.527093+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7rEmc9PaAz1JI1YpYZGaDg",
+      "old": "Fee and Employment Practice",
+      "new": "Bankruptcy Fee and Employment Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-26T17:39:51.079852+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18651,5 +18658,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-26T17:38:42.865813+00:00"
+  "last_updated": "2026-10-26T17:39:52.229876+00:00"
 }

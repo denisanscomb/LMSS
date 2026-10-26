@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-26T17:38:42Z",
+    "generated_at": "2026-10-26T17:39:51Z",
     "node_count": 18517,
     "language": "en"
   },
@@ -74367,7 +74367,7 @@
     },
     "http://lmss.sali.org/R7rEmc9PaAz1JI1YpYZGaDg": {
       "iri": "http://lmss.sali.org/R7rEmc9PaAz1JI1YpYZGaDg",
-      "label": "Fee and Employment Practice",
+      "label": "Bankruptcy Fee and Employment Practice",
       "status": "beta",
       "deprecated": false,
       "parents": [
