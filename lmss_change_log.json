@@ -734,6 +734,13 @@
       "parent_iri": "http://lmss.sali.org/Rzy5rvrKtuL8AwKrBTFfBQ",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-26T19:20:17.101799+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0cwT7jcyXr1VPjbZeMdhBX",
+      "label": "UK Prudential Regulation Authority",
+      "parent_iri": "http://lmss.sali.org/R9AX4LAp7IfL4nFnLZeugyY",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-26T22:44:55.036706+00:00"
     }
   ],
   "label_changed": [
@@ -18754,5 +18761,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-26T20:35:13.009594+00:00"
+  "last_updated": "2026-10-26T22:44:56.702337+00:00"
 }
