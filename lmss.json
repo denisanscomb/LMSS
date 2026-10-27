@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-27T18:30:04Z",
+    "generated_at": "2026-10-27T18:30:41Z",
     "node_count": 18521,
     "language": "en"
   },
@@ -147297,7 +147297,7 @@
     },
     "http://lmss.sali.org/RBJDPOwwJsAyqjjVVz3qFJ5": {
       "iri": "http://lmss.sali.org/RBJDPOwwJsAyqjjVVz3qFJ5",
-      "label": "Reverse Sub Merger",
+      "label": "Reverse Triangular Merger",
       "status": "beta",
       "deprecated": false,
       "parents": [

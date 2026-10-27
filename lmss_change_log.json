@@ -1135,6 +1135,13 @@
       "new": "Forward Triangular Merger",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-27T18:30:04.858447+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBJDPOwwJsAyqjjVVz3qFJ5",
+      "old": "Reverse Sub Merger",
+      "new": "Reverse Triangular Merger",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-27T18:30:41.039896+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18802,5 +18809,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-27T18:30:06.272373+00:00"
+  "last_updated": "2026-10-27T18:30:42.019849+00:00"
 }
