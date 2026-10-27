@@ -769,6 +769,13 @@
       "parent_iri": "http://lmss.sali.org/RBKXEdlGEMzeuinxEdRGBF5",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-27T18:49:49.156100+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/4WMjIRkiKst3oBpI7F1UUT",
+      "label": "Holdback Clause",
+      "parent_iri": "http://lmss.sali.org/RDe0RKU39BlhcyACJW30ZLc",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-27T18:52:33.510519+00:00"
     }
   ],
   "label_changed": [
@@ -18823,5 +18830,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-27T18:49:50.659319+00:00"
+  "last_updated": "2026-10-27T18:52:34.888473+00:00"
 }
