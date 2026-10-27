@@ -776,6 +776,13 @@
       "parent_iri": "http://lmss.sali.org/RDe0RKU39BlhcyACJW30ZLc",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-27T18:52:33.510519+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/7ONCH3RmTLirkK3g7mEyoR",
+      "label": "Consideration - Earnout",
+      "parent_iri": "http://lmss.sali.org/RBKXEdlGEMzeuinxEdRGBF5",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-27T19:01:53.941053+00:00"
     }
   ],
   "label_changed": [
@@ -18843,5 +18850,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-27T18:53:35.271994+00:00"
+  "last_updated": "2026-10-27T19:01:55.076567+00:00"
 }
