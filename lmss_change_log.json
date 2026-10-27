@@ -18760,6 +18760,19 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-27T18:29:20.733044+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/4WMjIRkiKst3oBpI7F1UUT",
+      "label": "Holdback Clause",
+      "changes": [
+        {
+          "field": "definition",
+          "old": null,
+          "new": "A holdback clause is used in M&A when the buyer sets aside a certain amount of the consideration until certain conditions are met."
+        }
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-27T18:53:33.821029+00:00"
     }
   ],
   "deleted": [
@@ -18830,5 +18843,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-27T18:52:34.888473+00:00"
+  "last_updated": "2026-10-27T18:53:35.271994+00:00"
 }

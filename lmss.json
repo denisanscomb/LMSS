@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-27T18:52:33Z",
+    "generated_at": "2026-10-27T18:53:33Z",
     "node_count": 18524,
     "language": "en"
   },
@@ -284717,7 +284717,7 @@
       "parents": [
         "http://lmss.sali.org/RDe0RKU39BlhcyACJW30ZLc"
       ],
-      "definition": null,
+      "definition": "A holdback clause is used in M&A when the buyer sets aside a certain amount of the consideration until certain conditions are met.",
       "examples": [],
       "pref_label": null,
       "sources": [],
