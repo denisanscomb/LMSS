@@ -18712,6 +18712,19 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-23T21:32:53.474047+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDgaxMxwHNPEds6Ebqu3Ga",
+      "label": "Forward Merger",
+      "changes": [
+        {
+          "field": "definition",
+          "old": null,
+          "new": "Also known as a direct merger."
+        }
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-27T18:29:20.733044+00:00"
     }
   ],
   "deleted": [
@@ -18782,5 +18795,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-27T18:29:14.608157+00:00"
+  "last_updated": "2026-10-27T18:29:21.776743+00:00"
 }
