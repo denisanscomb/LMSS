@@ -755,6 +755,13 @@
       "parent_iri": "http://lmss.sali.org/RIEnxRGFHkC4NiUh0fFXif",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-27T18:27:19.804231+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/1L2KVNAiwH7KNocQYhJuc4",
+      "label": "Two-Step Merger",
+      "parent_iri": "http://lmss.sali.org/RQK2hPELdaFnrBqNkJFzWO",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-27T18:32:18.026671+00:00"
     }
   ],
   "label_changed": [
@@ -18809,5 +18816,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-27T18:30:42.019849+00:00"
+  "last_updated": "2026-10-27T18:32:19.525216+00:00"
 }
