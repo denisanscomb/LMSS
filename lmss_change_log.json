@@ -783,6 +783,13 @@
       "parent_iri": "http://lmss.sali.org/RBKXEdlGEMzeuinxEdRGBF5",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-27T19:01:53.941053+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/1Wyyk2MUmTvnQrSDR0XVCQ",
+      "label": "Representations and Warranties Insurance (RWI)",
+      "parent_iri": "http://lmss.sali.org/R70jMZb6xYrVCXW6f3EbO1e",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-28T17:33:08.196688+00:00"
     }
   ],
   "label_changed": [
@@ -18850,5 +18857,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-27T19:01:55.076567+00:00"
+  "last_updated": "2026-10-28T17:33:09.912834+00:00"
 }
