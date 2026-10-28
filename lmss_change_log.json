@@ -832,6 +832,13 @@
       "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-28T19:47:45.694996+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/5atvRBIiTlNEf4uRIGQyeL",
+      "label": "Full Disclosure Representation",
+      "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-28T19:56:26.924288+00:00"
     }
   ],
   "label_changed": [
@@ -18941,5 +18948,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-28T19:47:46.946869+00:00"
+  "last_updated": "2026-10-28T19:56:28.390034+00:00"
 }
