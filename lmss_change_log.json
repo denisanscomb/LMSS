@@ -1198,6 +1198,13 @@
       "new": "Corporate Organization Representation",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-28T18:15:03.291913+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RdJXzcAmlfZcyYjgz46UzE",
+      "old": "Approval Representation",
+      "new": "Consents and Approvals Representation",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-28T18:17:15.354470+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18878,5 +18885,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-28T18:15:05.127493+00:00"
+  "last_updated": "2026-10-28T18:17:16.535573+00:00"
 }
