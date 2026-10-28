@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-28T19:46:11Z",
+    "generated_at": "2026-10-28T19:46:54Z",
     "node_count": 18531,
     "language": "en"
   },
@@ -284816,7 +284816,7 @@
     },
     "http://lmss.sali.org/1yWoBT3gQQ7D2iDThTfpBr": {
       "iri": "http://lmss.sali.org/1yWoBT3gQQ7D2iDThTfpBr",
-      "label": "Absence of Certain Changes / No MAE Representation",
+      "label": "Absence of Certain Changes / No Material Adverse Effect Representation",
       "status": "beta",
       "deprecated": false,
       "parents": [

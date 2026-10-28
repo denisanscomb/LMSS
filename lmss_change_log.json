@@ -1247,6 +1247,13 @@
       "new": "Absence of Certain Changes / No MAE Representation",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-28T19:46:11.581230+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/1yWoBT3gQQ7D2iDThTfpBr",
+      "old": "Absence of Certain Changes / No MAE Representation",
+      "new": "Absence of Certain Changes / No Material Adverse Effect Representation",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-28T19:46:54.830034+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18927,5 +18934,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-28T19:46:12.899821+00:00"
+  "last_updated": "2026-10-28T19:46:55.853865+00:00"
 }
