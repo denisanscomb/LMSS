@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-28T17:59:58Z",
+    "generated_at": "2026-10-28T18:15:03Z",
     "node_count": 18527,
     "language": "en"
   },
@@ -213456,7 +213456,7 @@
     },
     "http://lmss.sali.org/RDvQ6D4uKhEjQP7gLgNeaNH": {
       "iri": "http://lmss.sali.org/RDvQ6D4uKhEjQP7gLgNeaNH",
-      "label": "Organization Representation",
+      "label": "Corporate Organization Representation",
       "status": "beta",
       "deprecated": false,
       "parents": [

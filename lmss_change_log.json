@@ -1191,6 +1191,13 @@
       "new": "Consents and Approvals (No-Conflict) Representation",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-28T17:59:58.091081+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDvQ6D4uKhEjQP7gLgNeaNH",
+      "old": "Organization Representation",
+      "new": "Corporate Organization Representation",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-28T18:15:03.291913+00:00"
     }
   ],
   "deprecated_changed": [
@@ -18871,5 +18878,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-28T17:59:59.595899+00:00"
+  "last_updated": "2026-10-28T18:15:05.127493+00:00"
 }
