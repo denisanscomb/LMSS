@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-28T19:56:26Z",
-    "node_count": 18533,
+    "generated_at": "2026-10-28T19:57:14Z",
+    "node_count": 18534,
     "language": "en"
   },
   "nodes": {
@@ -284847,6 +284847,21 @@
     "http://lmss.sali.org/5atvRBIiTlNEf4uRIGQyeL": {
       "iri": "http://lmss.sali.org/5atvRBIiTlNEf4uRIGQyeL",
       "label": "Full Disclosure Representation",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/3B7bNJcHZafbw60t8fWjkp": {
+      "iri": "http://lmss.sali.org/3B7bNJcHZafbw60t8fWjkp",
+      "label": "Securities Reports Representation",
       "status": "beta",
       "deprecated": false,
       "parents": [
