@@ -797,6 +797,13 @@
       "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-28T17:58:35.078011+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/6xISopkiI7cX21JvydfblM",
+      "label": "Internal Controls Representation",
+      "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-28T18:18:09.106583+00:00"
     }
   ],
   "label_changed": [
@@ -18892,5 +18899,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-28T18:17:34.861995+00:00"
+  "last_updated": "2026-10-28T18:18:10.248939+00:00"
 }
