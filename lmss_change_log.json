@@ -825,6 +825,13 @@
       "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-28T18:55:42.227747+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0596MQ3gpdDki8X6viVXRO",
+      "label": "Compliance with Laws Representation",
+      "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-28T19:47:45.694996+00:00"
     }
   ],
   "label_changed": [
@@ -18934,5 +18941,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-28T19:46:55.853865+00:00"
+  "last_updated": "2026-10-28T19:47:46.946869+00:00"
 }
