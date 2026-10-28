@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-28T19:57:53Z",
-    "node_count": 18535,
+    "generated_at": "2026-10-28T19:59:32Z",
+    "node_count": 18536,
     "language": "en"
   },
   "nodes": {
@@ -284877,6 +284877,21 @@
     "http://lmss.sali.org/6MczYuQlPmP6U2cQM4eF4t": {
       "iri": "http://lmss.sali.org/6MczYuQlPmP6U2cQM4eF4t",
       "label": "Real Estate Representation",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/0D4dKkWSjycbPEmzvUi1qK": {
+      "iri": "http://lmss.sali.org/0D4dKkWSjycbPEmzvUi1qK",
+      "label": "Inventory Representation",
       "status": "beta",
       "deprecated": false,
       "parents": [

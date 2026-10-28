@@ -853,6 +853,13 @@
       "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-28T19:57:53.844624+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0D4dKkWSjycbPEmzvUi1qK",
+      "label": "Inventory Representation",
+      "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-28T19:59:32.308266+00:00"
     }
   ],
   "label_changed": [
@@ -18962,5 +18969,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-28T19:57:55.731230+00:00"
+  "last_updated": "2026-10-28T19:59:33.272466+00:00"
 }
