@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-28T19:59:32Z",
-    "node_count": 18536,
+    "generated_at": "2026-10-28T19:59:48Z",
+    "node_count": 18537,
     "language": "en"
   },
   "nodes": {
@@ -284892,6 +284892,21 @@
     "http://lmss.sali.org/0D4dKkWSjycbPEmzvUi1qK": {
       "iri": "http://lmss.sali.org/0D4dKkWSjycbPEmzvUi1qK",
       "label": "Inventory Representation",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/74kmSNccUn1Afs1a4HpEMV": {
+      "iri": "http://lmss.sali.org/74kmSNccUn1Afs1a4HpEMV",
+      "label": "Customers Representation",
       "status": "beta",
       "deprecated": false,
       "parents": [

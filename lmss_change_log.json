@@ -860,6 +860,13 @@
       "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-28T19:59:32.308266+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/74kmSNccUn1Afs1a4HpEMV",
+      "label": "Customers Representation",
+      "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-28T19:59:48.852860+00:00"
     }
   ],
   "label_changed": [
@@ -18969,5 +18976,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-28T19:59:33.272466+00:00"
+  "last_updated": "2026-10-28T19:59:49.625548+00:00"
 }
