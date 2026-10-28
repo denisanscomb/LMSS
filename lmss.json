@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-28T18:17:15Z",
+    "generated_at": "2026-10-28T18:17:33Z",
     "node_count": 18527,
     "language": "en"
   },
@@ -186413,7 +186413,7 @@
     },
     "http://lmss.sali.org/RCpSaARKOSsNNKiG6WsCKFb": {
       "iri": "http://lmss.sali.org/RCpSaARKOSsNNKiG6WsCKFb",
-      "label": "Consents and Approvals (No-Conflict) Representation",
+      "label": "No-Conflicts Representation",
       "status": "beta",
       "deprecated": false,
       "parents": [
