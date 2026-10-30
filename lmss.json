@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-30T17:25:09Z",
-    "node_count": 18538,
+    "generated_at": "2026-10-30T18:44:47Z",
+    "node_count": 18539,
     "language": "en"
   },
   "nodes": {
@@ -284922,6 +284922,21 @@
     "http://lmss.sali.org/0EjJRx7VzcpxfWjlqNyQhF": {
       "iri": "http://lmss.sali.org/0EjJRx7VzcpxfWjlqNyQhF",
       "label": "Representations and Warranties Survival Period",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/0R8m4LKtXDUS5Y9mkeU3Rc": {
+      "iri": "http://lmss.sali.org/0R8m4LKtXDUS5Y9mkeU3Rc",
+      "label": "Right of Offset",
       "status": "beta",
       "deprecated": false,
       "parents": [

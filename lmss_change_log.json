@@ -874,6 +874,13 @@
       "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T17:25:09.958823+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0R8m4LKtXDUS5Y9mkeU3Rc",
+      "label": "Right of Offset",
+      "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T18:44:47.126867+00:00"
     }
   ],
   "label_changed": [
@@ -19009,5 +19016,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T17:25:10.942304+00:00"
+  "last_updated": "2026-10-30T18:44:48.676033+00:00"
 }
