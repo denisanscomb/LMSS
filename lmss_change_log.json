@@ -867,6 +867,13 @@
       "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-28T19:59:48.852860+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0EjJRx7VzcpxfWjlqNyQhF",
+      "label": "Representations and Warranties Survival Period",
+      "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T17:25:09.958823+00:00"
     }
   ],
   "label_changed": [
@@ -19002,5 +19009,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T17:23:18.338325+00:00"
+  "last_updated": "2026-10-30T17:25:10.942304+00:00"
 }
