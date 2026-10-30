@@ -1366,6 +1366,13 @@
       "new": "Liability and Indemnification Terms Objectives",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T19:07:17.105752+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBAslwjHggAEqEvEC7C8oWJ",
+      "old": "Government Relations",
+      "new": "Government Relations Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T21:26:59.552806+00:00"
     }
   ],
   "deprecated_changed": [
@@ -19301,5 +19308,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T20:33:48.126844+00:00"
+  "last_updated": "2026-10-30T21:27:00.537869+00:00"
 }

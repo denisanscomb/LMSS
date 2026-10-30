@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-30T20:33:46Z",
+    "generated_at": "2026-10-30T21:26:59Z",
     "node_count": 18545,
     "language": "en"
   },
@@ -142769,7 +142769,7 @@
     },
     "http://lmss.sali.org/RBAslwjHggAEqEvEC7C8oWJ": {
       "iri": "http://lmss.sali.org/RBAslwjHggAEqEvEC7C8oWJ",
-      "label": "Government Relations",
+      "label": "Government Relations Practice",
       "status": "beta",
       "deprecated": false,
       "parents": [
