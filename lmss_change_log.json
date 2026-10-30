@@ -1380,6 +1380,13 @@
       "new": "Public Benefits Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T21:36:37.092080+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RDhvWIsvqcsGHZCNoyqb9OQ",
+      "old": "Regulatory Investigation",
+      "new": "Regulatory Investigations Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T21:36:59.307170+00:00"
     }
   ],
   "deprecated_changed": [
@@ -19315,5 +19322,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T21:36:38.035821+00:00"
+  "last_updated": "2026-10-30T21:37:00.288590+00:00"
 }
