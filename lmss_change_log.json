@@ -895,6 +895,13 @@
       "parent_iri": "http://lmss.sali.org/R70jMZb6xYrVCXW6f3EbO1e",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T18:52:49.199317+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/7QRjzrYxXhaLmOvB4VOiXZ",
+      "label": "Indemnification Exposure Cap",
+      "parent_iri": "http://lmss.sali.org/5LgUhmHQIsSFy0OwGMawqk",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T19:05:06.052022+00:00"
     }
   ],
   "label_changed": [
@@ -19253,5 +19260,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T18:55:17.206802+00:00"
+  "last_updated": "2026-10-30T19:05:06.999632+00:00"
 }
