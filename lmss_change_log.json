@@ -19197,6 +19197,19 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T17:23:17.163326+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RCrshoNA9Tc4Xswrj0v8nqX",
+      "label": "Knowledge Qualifiers",
+      "changes": [
+        {
+          "field": "definition",
+          "old": "Material Adverse Effect (MAE) Definition - \"Knowledge\" Qualifiers: A term used in legal agreements to describe a negative change or event that has occurred or is likely to occur, and which is known or should have been known by a party based on their level of knowledge or investigation.",
+          "new": "Knowledge Qualifiers limit liability based on the level of awareness of a party to an event."
+        }
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T19:56:40.045532+00:00"
     }
   ],
   "deleted": [
@@ -19267,5 +19280,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T19:07:18.156782+00:00"
+  "last_updated": "2026-10-30T19:56:41.055776+00:00"
 }

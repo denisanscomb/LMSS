@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-30T19:07:17Z",
+    "generated_at": "2026-10-30T19:56:40Z",
     "node_count": 18542,
     "language": "en"
   },
@@ -187236,7 +187236,7 @@
       "parents": [
         "http://lmss.sali.org/RQK2U69tYGz8WI47zMgaCP"
       ],
-      "definition": "Material Adverse Effect (MAE) Definition - \"Knowledge\" Qualifiers: A term used in legal agreements to describe a negative change or event that has occurred or is likely to occur, and which is known or should have been known by a party based on their level of knowledge or investigation.",
+      "definition": "Knowledge Qualifiers limit liability based on the level of awareness of a party to an event.",
       "examples": [],
       "pref_label": null,
       "sources": [],
