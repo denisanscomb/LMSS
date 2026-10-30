@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-30T21:26:59Z",
+    "generated_at": "2026-10-30T21:36:37Z",
     "node_count": 18545,
     "language": "en"
   },
@@ -104200,7 +104200,7 @@
     },
     "http://lmss.sali.org/R8xrmgt6tyyFf3b2CaMlaOe": {
       "iri": "http://lmss.sali.org/R8xrmgt6tyyFf3b2CaMlaOe",
-      "label": "Public Benefits",
+      "label": "Public Benefits Practice",
       "status": "beta",
       "deprecated": false,
       "parents": [

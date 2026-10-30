@@ -1373,6 +1373,13 @@
       "new": "Government Relations Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T21:26:59.552806+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8xrmgt6tyyFf3b2CaMlaOe",
+      "old": "Public Benefits",
+      "new": "Public Benefits Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T21:36:37.092080+00:00"
     }
   ],
   "deprecated_changed": [
@@ -19308,5 +19315,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T21:27:00.537869+00:00"
+  "last_updated": "2026-10-30T21:36:38.035821+00:00"
 }
