@@ -909,6 +909,13 @@
       "parent_iri": "http://lmss.sali.org/5LgUhmHQIsSFy0OwGMawqk",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T20:32:18.241264+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/5ZeEiKVdWTyqQFtDByV8tS",
+      "label": "Tipping Indemnification Basket",
+      "parent_iri": "http://lmss.sali.org/5AGTUR1b9yXVJSpMOHOqZi",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T20:33:22.579034+00:00"
     }
   ],
   "label_changed": [
@@ -19287,5 +19294,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T20:32:19.250903+00:00"
+  "last_updated": "2026-10-30T20:33:23.567906+00:00"
 }

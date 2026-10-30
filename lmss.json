@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-30T20:32:18Z",
-    "node_count": 18543,
+    "generated_at": "2026-10-30T20:33:22Z",
+    "node_count": 18544,
     "language": "en"
   },
   "nodes": {
@@ -285003,6 +285003,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/5LgUhmHQIsSFy0OwGMawqk"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/5ZeEiKVdWTyqQFtDByV8tS": {
+      "iri": "http://lmss.sali.org/5ZeEiKVdWTyqQFtDByV8tS",
+      "label": "Tipping Indemnification Basket",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/5AGTUR1b9yXVJSpMOHOqZi"
       ],
       "definition": null,
       "examples": [],
