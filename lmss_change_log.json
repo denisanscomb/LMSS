@@ -18906,6 +18906,19 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-27T18:53:33.821029+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R8h7iX0cG97aNHhEzak0e3U",
+      "label": "Materiality Scrapes",
+      "changes": [
+        {
+          "field": "definition",
+          "old": "Materiality Scrapes (aka Material Adverse Effect (MAE) Qualification) refers to a provision in a contract that allows a party to back out of the agreement if certain negative events or changes occur that would significantly impact the value or profitability of the subject matter of the contract.",
+          "new": "Materiality Scrapes (aka Material Adverse Effect (MAE) Qualification) refers to a provision that effectively eliminates, for indemnification purposes, any materiality qualifiers in the seller\u2019s reps and warranties for purposes of determining whether a breach of a rep or warranty has occurred"
+        }
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T17:22:15.109703+00:00"
     }
   ],
   "deleted": [
@@ -18976,5 +18989,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-28T19:59:49.625548+00:00"
+  "last_updated": "2026-10-30T17:22:16.641938+00:00"
 }
