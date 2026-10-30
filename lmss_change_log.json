@@ -1338,6 +1338,13 @@
       "new": "Bring-down of Representations and Warranties and Related Terms",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T18:45:48.757524+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/5LgUhmHQIsSFy0OwGMawqk",
+      "old": "Indemnification Terms Objectives",
+      "new": "Liability and Indemnification Terms Objectives",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T19:07:17.105752+00:00"
     }
   ],
   "deprecated_changed": [
@@ -19260,5 +19267,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T19:05:06.999632+00:00"
+  "last_updated": "2026-10-30T19:07:18.156782+00:00"
 }
