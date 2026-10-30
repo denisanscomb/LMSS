@@ -2479,6 +2479,30 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T18:53:57.515770+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0EjJRx7VzcpxfWjlqNyQhF",
+      "label": "Representations and Warranties Survival Period",
+      "old": [
+        "http://lmss.sali.org/1Wyyk2MUmTvnQrSDR0XVCQ",
+        "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz"
+      ],
+      "new": [
+        "http://lmss.sali.org/1Wyyk2MUmTvnQrSDR0XVCQ",
+        "http://lmss.sali.org/5LgUhmHQIsSFy0OwGMawqk",
+        "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz"
+      ],
+      "old_labels": [
+        "Representations and Warranties Insurance (RWI)",
+        "Bring-down of Representations and Warranties and Related Terms"
+      ],
+      "new_labels": [
+        "Representations and Warranties Insurance (RWI)",
+        "Indemnification Terms Objectives",
+        "Bring-down of Representations and Warranties and Related Terms"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T18:54:17.012303+00:00"
     }
   ],
   "withdrawn": [],
@@ -19137,5 +19161,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T18:53:58.450314+00:00"
+  "last_updated": "2026-10-30T18:54:18.131432+00:00"
 }
