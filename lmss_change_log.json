@@ -1310,6 +1310,13 @@
       "new": "Absence of Certain Changes / No Material Adverse Effect Representation",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-28T19:46:54.830034+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
+      "old": "Bring-down of Representations and Warranties",
+      "new": "Bring-down of Representations and Warranties and Related Terms",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T18:45:48.757524+00:00"
     }
   ],
   "deprecated_changed": [
@@ -19016,5 +19023,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T18:44:48.676033+00:00"
+  "last_updated": "2026-10-30T18:45:49.825026+00:00"
 }

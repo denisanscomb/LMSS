@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-30T18:44:47Z",
+    "generated_at": "2026-10-30T18:45:48Z",
     "node_count": 18539,
     "language": "en"
   },
@@ -128135,7 +128135,7 @@
     },
     "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz": {
       "iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
-      "label": "Bring-down of Representations and Warranties",
+      "label": "Bring-down of Representations and Warranties and Related Terms",
       "status": "beta",
       "deprecated": false,
       "parents": [
