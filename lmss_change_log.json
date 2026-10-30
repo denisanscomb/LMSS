@@ -2459,6 +2459,26 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T18:53:39.375666+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/1CMMkJpPA1Or4h8cnrva80",
+      "label": "Buyer Insurance",
+      "old": [
+        "http://lmss.sali.org/1Wyyk2MUmTvnQrSDR0XVCQ"
+      ],
+      "new": [
+        "http://lmss.sali.org/1Wyyk2MUmTvnQrSDR0XVCQ",
+        "http://lmss.sali.org/5LgUhmHQIsSFy0OwGMawqk"
+      ],
+      "old_labels": [
+        "Representations and Warranties Insurance (RWI)"
+      ],
+      "new_labels": [
+        "Representations and Warranties Insurance (RWI)",
+        "Indemnification Terms Objectives"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T18:53:57.515770+00:00"
     }
   ],
   "withdrawn": [],
@@ -19117,5 +19137,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T18:53:40.283339+00:00"
+  "last_updated": "2026-10-30T18:53:58.450314+00:00"
 }
