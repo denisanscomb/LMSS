@@ -881,6 +881,13 @@
       "parent_iri": "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T18:44:47.126867+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/1CMMkJpPA1Or4h8cnrva80",
+      "label": "Buyer Insurance",
+      "parent_iri": "http://lmss.sali.org/1Wyyk2MUmTvnQrSDR0XVCQ",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T18:51:47.382805+00:00"
     }
   ],
   "label_changed": [
@@ -19063,5 +19070,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T18:49:26.247221+00:00"
+  "last_updated": "2026-10-30T18:51:49.088773+00:00"
 }

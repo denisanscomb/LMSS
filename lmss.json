@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-30T18:49:25Z",
-    "node_count": 18539,
+    "generated_at": "2026-10-30T18:51:47Z",
+    "node_count": 18540,
     "language": "en"
   },
   "nodes": {
@@ -284942,6 +284942,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz",
+        "http://lmss.sali.org/1Wyyk2MUmTvnQrSDR0XVCQ"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/1CMMkJpPA1Or4h8cnrva80": {
+      "iri": "http://lmss.sali.org/1CMMkJpPA1Or4h8cnrva80",
+      "label": "Buyer Insurance",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
         "http://lmss.sali.org/1Wyyk2MUmTvnQrSDR0XVCQ"
       ],
       "definition": null,
