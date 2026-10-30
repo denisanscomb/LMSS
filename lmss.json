@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-30T21:55:34Z",
+    "generated_at": "2026-10-30T21:55:46Z",
     "node_count": 18545,
     "language": "en"
   },
@@ -145090,7 +145090,7 @@
     },
     "http://lmss.sali.org/RBELr11Jgeg3kZ8qb7nqfC5": {
       "iri": "http://lmss.sali.org/RBELr11Jgeg3kZ8qb7nqfC5",
-      "label": "Shelf Takedown",
+      "label": "Shelf Takedown Practice",
       "status": "beta",
       "deprecated": false,
       "parents": [

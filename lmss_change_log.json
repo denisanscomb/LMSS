@@ -1394,6 +1394,13 @@
       "new": "Shelf Registration Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T21:55:34.542698+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RBELr11Jgeg3kZ8qb7nqfC5",
+      "old": "Shelf Takedown",
+      "new": "Shelf Takedown Practice",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T21:55:46.641561+00:00"
     }
   ],
   "deprecated_changed": [
@@ -19329,5 +19336,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T21:55:35.529080+00:00"
+  "last_updated": "2026-10-30T21:55:47.572159+00:00"
 }
