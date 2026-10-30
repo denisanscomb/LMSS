@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-30T21:36:59Z",
+    "generated_at": "2026-10-30T21:55:34Z",
     "node_count": 18545,
     "language": "en"
   },
@@ -248481,7 +248481,7 @@
     },
     "http://lmss.sali.org/RgtlFP9wL8nEQ4Khh2uXSl": {
       "iri": "http://lmss.sali.org/RgtlFP9wL8nEQ4Khh2uXSl",
-      "label": "Shelf Registration",
+      "label": "Shelf Registration Practice",
       "status": "beta",
       "deprecated": false,
       "parents": [
