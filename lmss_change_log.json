@@ -2365,6 +2365,26 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-26T20:31:55.739277+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/0R8m4LKtXDUS5Y9mkeU3Rc",
+      "label": "Right of Offset",
+      "old": [
+        "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz"
+      ],
+      "new": [
+        "http://lmss.sali.org/1Wyyk2MUmTvnQrSDR0XVCQ",
+        "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz"
+      ],
+      "old_labels": [
+        "Bring-down of Representations and Warranties and Related Terms"
+      ],
+      "new_labels": [
+        "Representations and Warranties Insurance (RWI)",
+        "Bring-down of Representations and Warranties and Related Terms"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T18:48:13.531715+00:00"
     }
   ],
   "withdrawn": [],
@@ -19023,5 +19043,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T18:45:49.825026+00:00"
+  "last_updated": "2026-10-30T18:48:14.530537+00:00"
 }
