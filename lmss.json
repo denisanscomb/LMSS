@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-30T17:22:15Z",
+    "generated_at": "2026-10-30T17:23:17Z",
     "node_count": 18537,
     "language": "en"
   },
@@ -97450,7 +97450,7 @@
       "parents": [
         "http://lmss.sali.org/RQK2U69tYGz8WI47zMgaCP"
       ],
-      "definition": "Materiality Scrapes (aka Material Adverse Effect (MAE) Qualification) refers to a provision that effectively eliminates, for indemnification purposes, any materiality qualifiers in the seller’s reps and warranties for purposes of determining whether a breach of a rep or warranty has occurred",
+      "definition": "Materiality Scrapes (aka Materiality read‑out) refers to a provision that effectively eliminates, for indemnification purposes, any materiality qualifiers in the seller’s reps and warranties for purposes of determining whether a breach of a rep or warranty has occurred",
       "examples": [],
       "pref_label": null,
       "sources": [
