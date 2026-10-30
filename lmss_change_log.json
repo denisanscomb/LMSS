@@ -888,6 +888,13 @@
       "parent_iri": "http://lmss.sali.org/1Wyyk2MUmTvnQrSDR0XVCQ",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T18:51:47.382805+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/5LgUhmHQIsSFy0OwGMawqk",
+      "label": "Indemnification Terms Objectives",
+      "parent_iri": "http://lmss.sali.org/R70jMZb6xYrVCXW6f3EbO1e",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-10-30T18:52:49.199317+00:00"
     }
   ],
   "label_changed": [
@@ -19070,5 +19077,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-10-30T18:51:49.088773+00:00"
+  "last_updated": "2026-10-30T18:52:51.024711+00:00"
 }
