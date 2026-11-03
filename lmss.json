@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-10-30T21:55:46Z",
-    "node_count": 18545,
+    "generated_at": "2026-11-03T18:35:45Z",
+    "node_count": 18546,
     "language": "en"
   },
   "nodes": {
@@ -285033,6 +285033,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/5AGTUR1b9yXVJSpMOHOqZi"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/3Jse1OdLnPRLqIYFDfjHSU": {
+      "iri": "http://lmss.sali.org/3Jse1OdLnPRLqIYFDfjHSU",
+      "label": "Non-Binding Indication Letter (NBIL)",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/RxmjoCAyfDHKhwXHlwikL"
       ],
       "definition": null,
       "examples": [],
