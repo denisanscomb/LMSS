@@ -2714,6 +2714,26 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T18:55:16.205157+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/1H0k4FucXbzpa6b3p66DB5",
+      "label": "Anticipatory Breach",
+      "old": [
+        "http://lmss.sali.org/7YgqXYpbSglRbVhFDLvXXP"
+      ],
+      "new": [
+        "http://lmss.sali.org/2nZSNY5rZMaFXzNpcbu6Tu",
+        "http://lmss.sali.org/7YgqXYpbSglRbVhFDLvXXP"
+      ],
+      "old_labels": [
+        "Minor Breach"
+      ],
+      "new_labels": [
+        "Types of Breach",
+        "Minor Breach"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-11-03T19:45:56.046705+00:00"
     }
   ],
   "withdrawn": [],
@@ -19385,5 +19405,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-11-03T19:44:28.301748+00:00"
+  "last_updated": "2026-11-03T19:45:57.362626+00:00"
 }
