@@ -2798,6 +2798,26 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-11-03T21:19:52.439627+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/R7UFW7IONSy0FtRqWsms7Tx",
+      "label": "Fundamental Representations and Warranties",
+      "old": [
+        "http://lmss.sali.org/R8h7iX0cG97aNHhEzak0e3U",
+        "http://lmss.sali.org/RCV40j08zvRl2faFV72w9aQ"
+      ],
+      "new": [
+        "http://lmss.sali.org/RCV40j08zvRl2faFV72w9aQ"
+      ],
+      "old_labels": [
+        "Materiality Scrapes",
+        "Classifications of Representations and Warranties"
+      ],
+      "new_labels": [
+        "Classifications of Representations and Warranties"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-11-03T21:20:08.856568+00:00"
     }
   ],
   "withdrawn": [],
@@ -19469,5 +19489,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-11-03T21:19:54.017137+00:00"
+  "last_updated": "2026-11-03T21:20:10.029061+00:00"
 }
