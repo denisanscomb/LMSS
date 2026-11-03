@@ -979,6 +979,13 @@
       "parent_iri": "http://lmss.sali.org/R8h7iX0cG97aNHhEzak0e3U",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-11-03T21:20:46.926067+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/46ctjtm0CQ7fWd4R4yFDEB",
+      "label": "Double Materiality Scrape",
+      "parent_iri": "http://lmss.sali.org/R8h7iX0cG97aNHhEzak0e3U",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-11-03T21:21:07.288172+00:00"
     }
   ],
   "label_changed": [
@@ -19516,5 +19523,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-11-03T21:20:48.036233+00:00"
+  "last_updated": "2026-11-03T21:21:08.393356+00:00"
 }
