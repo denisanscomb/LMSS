@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-11-03T19:46:10Z",
+    "generated_at": "2026-11-03T21:08:19Z",
     "node_count": 18552,
     "language": "en"
   },
@@ -87499,7 +87499,8 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/R8jYAnNATrfoBxAtIKpf72X",
-        "http://lmss.sali.org/RDqSn32zsjxExcBFzIYxT2D"
+        "http://lmss.sali.org/RDqSn32zsjxExcBFzIYxT2D",
+        "http://lmss.sali.org/2nZSNY5rZMaFXzNpcbu6Tu"
       ],
       "definition": "Fraud Claims refer to civil or tort claims that involve intentional misrepresentation or deceitful conduct by one party towards another, including fraudulent misrepresentation, legal fraud, fraudulent transfers, and other forms of fraudulent behavior.",
       "examples": [],
