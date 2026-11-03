@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-11-03T21:20:20Z",
-    "node_count": 18552,
+    "generated_at": "2026-11-03T21:20:46Z",
+    "node_count": 18553,
     "language": "en"
   },
   "nodes": {
@@ -285136,6 +285136,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/2nZSNY5rZMaFXzNpcbu6Tu"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/3VLOyTNpiGUznD73lNAFVB": {
+      "iri": "http://lmss.sali.org/3VLOyTNpiGUznD73lNAFVB",
+      "label": "Single Materiality Scrape",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R8h7iX0cG97aNHhEzak0e3U"
       ],
       "definition": null,
       "examples": [],
