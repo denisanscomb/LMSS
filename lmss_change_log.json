@@ -2778,6 +2778,26 @@
       ],
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-11-03T21:08:19.294717+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RhPVhnve1MQnjMzFXHwMrG",
+      "label": "Capitalization Representations and Warranties",
+      "old": [
+        "http://lmss.sali.org/R8h7iX0cG97aNHhEzak0e3U",
+        "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz"
+      ],
+      "new": [
+        "http://lmss.sali.org/R9rCNhUCohkUGbQyd1C3uzz"
+      ],
+      "old_labels": [
+        "Materiality Scrapes",
+        "Bring-down of Representations and Warranties and Related Terms"
+      ],
+      "new_labels": [
+        "Bring-down of Representations and Warranties and Related Terms"
+      ],
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-11-03T21:19:52.439627+00:00"
     }
   ],
   "withdrawn": [],
@@ -19449,5 +19469,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-11-03T21:08:20.305936+00:00"
+  "last_updated": "2026-11-03T21:19:54.017137+00:00"
 }
