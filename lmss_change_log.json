@@ -986,6 +986,13 @@
       "parent_iri": "http://lmss.sali.org/R8h7iX0cG97aNHhEzak0e3U",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-11-03T21:21:07.288172+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/30F1UhrFhEDk1dmXRtaXup",
+      "label": "Material Adverse Effect Definition - Existing Fact or Condition Language",
+      "parent_iri": "http://lmss.sali.org/RgBq3kUkMfNYtUi93XIh0i",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-11-03T21:26:34.621721+00:00"
     }
   ],
   "label_changed": [
@@ -19530,5 +19537,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-11-03T21:25:42.787326+00:00"
+  "last_updated": "2026-11-03T21:26:35.692635+00:00"
 }
