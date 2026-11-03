@@ -1464,6 +1464,13 @@
       "new": "Shelf Takedown Practice",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-10-30T21:55:46.641561+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/RgBq3kUkMfNYtUi93XIh0i",
+      "old": "Material Adverse Effect Definition - Exceptions Language",
+      "new": "Material Adverse Effect Definition",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-11-03T21:25:41.414648+00:00"
     }
   ],
   "deprecated_changed": [
@@ -19523,5 +19530,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-11-03T21:21:08.393356+00:00"
+  "last_updated": "2026-11-03T21:25:42.787326+00:00"
 }
