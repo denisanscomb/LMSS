@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-11-03T18:35:45Z",
-    "node_count": 18546,
+    "generated_at": "2026-11-03T19:39:59Z",
+    "node_count": 18547,
     "language": "en"
   },
   "nodes": {
@@ -285048,6 +285048,21 @@
       "deprecated": false,
       "parents": [
         "http://lmss.sali.org/RxmjoCAyfDHKhwXHlwikL"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/2nZSNY5rZMaFXzNpcbu6Tu": {
+      "iri": "http://lmss.sali.org/2nZSNY5rZMaFXzNpcbu6Tu",
+      "label": "Types of Breach",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/R70jMZb6xYrVCXW6f3EbO1e"
       ],
       "definition": null,
       "examples": [],
