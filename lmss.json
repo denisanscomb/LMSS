@@ -1,8 +1,8 @@
 {
   "meta": {
     "version": "2.0",
-    "generated_at": "2026-11-03T19:41:15Z",
-    "node_count": 18548,
+    "generated_at": "2026-11-03T19:41:34Z",
+    "node_count": 18549,
     "language": "en"
   },
   "nodes": {
@@ -285074,6 +285074,21 @@
     "http://lmss.sali.org/387eJzRIJu1Lo8s7tLJfLX": {
       "iri": "http://lmss.sali.org/387eJzRIJu1Lo8s7tLJfLX",
       "label": "Actual Breach",
+      "status": "beta",
+      "deprecated": false,
+      "parents": [
+        "http://lmss.sali.org/2nZSNY5rZMaFXzNpcbu6Tu"
+      ],
+      "definition": null,
+      "examples": [],
+      "pref_label": null,
+      "sources": [],
+      "legacy_iri": null,
+      "node_type": "class"
+    },
+    "http://lmss.sali.org/4FvMbs9PuA6VGo61dJ0UpD": {
+      "iri": "http://lmss.sali.org/4FvMbs9PuA6VGo61dJ0UpD",
+      "label": "Alleged Breach",
       "status": "beta",
       "deprecated": false,
       "parents": [

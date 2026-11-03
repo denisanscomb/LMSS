@@ -944,6 +944,13 @@
       "parent_iri": "http://lmss.sali.org/2nZSNY5rZMaFXzNpcbu6Tu",
       "changed_by": "Jim Hannigan",
       "timestamp": "2026-11-03T19:41:15.700224+00:00"
+    },
+    {
+      "iri": "http://lmss.sali.org/4FvMbs9PuA6VGo61dJ0UpD",
+      "label": "Alleged Breach",
+      "parent_iri": "http://lmss.sali.org/2nZSNY5rZMaFXzNpcbu6Tu",
+      "changed_by": "Jim Hannigan",
+      "timestamp": "2026-11-03T19:41:34.759916+00:00"
     }
   ],
   "label_changed": [
@@ -19357,5 +19364,5 @@
       "timestamp": "2026-10-21T19:18:22.204805+00:00"
     }
   ],
-  "last_updated": "2026-11-03T19:41:17.205352+00:00"
+  "last_updated": "2026-11-03T19:41:35.804333+00:00"
 }
